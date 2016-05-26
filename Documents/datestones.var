@@ -1,0 +1,169 @@
+a$ 		aTemp$ 								General usage
+aa		armourID 							ID of armour
+ak 		attackDamage 						Damage done.
+am 		armourMagic 						Magic of armour
+b1$		space6$ 							6 space characters
+bl$		space15$ 							15 space characters
+c$ 		key$ 								Key pressed.
+c%		screenAddress 						Top left of screen
+ch( 	stats(								Statistics intelligence,intuition,ego,strength,constituion,dexterity
+d1		doorLower 							Lower door position
+d2 		doorUpper 							Upper door position 
+e0 		startClock 							Start Time
+ec 		clock 								Current Time
+ex# 	experience#							Experience
+gt		stonesCarried 						Stones currently carried ??
+h( 		__h( 								Appears to have no function anywhere in any version ???
+hi 		attackDisablesMonster 				Non zero if the attack stops monster attacking (spell ? Apshai ?)
+hn 		elixirs 							Number of elixirs
+hs 		healingSalves 						Number of healing salves (not used)
+i 		i
+i1 		i1 		
+ia 		ia
+ib		pMoveResult 						What happened when moving a player.
+ic 		_ic 								Index in get keystroke
+ih 		_ih 								Zeroed but never used.
+ii 		ii 
+ij 		ij
+ik 		ik
+im 		monsterAttackCounter 				Counts how many attacks
+in 		monsterCharmed 						Monster charmed after speaking
+ir 		_ir 								Index when redrawing adjacent rooms
+j 		j
+j0 		asciiOffset 						ASCII offset (ASCII -> binary)
+j6 		c64 								Constant 64 (@) never used
+j7 		dataElementStep 					Offset to next data item
+j8 		dataElements 						Number of data elements.
+j9 		cSolid 								Solid block character 191
+jj 		_intuition 							Used to store intuition in Drink salve
+jq 		c1 									Constant 1 never used.
+k 		k
+ka 		roomDataOrigin 						Origin of data used to describe room.
+kb 		__kb 								Appears to be hangover from Apshai ?
+kc 		killCount 							Number of kills.
+kf 		dirPlayer 							Player direction
+km 		arrowDamageAdjust 					Adjusts arrow damage for magic/normal.
+ko 		timeScoreMultiplier 				Used in score calculation
+kr 		currentRoom 						Current Room Number
+kz 		isAlive 							1 if player alive, 0 if player dead.
+l 		l
+l1 		l1
+l2 		l2
+l3 		l3
+l4 		l4
+le 		_le 								index used in timed key read
+ll 		ll
+lm 		_lm 								used in vertical wall
+lr 		wkRoom 								Working room number
+ls 		chanceTotal 						Used in random monster picking
+lx 		lx
+ly 		ly
+m 		m
+m$(		monsterName$(						Names of monsters
+m1 		m1
+ma 		monsterAttacksPerTurn 				How many attacks per turn.
+md 		monsterDamage 						Damage done on attack
+mf 		monsterDir 							Direction Monster is facing
+mh 		monsterHeal 						Monster healing
+ml 		monsterLevel 						Monster level
+mm 		energyLossScalar 					Adjusts fatigue loss during actions
+mn 		monsterInRoomCount 					How many monsters in room.
+mo 		monsterNameData 					RAM stored monster names, read by 880
+mp 		monsterWounds 						Monster wounds
+mq 		currentMonsterID 					ID of current monster
+mr 		__mr 								zeroed in monster , never used.
+ms 		monsterSize 						cannot get closer than this to boundary.
+mt 		roomMonsterType 					Type of room monster
+mw 		__mw 								zeroed in monster, never used.
+n 		contentID 							Contents of room (both trap and treasure seperately)
+nb 		isMonsterActive 					Ongoing monster
+nc$(	statName$(							Name of stat values.
+nm$		playerName$ 						Player name
+nn 		nn 									Used in room draw
+no 		roomInDir 							Room in each direction
+np 		trapID 								Number of trap
+ns 		noWall 								Don't draw a specific wall in room draw code
+nt 		exitRoom 							Room exit, 4 per room 3 = secret, 1 = open, 2 = door, 0 = closed
+nx 		nx
+ny 		ny
+o$ 		commandList$ 						List of commands
+p 		attackEffect 						Damage done, potentially
+p( 		playerInRoom?( 						Player position in room
+pa 		defSkill 							Defensive skill
+pb 		attSkill 							Attacking skill
+pc		wounds 								Wounds
+ps 		shieldID 							Shield ID number
+pw  	roomRisk 							How dangerous is a room ?
+q 		roomCount 							Number of rooms
+q1		monTypeCount 						Number of monster types (12)
+q2 		__q2
+r 		combatChance 						Chance value used in combat
+rf( 	secretDoorFound(					Set when door found
+rm 		magicArrows 						Magic Arrow count
+rn( 	secretDoorRepaired(					Set when secret door is repaired changing rooms
+rs 		arrows 								Arrow count
+s 		arrowDir 							Arrow direction (partial)
+s( 		roomSize?( 							Size of room
+se 		monsterSpeed 						Speed of monster
+sm 		swordMagic 							Magic of sword
+sp 		shieldPower 						Power of shield
+ss 		datestoneCount 						Number of datestones recovered
+t$( 	trapName$(							Name of traps
+ta 		fatigue 							Fatigue level
+tg 		trapIDToNameMap 					Map ID of trap to name ID
+tm( 	fatigueEffectOfAttack(				How an attack affects fatigue (used in 650)
+tn 		trapMonster 						Monster appears when trap fires
+tp 		trapChance 							% chance trap fires
+tr 		stonesInRoom 						Number of stones in room
+ts 		specialTreasureID 					Special treasures
+tv 		trapDamage 							Damage done by trap
+tw 		treasureWeight 						Weight of treasure
+tx( 	xSwordAnim( 						Drawing sword animation
+ty(		ySwordAnim(
+ua 		attacksPerTurnData 					How many times each monster attacks each turn.
+uc 		monsterHealData
+ud 		monsterDamageData
+ui 		monsterCharm 						How vulnerable is a monster to being charmed
+ul 		monsterLevelData
+up 		monsterWoundsData
+ur 		_monsterUnused 						Monster data that's never used.
+us 		monsterResistance	 				If 2 magic (can't be hit by sword)
+uv 		monsterSize 						Monster size data, can't get closer than this to a wall.
+uw 		randomMonsterChance 				Cumulative over monster types, chance of monster type i
+ux 		ux 									Used in arrow code
+uy 		uy
+v1 		wallLeft
+v2 		wallRight
+v3		loadWallLeft
+v4 		loadWallRight
+w1 		wallTop
+w2 		wallBottom
+w3 		loadWallTop
+w4 		loadWallBottom
+wc		weightCarried 							Amount of weight carried
+wm 		swordPower 								Power of sword
+wt 		initialStrength 						Initial strength characteristic
+x 		x
+x0 		xPlayerRoomStart						Position at turn start
+x1 		wallLeftData
+x2 		wallRightData
+xa 		xPlayer 								Player position
+xb 		xRoomBase 								Base X this room
+xl 		xPlayerRoom 							Player position in this room
+xm 		xMonster 								Monster position
+xp 		xTrap 									Positon of trap
+xr 		xTreasure 								Position of treasure
+xx		xx
+y 		y
+y0 		yPlayerRoomStart						Position at turn start
+y1 		wallTopData
+y2 		wallBottomData
+ya 		yPlayer 								Player position
+yb 		yRoomBase 								Base Y this room
+yl 		yPlayerRoom 							Player position in this room
+ym 		yMonster 								Monster position
+yp 		yTrap 									Position of trap
+yr 		yTreasure 								Position of treasure
+yy 		yy
+za( 	attackDamageOnAction(	 				How much damage done for each action
+zd( 	chanceMonsterHitOnAction(				Chance of monster hitting depends on each action

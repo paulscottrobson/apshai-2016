@@ -1,0 +1,4915 @@
+Skip to main content
+web
+texts
+movies
+audio
+software
+image
+logosearch
+Search the Archive
+Search
+ Search
+
+upload
+personSIGN IN
+Full text of "Atari Game Manual: Temple of Apshai Trilogy"
+See other formats
+edyx® 
+
+M COMPUTER SOFTWARE 
+
+Temple of Apshai 
+
+TRILOGY 
+
+
+
+The Book of Apshai 
+
+INSTRUCTION MANUAL 
+
+
+
+Xhe Temple of Apshai 
+Trilogy 
+
+
+
+Table of Contents 
+
+
+
+
+Introduction 3 
+
+The Oracle of Apshai 
+
+The One Minute Adventurer 6 
+
+Five Steps to the Gates of Apshai 
+Thirteen Ways to Stay Healthy 
+
+The Rules of Apshai 10 
+
+The Apshai Scrolls 
+
+A Master Reference Guide 22 
+
+The Temple of Apshai 
+
+The Upper Reaches of Apshai 
+
+The Curse of Ra 
+
+Legends and Lore 76 
+
+The Legend of the Apshai 
+DUNJONQUEST 
+
+1 
+
+
+
+Package Contents 
+
+
+
+The DunjonMasters here at Epyx have decreed that each special computer sys- 
+tem package contain everything you need to enjoy and fully appreciate the rich 
+and terrifying fantasy adventure the Temple Trilogy's three realms have in store: 
+The Temple of Apshai, The Upper Reaches of Apshai and the Curse of Ra. 
+
+► Game Disk: Contains the three Temple of Apshai Trilogy computer adven- 
+tures : The Temple of Apshai, the Upper Reaches of Apshai and the Curse of 
+Ra. If you purchased a Commodore/Atari version, each side of the disk 
+contains a complete version of the game for each computer system. Side I 
+is for the Commodore and Side 2 is for the Atari. 
+
+► Apshai Command Card: The Apshai Command Card provides you with a 
+handy "at-a-glance" reference card of all the special Commands for 
+moving, fighting and looting treasure in the three Trilogy realms. In addi- 
+tion, the Command Card also offers special joystick and mouse control in- 
+structions for the computer system indicated on the card. 
+
+► The Book of Apshai: This Book of Apshai offers a complete testament of 
+legends, lore and fascinating background information on the classic Temple 
+of Apshai Tribgy. Here you will find step-by-step instructions for quickly 
+mastering the "Rules of Apshai." The "Thirteen Ways to Staying Healthy" 
+reveals secret teachings and advice on surviving in the dungeons. And the 
+chilling "Oracle of Apshai" calls forth adventurers of every realm to destroy 
+the evil power of the Curse of Ra. You'll also find complete detailed 
+descriptions of each room and Level within the three Trilogy realms — all 
+568 of them to be exact — in "The Scrolls of Apshai. " The Book of Apshai 
+offers you, the serious adventurer, a complete testament of fantasy. 
+
+► IBM or Macintosh Apshai Guide: If you purchased an IBM PC or Apple 
+Macintosh version, a special "handbook" has been included that will con- 
+tain important operating system and game play instructions. 
+
+
+
+The Oracle 
+of Apshai 
+
+
+
+The Sphinx is drowsy, 
+
+Her wings are furled: 
+
+
+
+"Who'll tell me my secret. 
+The ages have kept? 
+
+
+
+Her ear is heavy, 
+
+She broods on the world. 
+
+
+
+I awaited the seer 
+
+While they slumbered and slept . . . 
+
+
+
+— Ralph Waldo Emerson 
+
+
+
+
+You are a lone adventurer, strong of sinew and keen of blade and mind. Your 
+senses must be sharp as the talons of an eagle, to warn you of swift dangers. 
+You must be strong. Only the stoutest of constitutions will stand against the 
+rigors of the journey that lies ahead. Yet, you must be subtle. Only a deep mind 
+can fathom the mysteries to be unfolded. Sometimes, when strength falters, 
+only sleight of hand will save you. 
+
+Yet all will not be darkness. At times your quick wit with a wandering 
+monster or cleverness in parlay with the Innkeeper will greatly advance your 
+course. Such is intelligence. Logic will also be indispensable to you. 
+
+In the end, when all visible resources are depleted, you will fall back upon 
+ego — the well of the self which is man's last reserve. 
+
+I could tell you tales of horror and madness, but this would not serve. The 
+Trilogy of Apshai, like truth and beauty, cannot be told. You must experience to 
+know. The ear is to listen, the heart is to feel, the soul is to know. These three 
+are the simple truths of Apshai. 
+
+So the realms of Apshai are three: first, the Temple; second, the Upper 
+Reaches; and last, The Curse of Ra. Of these three I can only say that the first is 
+a depth of blackness — its evil power lashes viciously at those who dare to enter 
+its very heart. To survive, your war-like spirit must be raised to a fever pitch. 
+The second knows tragedy, and the sage laugh that turns away from terror and 
+horror. It also knows the path of the spirit, shown by the priests. And the third 
+is a place of blinding sand and mazy rooms which are the sancturary of the 
+Sphinx — the spirit, the last mystery. 
+
+To fight or flee, such will be your dilemma in the Temple of Apshai. It's said 
+the Minotaur of Crete knew of such mazes. Therein you will meet creatures 
+hard and soft — carrion beasts and the foul leech. Therein, it is said, lie gems of 
+many colors, and healers such as the lilly. Of the friends you meet, natural and 
+unnatural, some may help you on your way. You can speak with some of them 
+in this place of many tongues. 
+
+
+
+3 
+
+
+
+"No cross, no crown" was said by the religious in ancient times. The price of 
+glory is pain. Your mark of courage will be your body, laced with wounds and 
+battered by blows. You will need salves and elixirs to heal yourself after 
+combatting the monsters of the Temple. 
+
+Within the Apshai Temple there is a compression of experience. Time seems 
+to slow as you tread the massive halls, their sheer number presenting a veil to 
+the senses. Then a creature lunges at you, and time stops. For this realm, 
+sharpen your sword well. Gather treasure, but know that the journey to the 
+Altar of Ra, in the third realm, is long. 
+
+After the eternal horrors of the Temple, you will seek respite in the second 
+realm, the Upper Reaches. You will still find struggle, but it will wear a different 
+face, of both comedy and tragedy. Instead of blood on monsters you'll find 
+ketchup on a chicken. Can the Gods be crazy, or are they laughing at you? The 
+effort of combat will now bring you to your knees, as you struggle onward. 
+
+In the Upper Reaches you will find "Benedic's Monastery," and "Merlis the 
+Mage." These places of prayer and magic spells may help show you the way. 
+You will find old bones which lay where they fell, daggers still clutched in 
+skinless hands. 
+
+Here, the tearing of limbs by rabid monsters has left spirits crazed in the 
+night. The dead cannot sleep and the living cannot awaken from their 
+nightmares. The simple souls who sought to strive and gain are now caught in 
+eternal anguish. 
+
+Many before you welcomed death by flame, by sword, by sand. But you must 
+go onward into the third realm, The Curse of Ra. 
+
+How long can you endure? This you will know in the third realm. Here is a 
+place where wealth of the senses is transcended by a greater importance. For, it 
+is said, only the Secret of Ra can relieve the curse that afflicts those here on 
+land. 
+
+You will pass the "Well of Forever." You will meet creatures of the desert- 
+— scorpions, jackals, the dust wraith. Sand storms will dim the glitter of 
+diamonds. Beyond the Sphinx is the Pyramid. 
+
+When your travail is greatest, think of Ozymandias: 
+
+
+
+I met a traveler from an antique land 
+
+Who said: Two vast and trunkless legs of stone 
+Stand in the desert . . . Near them, in the sand, 
+
+Half sunk, a shattered visage lies . . . 
+
+And on the pedestal these words appear: 
+
+"My name is Ozymandias, King of Kings. 
+
+Look on my works, ye mighty, and despair!" 
+
+Nothing beside remains. Round the decay 
+
+of that colossal wreck, boundless and bare 
+
+The lone and level sands stretch far away. 
+
+— Percy Bysshe Shelley 
+
+
+
+
+4 
+
+
+
+But, no grip of hand is surety against every terror, or poison. The truest heart 
+may fail when it sees the blackness of the dungeon, or itself. 
+
+All that lies before you cannot be foretold, even by the Oracle. I can tell 
+you that the greatest adventure lies not in the din of sword on shield, or in the 
+rapacious hoard of silver and diamond. Nor in the gleam of distant sunsets, or 
+the firm visage of mailed warriors who guard ancient kingdoms. It lies within. 
+Within Apshai. Within you. 
+
+I knew. The quest was to begin. 
+
+
+
+
+5 
+
+
+
+The One Minute 
+
+If you cannot resist the lure of the dungeon, and must rush forth, these Loading In- 
+structions and the Five Steps to the Gates of Apshai will help you survive for at least 
+a "one minute . ..." 
+
+Loading Instructions 
+
+Listed below are loading instructions for the Commodore 64/128, the Apple II sys- 
+tems (lie, lie and II Plus) and Atari Computers, 800 series. Special loading instruc- 
+tions for the Apple Macintosh and the IBM PC, PC XT and PC jr are included 
+either on the back of the Apshai Command Card or in a special booklet that may be 
+included in your package, if you purchased one of these versions of The Temple of Ap- 
+shai Trilogy. 
+
+
+
+Apple l¥ 
+
+
+
+Atari® Home 
+Computer 
+
+
+
+Commodore 
+64™/128™: 
+
+
+
+Commodore 
+64™/128™ 
+With Fast Load 
+Cartridge 
+
+
+
+Set up your Apple II Home Computer as shown in the 
+owner's manual. 
+
+Plug in your joystick as shown in the owner's manual. 
+Insert the Temple of Apshai Trilogy disk into the disk drive 
+with disk label facing up. . 
+Turn on the computer. 
+
+Set up your Atari Home Computer as shown in the owner's 
+manual. 
+
+Plug your joystick into Port One. 
+Turn on the Atari disk drive. 
+
+Insert the Temple of Apshai Trilogy disk into the disk drive 
+with the Atari disk label facing up. 
+Turn on the computer. 
+
+Set up your Commodore 64 Home Computer as shown in 
+the owners manual. For Commodore 128: Set the system to 
+C-64 Mode. 
+
+Plug your joystick into Port Two. 
+
+Turn on the computer and the disk drive. 
+
+Insert the Temple of Apshai Trilogy disk into the disk drive 
+
+with the Commodore disk label facing up. 
+
+Type: LOAD "*",8,1 and press the RETURN key. 
+
+Make sure your computer is turned off. 
+
+Insert the Fast Load Cartridge in the cartridge slot of your 
+
+computer. For Commodore 128: Set the system to C-64 
+
+Mode. 
+
+Insert the Temple of Apshai Trilogy disk into the disk drive 
+with the Commodore disk label facing up. 
+Turn on the computer and the disk drive. 
+
+Hold down the Commodore key [C=] and press the 
+RUN/STOP key to quickly load your game. 
+
+
+
+6 
+
+
+
+Adventurer 
+
+
+
+Five Steps to the Gates of Apshai 
+
+Once you've properly loaded The Temple of Apshai Trilogy disk, the time has come 
+for you to set out upon your personal fantasy adventure into the fabled dungeons of 
+Apshai. 
+
+1 Select a Character: The Innkeeper menu screen will 
+appear first. Have the "Innkeeper" select a character for 
+you. Select C> from the menu. 
+
+2 Name the Character: The following Character Screen lists 
+the attributes of the adventure character selected for you. 
+Name your character and type in his (or her!) name. (A 
+name can be up to 12 characters long.) Press RETURN. 
+
+3 Purchase Weapons and Armor: After you've named the 
+character, the next Innkeeper Screen summarizes your 
+character and lists his Weapons, Armor and amount of 
+Silver. A menu of choices are listed at the bottom of the 
+screen. Select any one, and a new Innkeeper "Purchase" 
+screen will greet you and ask you for what you're willing to 
+offer. 
+
+4 Haggling: The retail prices for the Innkeeper's 
+"adventureware" are listed at the bottom of the Purchase 
+screen. If you're in a hurry, you can go ahead and pay 
+"retail" and enter the dungeons broke — the Innkeeper will 
+take you for all you're worth! Or you can Haggle with the 
+Innkeeper and save yourself a few silver pieces for when 
+you're in dire need of a broad sword to clean out a nasty 
+little section of the dungeon. 
+
+5 Enter the Dungeons: First select G> ENTER THE 
+DUNGEON from the Main Innkeeper screen. Next select 
+from "Dungeon Screen" any one of the three Temple of 
+Apshai Trilogy adventure realms: The Temple of Apshai, 
+The Upper Reaches of Apshai or the dreaded Curse of 
+Ra. Once you choose the realm, you then select one of the 
+realm's four Levels to Enter. Level One is the easiest and 
+of course Level Four will be the most challenging. If you 
+make a mistake or change your mind press [0] for the next 
+selection choice and you can "Exit" to Main Innkeeper 
+screen. 
+
+Go ahead . . . Enter the dungeons . . . you may be just in 
+time for lunch . . . 
+
+
+
+7 
+
+
+
+
+Thirteen Steps to 
+Staying Healthy 
+
+
+
+1. Building a Character: It's easiest at first to let the Innkeeper choose a character 
+for you — one who will embody a balance of Strength, Constitution, Dexterity, 
+Intelligence, Intuition and Ego. 
+
+2. Buying Weapons and Armor: Don't arm yourself to the hilt. Remember, you 
+have to carry your Weapons and Armor. A heavy sword cuts down on your 
+mobility — a Great Sword requires two hands, which means you can't carry a 
+shield. You'll soon grow tired, weary and despite your impressive appearance 
+down at the "Ye Olde Dragon Tavern," in the heat of battle, you'll perform like 
+a giant tortoise on its back! 
+
+3. Entering the Temple: Try out Level One of a new realm. The three Trilogy 
+realms all offer different strange and terrifying challenges, so it's smart to take it 
+easy at first. Learn the first few rooms thoroughly, checking for hidden traps, 
+doorways and the monsters that join you for fun and games. Note the intensity 
+of their attacks, how badly you were wounded and how much strength you 
+retained after an attack. 
+
+4. To Move: Point your character in the direction you want to go by pressing letter 
+keys (If you have a joystick or mouse, refer to the Apshai Command Card): 
+
+[L] Left, [R] Right, [V] Volte^face (turn around 180°) 
+
+Press number keys 0 through 9 to Move that many steps. The character will 
+Move the number of steps you entered after you press the number. 
+
+5. To Fight: Fighting Commands are represented by letter keys on your keyboard. 
+To mix it up with a monster you press the appropriate letter key: [A] (Attack) is 
+a simple stroke with your sword, while [T] (Thrust) is a complete attack more 
+likely to wound your enemy, but also more likely to end in your being hurt. 
+
+6. Wounds and Fatigue: Despite your best efforts, you will suffer Wounds. Salves 
+(bought from the Innkeeper) and Elixirs (found in the dungeons) can heal you. 
+Fighting and moving cause Fatigue, which is a rating of your energy. You can 
+simply stop moving in order to rest and regain your energy. If Fatigue reads 100% 
+you are in great shape. If it's below zero (0), you are too tired to defend yourself. 
+Similarly, if Wounds are 100% then you're perfectly fit. Keep an eye on your 
+character's Fatigue and Wounds rating — it's the key information you need to 
+make snap decisions on whether to stand and fight or cut and run! 
+
+
+
+8 
+
+
+
+7. Levels: Each of the three Temple Trilogy realms has four Levels for a total of 
+twelve Levels. Level One will always be the easiest. Monsters grow progressively 
+fiercer and more intense in Levels Two thru Four. But the treasures and rewards 
+are richer. 
+
+8. Chance and Probability: How fast you — the mortal — press the Command letter 
+keys or the red fire button on the joystick will not help your character in a sword 
+melee with a giant Apshai ant. The outcome will be determined by your 
+character's Wounds and Fatigue, Strength and Weapons, whether he stands close 
+enough to the enemy to strike them, and so forth. 
+
+9. Monsters: They either haunt and terrorize a single room, or wander the passages 
+and rooms of Apshai in search of prey. Thus by fleeing a room you can only 
+escape the "single room" Monsters. 
+
+10. Commands: Keep the Apshai Command Card in front of you. It has most of the 
+basic Commands and instructions you'll need for your adventure into the 
+dungeons of Apshai. There are Commands that locate and open Secret Doors, 
+discover hidden Traps, administer healing Elixirs and allow you to speak with 
+monsters. 
+
+11. Experience: The longer your character survives the grueling adventure into the 
+dungeons of Apshai, the more Experience he (or she) gains. As long as you don't 
+turn your computer off, this "experience" remains with your character as you 
+proceed through the various Levels of the three Apshai realms. Even if you are 
+slain and rescued by Lowenthal the Wizard, your character will retain his 
+existing Experience rating. The higher your Experience, the better your chances 
+are of meeting the evermore terrifying challenges of the Temple dungeons (See 
+"Experience" on page 19). 
+
+12. Treasures: A glittering collection of Treasures are hidden within the dungeons of 
+Apshai. Use the "Get" command to pick them up. Once out of the dungeon, 
+the Innkeeper will be more than pleased to help you evaluate your Treasure. 
+
+13. Magic: You'll discover wonderful and exotic forms of Magic in special healing 
+potions, and in weapons of unusual power and in odd herbs and flowers. 
+
+
+
+The 
+
+
+
+Rules 
+
+
+
+
+Characters and Equipment 
+
+
+
+As in other role-playing games, in the Temple of Apshai Tribgy, the incredibly com- 
+plex factors that make up the simplest human being have been abstracted into a few 
+basic characteristics, related numerically from a low of 3, to an average of 10 or 11, 
+and up to a high of 18. The higher the number, the greater/higher/stronger is the at- 
+tribute. A 90-lb. weakling might have a Strength of 6 or less, while the average pro 
+football player would have a Strength of 14 or more. In published "Dungeons and 
+Dragons" games these numbers are typically obtained by rolling three dice; in this 
+case, however, the computer generates them randomly. 
+
+There are Six Basic Attributes — three physical and three mental — used in The Temple 
+of Apshai Tribgy to give a distinctive character to each dungeon adventurer: 
+
+Strength determines how physically strong your character is: how much weight 
+(treasure and equipment) he can carry, for instance. The Strength attribute also con- 
+trols how heavy a weapon he can use and how much damage one of his blows will do 
+to whomever (or whatever) he's fighting. • 
+
+Constitution is a measure of health and endurance — general physical fitness. The 
+higher the Constitution, the farther a character can run before collapsing, and the 
+more wounds he can sustain before dying. Since the ability to move or fight without 
+becoming exhausted is also responsible for keeping an adventurer alive, this is perhaps 
+the single most important attribute. 
+
+Dexterity is a matter of reflexes, coordination and even eyesight. Someone with high 
+Dexterity has an edge in weapons use; he's more likely to hit what he's aiming at and 
+is better at keeping his shield between an attacking weapon, claw, or mandible and 
+his mortal self. Someone with a really low Dexterity might be so clumsy he would 
+have trouble hitting the proverbial barn door. 
+
+Intelligence is reasonably self-explanatory, although in DUNJONQUEST it is limited 
+to what might be termed left-brain intelligence: the ability to reason logically and to 
+express oneself verbally. In many systems (including the one on which DUNJON- 
+QUEST is based), Intelligence is connected with the ability to work magic. In The 
+Temple of Apshai Trilogy the major function of Intelligence is to affect a character's 
+ability to bargain with the Innkeeper or to parley with monsters. 
+
+
+
+10 
+
+
+
+Intuition, the complement of Intelligence, is a measure of right-brain functions (real 
+and hypothetical): spatial perception, getting an answer from "inadequate" data, an 
+awareness of the spiritual or mystical aspects of the universe, ESP, and plain, pure 
+luck. Someone with a high Intuition attribute is more likely to detect Secret Doors, 
+Traps, and unpleasant surprises. A character with an exceptionably low Intuition 
+might be doing well to find an open doorway without a signpost. 
+
+Ego measures mental toughness and willpower. A character with a strong Ego can 
+more easily influence others (the Innkeeper or monsters) and is more likely to fight 
+fiercely despite his wounds ("When the going gets tough, the tough get going," as the 
+saying goes). Someone with a weak Ego will not do as well when the tide of battle 
+turns against him. 
+
+All three physical attributes may influence your choice of Equipment, which, in the 
+Temple Trilogy includes five kinds of bladed weapons (swords), a bow and arrows, five 
+types of armor, and two different sizes of shields. Generally, the bigger, heavier, and 
+more expensive an item, the more effective it is, although heavier Equipment is more 
+tiring to wear, use and carry. A larger sword is naturally capable of doing more 
+damage than a smaller one (though not every time), but it takes more strength to use. 
+A character with low Strength is restricted to the lighter weapons. The most powerful 
+weapon, a Great Sword, requires two hands and, consequently, cannot be used with a 
+shield. 
+
+Because it is not Fatiguing and is, at least until a monster gets within chomping 
+range, the safest form of combat, firing arrows at a beastie from a distance is often 
+desirable. However, arrows will only hit if the monster is on a straight line vertically 
+or horizontally away from you, and a good sword blow may do more damage. Trying 
+to play Robin Hood while an unpleasant critter is chewing or clawing on your arm is 
+also dangerous, but distance-shooting certainly saves wear and tear on the armor (and 
+body). 
+
+If you are hit, bit or struck, the armor you are wearing will protect you from some 
+damage. The attack has to penetrate a layer of leather or steel to get at the stuff that 
+counts — your tender flesh. Plate Armor naturally provides much more protection than 
+leather. Shields make it harder for you to be hit, although a particularly good chomp 
+may glance off the shield, the armored sleeve, and your character's body. A large 
+shield is, obviously, a bigger barrier to such incursions than a smaller one, but in the 
+hands of a character with high Dexterity a small shield may be nearly as effective. 
+
+Characters From Past Adventures 
+
+If you have played other Adventure Games — either on computers or with published 
+"Dungeons and Dragons" games — and wish to bring one of your favorite characters 
+from another game into The Temple of Apshai Trilogy, you are welcome to do so; in- 
+stead of having the Innkeeper create a new character for you, enter the attributes of 
+your old one. (Note, however, that these must be within DUN JON QUEST'S 
+"human" range of 3-18). Depending on the game system you are used to using, you 
+can substitute Intuition for Wisdom, Luck, Power, and Charisma for Ego,; while these 
+are not exact correspondences, this is the easiest method of "translation." 
+
+If you are bringing in "high-level" characters, you should be aware of certain im- 
+portant differences between DUNJONQUEST and other systems. Neither attributes 
+nor "hit points" are raised wholesale with increases in experience. A lOth-level fighter 
+is formidable but not a Sherman tank. Also, the limits of a microcomputer-based sys- 
+tem do not yet permit the use of all the different sorts of magic items you may have 
+picked up in published "Dungeons and Dragons" games. 
+
+
+
+11 
+
+
+
+If you wish to buy things from the Innkeeper, you should note that The Temple of Ap- 
+shai Tribgy is on the silver standard. If you are used to playing on a gold standard, 
+please alter your gold pieces to silver and your silver to copper. (You may reverse the 
+process if you wish to take your Temple Tribgy treasure back into your usual adventure 
+game world). 
+
+The first two Levels of each of the three Temple Trilogy realms are appropriate for 1st 
+to 3rd level "Dungeons and Dragons" characters, while the lower Levels are more 
+suited to 4th to 6th level characters. 
+
+We invite you to project yourself into the labyrinth. See and touch the treasures, hear 
+and smell the creatures that inhabit the place. Discover for yourself the fantasy world 
+of Apshai! 
+
+The Innkeeper 
+
+Since the rules of the Temple of Apshai Trilogy game are actually programmed into the 
+computer's memory, there is very little you need to know to play the game. There are, 
+however, a few basics you should be familiar with to make the best decisions during 
+your adventure. The following material describes the use of the Innkeeper and Dunjon- 
+Master segments of the game system, the Commands for Controlling your Character, 
+Gaining Experience, Evaluating Treasure, and Resurrecting a Character who dies. 
+
+Generating A Character 
+
+When the Temple of Apshai Trilogy begins, the wily Innkeeper greets you with a few 
+suggestions: 
+
+
+
+The Innkeeper Screen 
+
+
+
+
+A> Restore a Game in Progress: If you have saved a game on a disk, then this se- 
+lection restores that game. 
+
+B> Load a Character From Disk: If you have saved a character on a disk, this selec- 
+tion loads your character and escorts him to the Inn. 
+
+C> Create a New Character at Random: This selection asks the Innkeeper to create 
+a character (your playing piece). The Innkeeper will generate a character randomly 
+and display his (or her) attributes on the screen. 
+
+
+
+12 
+
+
+
+D> Enter Thine Own Character: This selection allows you to enter your own char- 
+acter (perhaps one you have used in some other adventure game). The DunjonMaster 
+(computer program) will prompt you for each one of your vital statistics and posses- 
+sions. 
+
+Once you have decided on a name for yourself, all of the above information should be 
+written down so that you can re-use it at a later date. 
+
+The Innkeeper creates a character — your playing piece for the game. This simply in- 
+volves answering a series of questions put to you by the Innkeeper. For your first game 
+you'll probably want the Innkeeper to create your characters, so you will select C> 
+from the main Innkeeper screen. In later forays into the dungeon you may want to 
+enter in characters created in other fantasy role-playing games, or you may want to 
+reuse a previously generated character (see Experience). You may take the same char- 
+acter into the dungeon as often as you like, until the character dies (see "On Death 
+And Dying"). If you have asked the Innkeeper to create a character for you, he will 
+create the following on your Character Screen: 
+
+
+
+The Innkeeper has helped you create the heroic character who will challenge the an- 
+cient mysteries and horrors of the fabled Temple of Apshai Trilogy. The chosen one 
+must then be outfitted with purchases of armor and weapons befitting his ilk, tempera- 
+ment and courage — and budget. The full Innkeeper screen now appears: 
+
+
+
+The Innkeeper's 
+Character Screen 
+
+
+
+
+The Innkeeper Screen 
+
+
+
+he could be a major force 
+amongst adventurers. 
+
+
+
+A young pup adventurer: 
+
+"Huptu" before a trip to the 
+Innkeeper. With his pauper's 
+
+
+
+budget, he will be lucky to 
+leave with a decent sword 
+and an arrow or two. The 
+Innkeeper gives him about 
+two minutes before being 
+"slain" and resurrected by a 
+"cleric." But he'll gain 
+
+
+
+valuable experience. He's 
+got plenty of brains, a 
+
+
+
+healthy ego and no common 
+sense — but if he keeps trying 
+
+
+
+
+13 
+
+
+
+Purchasing Equipment 
+
+The Innkeeper will query you for Purchases of Swords, Shields, Armor, a Bow, Ar- 
+rows, and healing Salves. For each of the first three categories, several items are listed 
+in the order of their effectiveness, with the first item being the least effective. For ex- 
+ample, under Armor the Innkeeper displays the following list: 
+
+
+
+Purchase Screen 
+
+
+
+
+Leather Armor is the least effective type and Full Plate is the best. It is also true that 
+the more effective types of Weapons and Armor weigh more, and so are more tiring 
+to carry and use (see Fatigue). 
+
+Haggling 
+
+Appearing next to each item for sale is an "offered price." But you have to Haggle 
+with the wily Innkeeper for a fair price by entering a number less than the suggested 
+price. You can, however, only purchase those items listed. Any other items, such as 
+magic weapons, magic armor, and alas, more money, have to be found in the 
+dungeon. 
+
+
+
+The Temple Awaits 
+
+The time has come to enter one of the three realms of The Temple of Apshai Trilogy. 
+Word has spread amongst the denizens of the dungeon: "A new adventurer has left 
+our friend the Innkeeper. . ."To begin your adventure select G> ENTER THE 
+TEMPLE, then Realm, and last, a Level from the Innkeeper menus. "He may be just 
+in time for lunch ..." 
+
+
+
+
+The DunjonMaster 
+
+Entering and Exiting the Dungeon 
+
+When you first Enter a realm Level, you will be just inside the door of the first room 
+on that Level. You will always Enter a Level of the dungeon at the same place. From 
+that point on, you are free to roam about on the Level as you please. To leave the 
+dungeon or to move to a different Level, you must first Exit the dungeon, then re- 
+enter at the entrance to the next Level. The four Levels for each of three Trilogy 
+realms are described in detail in The Apshai Scrolls Master Reference Guide beginning 
+on page 22 . 
+
+The Apshai Adventure Screen 
+
+The Apshai Adventure Screen is divided into two windows: The Map Window and the 
+DunjonMaster Window. As you move through the Trilogy realms, The DunjonMaster 
+renders a graphic map of the passageways and rooms of the dungeons on the Map 
+Window. Your character's status, including the number of the room you are currently 
+in, your physical condition, and how much weight you are currently carrying are 
+displayed on the DunjonMaster Window. The DunjonMaster reports blow-by-blow 
+accounts of battles with monsters in the bottom part of the DunjonMaster Window. 
+Messages are also posted in this section. There are a number of possible messages, and 
+more than one of these may appear at the same time. The circled numbers in the 
+illustration correspond to the descriptions under the sample display. 
+
+
+
+The Apshai 
+Adventure Screen 
+
+
+
+
+1 — The number of the Room you are in. Passages are also given Room Numbers. 
+
+2 — Shows your level of Wounds — see On Death And Dying. 
+
+3 — Shows your Fatigue level — see Fatigue. 
+
+4 — Shows how much Weight you are carrying. 
+
+5 — Shows how many healing Salves you have. 
+
+6 — Shows how many healing Elixirs you have. 
+
+7 — Shows the number of Arrows you are carrying. 
+
+8 — Shows the number of Magic Arrows you are carrying. 
+
+9 — Tells you what Monster you are fighting. 
+
+10 — Relays Messages and Battle Reports. 
+
+11 — Describes the last Treasure you found plus other important Messages. 
+
+15 
+
+
+
+Apshai Commands 
+
+There are a number of keyboard Commands available to you for maneuvering your 
+character through the Trilogy dungeons. These Commands are discussed below under 
+three major headings: Movement, Battle, and Special Commands. The Apshai Command 
+Card included in your game package summarizes them and their meanings. Make sure 
+that the Apshai Command Card you have is applicable to your computer system. 
+
+Movement 
+
+Check "Movement" on your Apshai Command Card. Movement lists all the movement 
+commands used for your computer type. For some computer versions, you must face 
+the direction in which you want to move by turning left, right, or completely around 
+(volte-face); then, you actually move when you enter the speed (0 to 9 feet per 
+"turn"). For other versions, such as the IBM PC, you simply move up, down, right, 
+or left by pressing the cursor arrow keys on the numerical keypad. 
+
+It is important to remember that the faster you move — the more steps per turn — the 
+more tired you become (see Fatigue). Since monsters cannot follow you out of a room, 
+you only need to "run" for short intervals. (Of course, if there is a monster in the 
+next room . . . ) 
+
+Movement: First, turn your character in the direction you want to go: (1) Right, Left 
+or Volte-face (turn around 180°); (2) You select the "speed" from 0 to 9 feet per 
+"turn." If you select "1" the character will take one step in the direction pointed. 
+Select "9" and the character will "leap" nine steps in that direction. 
+
+Joystick and Mouse Control: If you have a joystick or mouse connected to your system 
+you can move the character using these control devices. The Apshai Command Card 
+provides specific joystick or mouse instructions designed for your computer system. But 
+keep in mind, a joystick or mouse doesn't offer any "realtime" advantage in terms of 
+speed and reflexes as in arcade-style video games — just convenience. The omniscient 
+DunjonMaster reserves the right to judge the speed, power and outcome of your at- 
+tacks. 
+
+Battle Commands 
+
+There are several Battle Commands to choose from when doing battle with monsters: 
+Attack, Thrust, Parry, Bow and Arrows and Magic Arrows. Battle Commands are 
+represented by letter keys on your keyboard and for your quick reference are listed on 
+your Apshai Command Card. 
+
+Attack is a single swing of the sword, but you must be within striking distance of your 
+foe or the DunjonMaster will display the message: "TOO FAR TO HIT." 
+
+Thrust is an all out attack meant to inflict mortal wounds upon monsters — but also 
+more likely to end in your being hurt. Although a Thrust increases your chances to 
+strike and damage monsters, it also makes it easier for the monster to return the favor. 
+A Thrust also requires more energy which means your Fatigue rating drops substan- 
+tially. 
+
+Parry helps shield you against a monster's attack while you conserve your energy 
+(Fatigue). But if you Parry, you'll find it more difficult to hit the monster. Parrying 
+also allows you to rest and regain your energy without letting your guard down. 
+
+Bow and Arrow: When attacking with a Bow and Arrow, you must be facing the 
+monster (and the further away you are the better, since the monster cannot hurt you 
+
+
+
+16 
+
+
+
+unless it is within the melee distance). If you try to fire an Arrow while the monster 
+is within striking range of you, it becomes much easier for the monster to get a taste 
+of you since you won't be able to fend off his attack — the DunjonMaster correctly 
+assumes you are now hitting the monster over the head with a wooden Bow. 
+
+Magic Arrows also are good long range weapons, however a Magic Arrow is more 
+likely to hit its target and it does more damage than a standard arrow. Magic arrows 
+can only be found in the dungeons, since no one who has them is likely to sell them. 
+Firing either type of Arrow generally allows you to regain spent Fatigue. 
+
+Special Commands 
+
+The Special Commands vary from healing yourself to attempting to talk to a monster. 
+Each Special Command is listed on your Apshai Command Card and described in the 
+following paragraphs. 
+
+Opening Doors: Nearly every room has at least one Door (also see Secret Doors 
+below), which must be Opened before you can go through it. To Open a Door, go up 
+to within one foot of it. While facing it, (be sure you are aligned correctly) give the 
+"Open Door" command. The Door will then Open, and you may walk through it to 
+the next room. 
+
+Once a Door has been opened, it will stay Opened until you go to a different Level or 
+reinitialize the game. The Door also remains Open when you save the game. 
+
+Secret Doors: Secret Doors are hidden from view and must be located before they can 
+be opened. To locate a Secret Door, use the "Examine Wall for Secret Door" command 
+listed on the Apshai Command Card. You must be facing the wall you are examining, 
+but you don't have to be next to it. The DunjonMaster will respond with: 
+"NOTHING" or "A SECRET DOOR! . " 
+
+Do not be fooled by a "NOTHING" response; sometimes Secret Doors are only lo- 
+cated after the wall has been examined several times. When the Secret Door is found, 
+open it the same way you would an ordinary door. 
+
+Traps: A Trap may come in any one of a number of forms, ranging from darts that 
+spring out from a treasure chest to a pit in the floor of the room. They can be located 
+anywhere in a room, but a room does not have to have a Trap. You can search for a 
+Trap by following the Trap instructions on the Asphai Command Card. As with Secret 
+Doors, it is possible to miss a Trap, but again, you can search all you want. When 
+you search for and find a Trap, its location becomes obvious, and you can usually 
+avoid it by going around it. 
+
+Finding Treasure: All Treasures in the Trilogy realms are described in the Treasures 
+section by Level, in The Apshai Scrolls. To find out what kind of Treasure is in a par- 
+ticular room, you must first move to within one foot and grab it, using the appropriate 
+command. (Before doing so, it may be wise to search for Traps.) The DunjonMaster 
+then displays the number of that Treasure which can be referenced to The Apshai 
+Scrolls section. The DunjonMaster keeps track of all your Treasures for you and lists 
+each at the end of your adventure, back at the Inn (refer to Evaluating Treasure). 
+
+Note: If you find a sword in the dungeon, you must leave behind your old sword 
+before you can use the new one. Swords are jealous of their possessor's attentions! You 
+always have the option of ignoring the new sword and keeping your old one. 
+
+Dropping Treasure: If you should decide after picking up a Treasure that you don't 
+want it, you can put it down again at any time using the "Drop Treasure" command 
+and then entering the number of the Treasure you want to Drop (refer to the Apshai 
+Command Card). 
+
+17 
+
+
+
+Hearken or Query: All characters visiting the Temple of Apshai Trilogy have special 
+Listening Powers. By using the appropriate command on the Apshai Command Card, 
+you can sense the presence of another creature in the next room, even on the other 
+side of a wall or closed door. This command only works if you are facing the wall or 
+door you want to listen at. It is similar to the find Traps and Secret Door commands in 
+that there is a percentage chance you will not hear anything, even if there really is a 
+monster lurking in wait for you. When this command is used, the DunjonMaster tells 
+you that you found "NOTHING" or you are given the name of the lurking creature. 
+
+Speaking with Monsters: Speaking with Monsters is another ability you have as a 
+traveler in the dungeon. The command gives you a chance to avoid fighting with a 
+monster. If the monster is in a good mood when you speak to it, it will tell you to 
+pass by and leave any treasure it is guarding untouched. However, if you then attack 
+it or disturb the treasure, the monster will pursue you. But beware! Some monsters 
+hate all adventurers! 
+
+Healing: There are two items you may use to Heal your wounds: Salves and Elixirs. 
+Either of these may be taken at any time, including during combat. However, the 
+monster would then get a free swing. You can rest while you are healing yourself. 
+
+Salves: Each Salve purchased from the Innkeeper will heal some of the wounds you 
+have taken. This percentage varies depending on your character. The DunjonMaster 
+keeps track of how many Salves you have, and upon applying one, automatically ad- 
+justs the count remaining. You can see the change of the number next to the Wounds 
+heading on the DunjonMaster's screen. If you attempt to use more Salves than you 
+have available, the DunjonMaster will display the message: "NONE LEFT." 
+
+Elixirs (Ylixirs): These exotic liquid refreshments work the same way as Salves, ex- 
+cept they are more powerful and heal a larger percentage of your wounds. Elixirs must 
+be found as Treasure and cannot be purchased from the Innkeeper. To execute the 
+command, press the appropriate key identified on your Apshai Command Card. 
+
+Fatigue 
+
+Your Fatigue rating simply determines how much energy you have at any given time. 
+Exceptional exertion results in spent Fatigue, but what constitutes exceptional exer- 
+tion and how much Fatigue you Expend depends on your character. Walking normally 
+and firing arrows generally allow you to regain Fatigue. Activities such as running, 
+fighting, and carrying heavy loads all take more energy. The amount of energy you 
+Expend for any activity is also affected by your wounds. The more you are wounded, 
+the more it costs you in Fatigue to perform an activity. 
+
+If you use up more Fatigue than you have (if a negative number is displayed for 
+Fatigue), you fall on the floor and pant. You will not be allowed to attack or move 
+until you have recovered (that is, until a positive number is displayed). 
+
+The DunjonMaster keeps track of and displays for you the amount of energy you have 
+left. Therefore, if the display reads: "FATIGUE: 100%," all of your energy is available. 
+
+Regaining Spent Fatigue 
+
+While you cannot accumulate more energy than you started with, you can Regain pre- 
+viously spent energy in a variety of ways. The fastest way is to stop your movement 
+altogether (although this may be dangerous). You can also Regain it while firing an 
+arrow or simply walking more slowly. Executing special commands also allows you to 
+gain back Fatigue. Each time you rest, however, you have a chance of meeting a 
+wandering monster (see Monsters). 
+
+18 
+
+
+
+Evaluating Treasure 
+
+Once you are safely back at the Inn, the Innkeeper lists all of the Treasure you found 
+during the adventure and adds the value of your treasures to your silver. If you intend 
+to keep your character for use in future sessions, save him to disk, or make a note of 
+the total so that you can re-enter it at a later time. 
+
+Experience 
+
+Each time that you successfully venture into the dungeon you acquire Experience 
+points, which means you become a better and more powerful adventurer. This number 
+is determined for you by the DunjonMaster and is based on what you accomplish 
+while in the dungeon. Essentially, as you gain Experience, you become able to handle 
+more difficult situations — you will notice improvements in your character. These im- 
+provements come in "jumps" and may not be immediately obvious. One improvement 
+is that it becomes easier for you to hit a monster and more difficult for the monster to 
+hit you. 
+
+Once The Temple of Apshai Tribgy program is loaded, it keeps track of your Experi- 
+ence points on a cumulative basis. That is, if you return to the Inn to purchase more 
+supplies, the DunjonMaster remembers how many Experience points you earned on 
+that adventure and adds it them the Experience you gain for the next adventure. 
+
+Saving Characters and Games 
+
+The DunjonMaster keeps track of your character's Experience, Fatigue, Treasure, 
+Weapons and Strength and will continue to perform this task until you leave the dun- 
+geons and Save your character, quit the game and generate a new character or simply 
+turn off the computer. If you Saved the character to a disk, all the character's key at- 
+tributes at the time they're saved — the Innkeeper's Character Summary screen — will 
+be remembered by the DunjonMaster when the character is loaded for a new ad- 
+venture. 
+
+The Temple of Apshai Tribgy program system has been designed to save one game and 
+up to fifty adventure characters on the program disk. The Apshai Command Card or 
+Apshai Guide (for IBM PC and Macintosh) provides more specific Save instructions 
+and information for the computer system you own. 
+
+Save a Game: You can save a Temple Tribgy game by entering the "Save Game" 
+Command at any point or time in the game. You don't have to return to a menu 
+screen — the Save Game Command for your computer system is listed on your Apshai 
+Command Card and is entered directly into the keyboard. 
+
+Save a Character: To Save a character, you can either enter the "Save Character" 
+Command directly into the keyboard at any point or place in the game, or you can 
+select the "Save Thy Character to Disk" menu choice from the main Innkeeper screen. 
+The exact instructions for your computer system are listed on your Apshai Command 
+Card. 
+
+
+
+The Body and Soul 
+
+On Death and Dying 
+
+Any time a monster attacks you, there is a chance (depending on the type of armor 
+you are wearing) that it will penetrate your armor and Wound you. The DunjonMaster 
+keeps track of and displays how much damage you have taken on a percentage basis. 
+The number displayed next to Wounds is always the percentage that you have left. 
+For example, if the display reads: "WOUNDS: 90%, " you are still relatively healthy 
+because only 10% of you has been wounded. 
+
+You may Heal yourself at any time with either a Salve or an Elixir (see Healing). You 
+can continue to function normally until you reach 0% or less (except that your Fatigue 
+expenditure increases). At that point you are dead. However, there is a chance you 
+can be "raised from the dead." The following paragraphs explain this phenomenon in 
+more detail. 
+
+Getting Yourself Resurrected 
+
+If after all that hard work you should find yourself slain, don't panic. All may not yet 
+be lost. After all, you are not the only adventurer in the dungeon and some kind 
+soul, having stumbled across your body lying on the floor, may drag you out to safety 
+and see to it that you are Resurrected. Of course, having gone to all the trouble, he 
+will most likely want something in return as a thank you. 
+
+If you should die, you — and all your possessions — may simply be eaten by a wandering 
+monster. (Fresh adventurer is considered to be a delicacy by the monsters inhabiting 
+the dungeon). This is the worst case. You may also be found by one of three charac- 
+ters: a dwarf, a wizard, or a cleric, all of whom will ask for some type of payment. The 
+DunjonMaster tells you immediately which of the four cases has occurred. 
+
+
+
+20 
+
+
+
+Dungeon Dwellers 
+
+
+
+Friends of the Dungeon 
+
+The Dwarf: The second worst case is to be found by Olias the Dwarf. While he will 
+not eat you, he will take all your money, including any gems and jewels, and any 
+magical items you might have. This includes magic swords, armor, and arrows. You 
+will be alive but you will be very poor. 
+
+The Magic-User: Lowenthal the Wizard is only slightly easier to please than Olias. In 
+return for your life, he will take any special magical items you might have, leaving 
+you with your cash, gems, jewels, weapons, and armor. 
+
+The Cleric: The fortunate ones will be found by Bendic the wandering priest. This 
+kind soul (if he can find his way out of the dungeon), will resurrect you and simply 
+ask that you make a donation to his sect after you get back to the Inn. 
+
+Monsters 
+
+Although a complete description of the types of Monsters in the dungeon is contained 
+in the Apshai Scrolls "Monsters of Apshai' section, it is helpful to know that Monsters 
+can be either Fixed or Wandering. With a Fixed Monster, each time you go in a Level 
+of a realm, that monster (and all other items) reappears exactly where it was previ- 
+ously. These monsters are normally there to guard a particular treasure. A Wandering 
+Monster is generated randomly by the DunjonMaster and may appear anywhere at any 
+time on the appropriate Level. 
+
+You do not have to fear running into the most powerful monsters on the first Level of 
+any of the three Trilogy realms. Some discretion is used in generating them and only 
+first Level monsters are generated for the first Level of a Trilogy realm. Don't be 
+surprised though, if you find what first appears to be the same monster on more than 
+one Level, and then discover it to be tougher than you remembered — it too has 
+gained some "experience." 
+
+Neither Fixed nor Wandering Monsters ever follow you out of a room, but they will 
+be waiting for you when you go back into that room. Tempk of Apshai Tribgy 
+Monsters are extremely patient. . . 
+
+
+
+
+21 
+
+
+
+The Apshai 
+Scrolls 
+
+
+
+A Master Reference Guide 
+
+The following guide is arranged by game: first The Temple of Apshai, then 
+The Upper Reaches of Apshai, and last The Curse of Ra. Each game is further 
+broken down by Level. Detail on Rooms, Traps and Treasures is presented by 
+Level as well. 
+
+
+
+Temple of Apshai 23 
+
+This underground Temple is the last remembrance of the once mighty race of 
+Apshai. Steel your sword well for the dangers that lie ahead. This may be a land 
+of gems beyond compare, but it's also filled with monsters fierce and foul. 
+
+Upper Reaches of Apshai <> 50 
+
+The small town sitting above the ruins of Apshai is now open to adventurers 
+for exploration. The Innkeeper's Backyard, Merlis' Cottage, Olios' Cellar, and 
+Benedic's Monastery offer everything from the dead refusing to stay in their 
+graves to peculiar happenings in the vegetable garden. 
+
+There's clearing, painting and repairing to be done in the houses and yards 
+above Apshai. Perhaps not quite what you imagined when you started out, but 
+there's aplenty! 150 Rooms await. 
+
+
+
+Curse of Ra ♦ 62 
+
+Welcome to the fabled land of Ra, home of the Sphinx, the Pyramid, the 
+Altar of Ra, and through it all the Curse. This is the last of the Apshai 
+journey, wherein you will learn the secret of the Curse, and perhaps learn your 
+own fate. 
+
+
+
+22 
+
+
+
+Temple of Apshai 
+
+Monsters 
+
+
+
+Antmen— These creatures look like six foot long ants walking upright on their 
+hindmost legs with the other four legs free for manipulation. There are significant 
+differences between the classes of antmen but unfortunately these differences are 
+only discernible to other antmen. They attack with their mandibles and sometimes 
+with their forelegs as well. 
+
+Carrion Beasts— These creatures resemble squids equipped with spindly legs. 
+They generally have six tentacles with which they maul and crush their prey. Their 
+bodies are covered with a thin but hard carapace and they are able to travel along 
+walls and ceilings. 
+
+Centipedes— This represents a nest of the little buggers such as might take up 
+residence under a chest or in some remote crevice. Their bites are mildly 
+poisonous. 
+
+Ghouls— are misshapen creatures with longer than normal arms, wicked claws, 
+and a mouthful of razor sharp fangs which they ably employ to crack the bones of 
+their prey. They have tough hide and stand about seven feet tall. They are said to 
+eat the soul of their prey as it exits the dying body. 
+
+Giant Amoeba— This creature is a mass of gray protoplasm which has a strong 
+solvent effect on living flesh. They range from six to ten feet in diameter. 
+
+Giant Ants— These huge insects are four to six feet long and travel quickly on 
+their six legs. They attack their prey with their large mandibles. They are entirely 
+encased in a hard shell. 
+
+Giant Bombadier Beetles— are about three feet in diameter and fly around on a 
+pair of glossy wings. They can generate a good speed on their little wings and attack 
+their prey in bowling rushes. 
+
+Giant Fire Beetles— These melon sized creatures are copper red beetles which 
+are capable of generating tremendous heat within their bodies with which they 
+attack their prey. They have a thin shell but move about very quickly on the wing. 
+
+Giant Leeches— A disgusting rubbery grey, these are two or three feet long. They 
+travel about on a trail of slime and drain their prey of body fluids with their sucker 
+mouths. 
+
+Giant Mosquitos— have a three or four foot wingspan and maneuver their 
+slender bodies about rapidly through the air. They insert their proboscises into their 
+prey and drain the body fluids. 
+
+Giant Rats— are four feet tall at the shoulder and have nasty teeth. They are dirty 
+creatures and are recognizable by their musky smell. 
+
+
+
+23 
+
+
+
+Giant Spiders — look like a tarantula-black widow hybrid with a hairy black body 
+and black and red banded legs. They are reputed to be quite poisonous as one might 
+expect from the four or five foot size. 
+
+Giant Termites — are two to three feet long and move about on flimsy wings. They 
+have soft shells and are brown in color. 
+
+Giant Ticks— are foot long ticks and are dark brown or black in color. They are 
+hard shelled and leap about on their strong hindmost legs. They drain body fluids 
+with their proboscises. 
+
+Giant Wasps— are three or four feet in length and their thorax is tipped by a 
+paralyzing stinger. They are very mobile and will attempt to sting their prey into 
+submission before burying their prize for future consumption. 
+
+Jellies — are formless masses of translucent jelly about three feet high and six or 
+eight feet across; their touch dissolves flesh. They have no socially redeeming value. 
+
+Skeletal Bats — These feral creatures are bare skeletons of bats with red ember- 
+like eyes. They have wingspans of two or three feet and will attempt to bite their 
+prey with their sharp fangs. 
+
+Skeletons — are the animated skeletons of men which now stalk the underground 
+passages in search of victims. They are said to devour the soul of their victim as it 
+exits the dying body. 
+
+Spiders— This represents a whole nest of small spiders. These little killers are coal 
+black and have white eyes. They inhabit small dark spaces such as the insides 
+of chests. 
+
+Swamp Rats — are two to three feet long and are famed for their ravenous 
+appetites. They will fearlessly attack anything that moves or has a strong smell and 
+they eat anything they can swallow. They come in your choice of decorator colors. 
+
+Vampire Bats — These creatures inhabit the darker recesses of the dungeon. 
+They are generally black and have wingspans around three feet. They bite their 
+victims with their razor sharp fangs and drink the blood which flows from the 
+wound. 
+
+Wraiths— These ghostly creatures appear as skeletal figures garbed in hooded 
+frocks. Their eyes are fiery points of light within their cowls. They move effortlessly 
+about leaving no trace of their passing and are capable of passing through solid 
+matter at will. Many have died under the chill touch of their bony hands. 
+
+Zombies — These creatures are animated corpses which stalk the dark passages in 
+search of prey. They sometimes utilize weapons garnered from their prior victims. 
+They too are said to devour the souls of their victims as these exit the dying bodies. 
+
+
+
+24 
+
+
+
+Level 1 
+Rooms, Traps, Treasures 
+
+Level 1 — Rooms 
+
+Room One— The smooth stonework of the passageway floor shows that advanced 
+methods were used in its creation. A skeleton sprawls on the floor just inside the 
+door, a bony hand, still clutching a rusty dagger, outstretched toward the door to 
+safety. A faint roaring sound can be heard from the far end of the passage. 
+
+Room Two— A stream runs through this natural stone chamber. A narrow landing 
+adjacent to the corridor at the north end of the chamber allows easy access to 
+the stream. The water flows in from a cut in the west wall and flows out under 
+the north wall near the landing. In an alcove near one end of the landing there 
+are many urns and pots. The water is very clear and appears to be about three 
+feet deep. 
+
+Room Three— A finely carved and painted mural fills the east wall of the passage, 
+opposite the opening, depicting men tilling the soil. A ransacked backpack rests 
+under the mural. A roaring sound can be heard from the north. 
+
+Room Four— is a smoothly carved passage with a native granite ceiling. Slippery 
+green moss fills every crack and crevice in the room, and the air is filled with its 
+heavy scent. An empty purse lies in the southwest corner. A droning sound can 
+be heard. 
+
+Room Five — is a pond-filled room with a small landing to the south. The surface 
+of the sluggish water is covered with moss and a number of black lilies rest 
+peacefully upon the green matting. The water can be found to be about three feet 
+deep and flows almost imperceptibly in under the west wall and out under the 
+east wall. Some of the lilies can be reached from the landing. 
+
+Room Six— Water flows into this chamber from the northern part of the west wall 
+and out again through the southern part of the same wall. The surface of the water 
+is covered with moss and multi-colored lilies, some within reach of the landing. 
+Experiments will reveal the water to be about three feet deep. 
+
+Room Seven— The moss-covered water in this chamber appears to be three feet 
+deep, also. A rusting suit of platemail can be seen on the murky bottom. White lilies 
+rest on the surface of the pool. Water flows into the chamber from under the east 
+wall and out under the west wall. 
+
+Room Eight— is a passage with smooth stone walls and floor and a native rock 
+ceiling. A loud roaring sound may be heard from the north. A humanoid skull 
+rests on the floor in the middle of the passageway. 
+
+Room Nine — is of roughly hewn stone. The floor has been levelled by manmade 
+means, but the walls and ceiling are native rock. Cobwebs fill every crack and 
+hang from the ceiling, dancing slowly in the slight breeze. A cloying, sweet odor 
+fills the air. 
+
+
+
+25 
+
+
+
+Room Ten— The air of the room is filled with a cloying, sweet aroma, causing 
+the senses to reel. The walls of the room are covered with moss which is largely 
+brown and dried with only a few pale green patches remaining. Breaking off any 
+part of the green moss will reveal it as the source of the aroma. 
+
+Room Eleven — A mist drifts into the corridor from an opening in the west wall 
+and a deafening roar is heard. Moss covers the floor before the opening to the 
+west and a rusty sword lies on the mossy stone. 
+
+Room Twelve— The floor, walls, and ceiling of the chamber bear the marks of 
+tools. A glow fills the opening to the east and a foul, musty odor is in the air. 
+
+Room Thirteen— The room is well lighted by the phosphorescent glow emanating 
+from the greenish-yellow algae covering the high ceilings of native rock and 
+well-worked stone walls to the north and south. A broken bow lies in two pieces 
+on the floor near the east wall. 
+
+Room Fourteen— A loud roaring sound may be heard from the west end of the 
+passage. A pyramid of medium-sized stones fills one corner of the north wall at 
+the east end of the corridor. 
+
+Room Fifteen — is an irregular cave of native rock. The walls and floor are covered 
+with a heavy matting of multi-hued moss. The walls are brilliant reds, greens, and 
+blues, while the floor is a pastel yellow. A wooden box lies topless in the middle 
+of the cavern floor. Inside lies a well-made cloak. The material of the cloak seems 
+to shimmer in the torchlight. 
+
+Room Sixteen— Here you find the source of the roaring sound. A stream flows 
+into the chamber from the south, across the large water wheel, and plummets 
+into a pit in the floor of the cave. The bottom of the pit cannot be seen, but 
+experiments will indicate that it is a very long drop. 
+
+Room Seventeen— Only the floor has been smoothed in this chamber, the walls 
+and ceiling having been left in the natural state. The air smells of decaying vegetable 
+matter. A small mound of stones against the west wall in the north end of the 
+passage partially blocks the way to the north. 
+
+Room Eighteen— The passage reeks of spoiled and rotten matter. A strip of cloth 
+sticks out from beneath a mound of dirt in the southern portion of the passageway. 
+
+Room Nineteen— Small bones litter the floor of this chamber and crunch under 
+the boots of the incautious traveller. 
+
+Room Twenty— The walls of the room are covered with algae. Most of the algae 
+is black and rotten, but the few remaining brown patches have a nutty aroma, and, 
+if tasted, are reminiscent of spiced bread. 
+
+Room Twenty-one — The west wall of the cavern shows the marks of carving 
+tools, but the rest is natural rock. The floor of the room is overgrown with 
+mushrooms of two varieties. One has broad, flat caps and is white with brown 
+splotches, while the second variety has black, tightly rounded caps. 
+
+Room Twenty-two — This cavern is also overgrown with the same types of 
+mushrooms as are found in room twenty-one. A skeleton lies among the 
+mushrooms still clutching the remnants of a sack. 
+
+
+
+26 
+
+
+
+Room Twenty-three— The native rock wails of the room are covered with algae. 
+Most of the algae is black and rotten, but the remaining brown patches have a 
+nutty scent and taste like spiced bread. The exoskeleton of a huge ant lies in the 
+middle of the chamber. 
+
+Room Twenty-four— is a mossy, carved stone landing. The air is very humid 
+and smells of damp and mold. A slime-covered sack rests against the eastern wall 
+of the landing. 
+
+Room Twenty-five— A stagnant pond fills the south end of the carved stone 
+chamber, with a narrow landing at the south end. White mold covers the surface 
+of the water, save the southeast corner, where a gold-colored seaweed is in 
+evidence. Tests will reveal the water to be three feet deep, but the bottom of the 
+pool cannot be seen through the murk. 
+
+Room Twenty-six— A shallow pond fills most of the room. The surface of the 
+water is covered with a white mold, except in the northeast corner where a clump 
+of golden-brown seaweed is visible. 
+
+Room Twenty-seven— The floor of this tunnelled passage is streaked with slime. 
+A well-wrought iron candlestick lies at the southern end of the tunnel. 
+
+Room Twenty-eight— The tunnel floor is streaked with a stinking slime and 
+littered with small and medium-sized stones. 
+
+Room Twenty-nine— The odor of the slime coating the entire chamber floor is 
+overpowering. A trickle of water runs down the eastern wall and a small pool 
+has formed in a depression in the southeast corner of the room. A rigid body in 
+a finely woven cloak lies in the northeast corner. 
+
+Room Thirty— The smoothly carved northern and southern sections of the 
+chamber contrast sharply with the native granite found in the middle of the room, 
+suggesting that it has been widened out from a natural passage. A quiver and some 
+arrows lie on the floor in the middle of the chamber next to a sword and a 
+broken bow. 
+
+Room Thirty-one — is a narrow, low tunnel of native rock. Small slides of earth 
+and rock line the sides of the passage with a larger fall of stones near the eastern 
+end of the tunnel. A skeletal hand protrudes from the rockfall, an inscribed bronze 
+ring visible on one of the fingers. 
+
+Room Thirty-two— is a rough, five-foot wide tunnel with packed dirt walls, 
+floor, and ceiling. A shining trail of dried fluid runs the length of the tunnel and 
+the air smells of vanilla. Strange clicking sounds echo faintly through the passage. 
+
+Room Thirty-three— A shiny trail runs the length of the packed-earth tunnel 
+and the odor of vanilla fills the air. The clicking grows louder. 
+
+Room Thirty-four— A trail of shiny excretions run the length of the passage 
+and the vanilla odor is stronger than before. The clicking sound is clearly audible 
+from the north end of the tunnel. 
+
+Room Thirty-five— is a rough cave, carved out of the dense earth. The vanilla 
+odor clogs the nostrils and the clicking noises are still audible from within. 
+A handful of gems litters the dirt floor before the western wall. 
+
+
+
+27 
+
+
+
+Room Thirty-six — Vanilla fills the air and the clicking sound appears to emanate 
+from nearby. A fresh slide of earth against the north wall reveals the glitter of gems 
+amid the fallen earth. 
+
+Room Thirty-seven — The odor of vanilla is strong and the clicking sounds 
+continue. The east wall is studded with a number of glittering gems. 
+
+Room Thirty-eight — The tunnel appears to have been dug out of the hard 
+earth. A familiar trail runs the length of the passage and the odor of vanilla is 
+heavy. The clicking sound begins to fade. 
+
+Room Thirty-nine — The floor of the passage is lined with the excretion and the 
+aroma of vanilla fills the air. Clicking sounds echo faintly through the passage. 
+
+Room Forty — has been dug out of the surrounding hard-packed earth. The odor 
+of vanilla becomes exceedingly strong, but the clicking sound is barely audible 
+from within. Gems can be seem gleaming from the south wall. 
+
+Room Forty-one— The trail of dried fluid is heavier here and the odor of vanilla 
+is almost unbearable. The clicking sound grows louder in this passage. 
+
+Room Forty-two — The vanilla odor is cloyingly thick. Bones and gems litter the 
+floor along the north wall. The clicking sound is plainly audible within the cave. 
+
+Room Forty-three — The aroma of vanilla makes the senses reel and the floor of 
+the room is covered with the shiny stuff previously observed. Bones lie scattered 
+across the floor and the clicking sound grows fainter from within. Gems stud the 
+south wall. 
+
+Room Forty-four — The tunnel floor is heavily coated with dried fluid and the 
+aroma of vanilla is overpowering. The strange clicking sounds are now quite loud 
+in this passage. 
+
+Room Forty-five — is a large cavern. The shiny stuff is lighter inside than in the 
+connecting tunnel, but the vanilla odor is strong. The clicking sound appears to 
+emanate from within. A pile of shiny cocoons fills the northern half of the room 
+and gems are scattered about the dirt floor. 
+
+Room Forty-six— The vanilla odor is still strong. The ceiling of the cavern is hung 
+with the moldering bodies of various creatures, mostly men. The shiny stuff is 
+. heavy on the floor and the clicking sound is heard clearly. Gems are visible in 
+the dust of the cavern floor. 
+
+Room Forty-seven— The clicking is replaced by a droning sound. A skull and 
+some bones lie next to a quiver of arrows. 
+
+Room Forty-eight— The droning continues to echo from within the cavern. An 
+elaborately carved sword hilt sticks out from under a heap of rocks. Bootprints 
+lead up to the pile, but no other signs of disturbance can be seen. 
+
+Room Forty-nine— is a narrow, high-ceilinged passage. Small slides of earth 
+and stone line both walls of the tunnel. 
+
+Room Fifty— A forgotten backpack rests on the slimy stone against the middle 
+of the north wall. 
+
+Room Fifty-one— A rotting wood cabinet stands in the southwest corner of the 
+chamber, the brass lock of the cabinet broken. 
+
+
+
+28 
+
+
+
+Room Fifty-two— is a smoothly worked passage. Shallow alcoves line the north 
+wall, but are empty save for dust and an old boot that crumbles at a touch. The 
+carpet of dust on the smooth floor is undisturbed. 
+
+Room Fifty-three— The north and west walls of the chamber are lined with racks 
+of rusty farming and stoneworking implements. 
+
+Room Fifty-four— A dusty wooden chest sits in the southeast corner, the iron 
+lock rusted through and the wood decaying from the dampness. 
+
+Room Fifty-five— is a rough stone cave save for the smoothly carved north wall. 
+Dust covers the floor of the room several inches thick and cobwebs hang from 
+the ceiling and fill every crack of the floor and walls. A small box is visible in the 
+dust in the southwest corner. 
+
+Room Fifty-six— is a passage with rough stone walls and floor and a native 
+granite ceiling. The south wall of the passage is faced with smooth squarish stones 
+near the far end, while the floor and other walls are of a rough stone. A foul, musty 
+odor fills the air and a thin layer of moss coats the floor at the extreme end of 
+the passage. 
+
+
+
+LILY TRAP— The lilies give off a cloud of fine powder which causes severe swelling 
+in your throat. 
+
+NEEDLE TRAP— A needle springs from the lock in the immediate vicinity of your 
+hand. 
+
+PIT TRAP— A ten foot pit opens beneath your feet. 
+
+SPEAR TRAP— A spear thrusts out of the cabinet as it is opened and then 
+retracts. 
+
+MOLD TRAP— The yellow mold on the floor gives off a cloud of spores as it is 
+stepped on. These spores cause a severe coughing fit. 
+
+
+
+Level 1 — Traps 
+
+
+
+
+29 
+
+
+
+Level 1 — Treasures 
+
+TOl — Several of the lilies* can be reached. A vague memory of the healing 
+properties of some Apshaian flowers prompts you to pluck them for later perusal. 
+
+T02 — The delicate fragrance of the moss prompts you to place a sample in your 
+pack for later investigation (see Incense Moss*). 
+
+T03 — Any plant that glows in the dark must be worth something to someone so 
+you bag some (see Phosphorescent Algae*). 
+
+T04 — A beautiful cloak, wondrously light, yet tough as nails.* 
+
+T05— The aroma of the plant overcomes your better judgement and you taste a bit 
+of it. It is delicious and builds strong bodies twelve ways (see Food Algae*). 
+
+T06 — Having enough to worry about at present you forego sampling the mush- 
+rooms* for the time being and take some of each type for future examination. 
+
+T07 — Having spent some time up and down the coast you know of several 
+varieties of useful seaweed so you take some along (see Kelp*). 
+
+T08— In a pocket of the deceased you find four gold pieces. 
+
+T09 — The arrows all have silver points. 
+
+T10 — Resting in the dirt are five small diamonds*. 
+
+Til — Eight small diamonds* lay in the dirt. 
+
+T12— Four small diamonds* rest in the earth. 
+
+T13 — Laying in the dirt are seven small diamonds*. 
+
+T14 — The arrows have silver points. 
+
+T15— The sword has mithril worked into the blade, the hallmark of magical arms 
+
+and armor. There are also two gold pieces on the body. 
+
+T16— Inside the cabinet you find arrows with mithril worked into the points. 
+
+T17 — This much copper has got to be valuable so you slip the ingot into your sack 
+( see Copper Ingot* ) . 
+
+T18 — Inside the box you find two hundred silver pieces and a diamond ring*. 
+T20— Nothing of value. 
+
+* See Master Treasure Key 
+
+
+
+30 
+
+
+
+Level 2 
+Rooms, Traps, Treasures 
+
+
+
+Level 2 — Rooms 
+
+Room One— is a passage with native granite walls. The ceiling and floor have 
+been carved level. A low scraping sound vibrates through the floor. The air has 
+the musty smell of age and death. The dust on the floor is heavy near the walls, 
+but a clear path has been worn down the center of the passage. 
+Room Two— The walls of the tunnel have been smoothed and widened with 
+carving tools. A brass-bound wooden door is set into the north wall near the west 
+end of the passage, its broken lock hanging from the corroded hasp. The scraping 
+sound continues. The dusty path continues straight for a way, then disappears 
+into a side passage to the south. 
+
+Room Three— The dust on the stone floor shows signs of small animals, but is 
+otherwise undisturbed. The iron-bound door in the north wall hangs from rusty 
+hinges. A simple sliding bolt secures it. The scraping sound can be heard through 
+the floor and the fragrance of cut wood freshens the air. 
+Room Four— The east wall is of cut and worked stone. The brass-bound wooden 
+doors in the north and south walls are secured by rusty iron locks. The tracks of 
+small animals crisscross the floor between the doors and the air smells of musk 
+and rot. The sound of flowing water can be heard through the floor and a low 
+rumbling can be heard in the east end of the passage. ( 
+Room Five— is a corridor with stonework evident on the walls and floor. The 
+ceiling is of carved rock. The wooden doors to the east and west hang from 
+tarnished brass hinges. The scraping noise vibrates through the floor and the worn 
+- dusty path continues down the center of the corridor. 
+
+Room Six— Two doors, one to the east and one to the west, are wooden and 
+hang on brass hinges. The scraping sound grows fainter and the worn path along 
+the center of the corridor continues. 
+
+Room Seven— The north wall of the corridor is native granite, while the others 
+are masonry. The worn path leads to a wooden door in the west wall from which 
+dangles a heavy iron lock, now unfastened. The hinges of the door show signs 
+of frequent use. The scraping sound can still be heard faintly. 
+Room Eight— The path runs the length of the passage, then bends and disappears 
+to the north. The door in the west wall is iron-bound wood and hangs ajar from 
+rusty iron hinges. 
+
+
+
+31 
+
+
+
+Room Nine— The stone in the east wall only shows signs of workmanship. Racks 
+of motheaten robes, wadmal grey in color, fill the interior of the room. Against 
+the north wall stands a locked cedar cabinet and rack hung with the remains of 
+more elaborate black and green robes. A pungent odor fills the air and the dust 
+of the floor is undisturbed. 
+
+Room Ten— Furniture of various types is stacked around the walls and the 
+entire floor is covered with a layer of fine sawdust. The air is heavy with the smell 
+of different woods. A low scraping sound can be heard through the floor. 
+
+Room Eleven — A strong, musky odor intermingles with the smell of decay. Casks 
+and crates are stacked along the walls and in rows down the center of the room. 
+The sound of flowing water can be heard through the floor and a vibration can 
+be felt. 
+
+Room Twelve— A bench along the west wall of the small chamber holds a neat 
+array of jeweler's tools and a small forge on the south wall holds glowing embers. 
+The dusty floor shows signs of recent disturbance and a strong smell of vanilla 
+is in the air. 
+
+Room Thirteen — All four walls are covered with a heavy layer of soot. Rusty 
+tools and scrap iron litter the floor, several weapons in various states of repair 
+among them. A large forge against the north wall shows no signs of recent use. 
+The dirty floor is covered with a black, grimy dust. 
+
+Room Fourteen— is a small cave with stonework on the east wall and the other 
+walls, floor, and ceiling of carved rock. An iron chest sits against the south wall 
+with the key still in the lock. The floor shows signs of recent entry and the air 
+smells faintly of vanilla. 
+
+Room Fifteen — Three of the walls are lined with shelves containing dust-covered 
+beakers, phials, and jars. Evil looking substances in jars marked "eye of newt," 
+"hair of frog," etc. occupy a table in the center of the room. An even layer of dust 
+covers the floor. 
+
+Room Sixteen — is a chamber with stonework on the east and west walls. The 
+other walls, floor and ceiling are of carved rock. A long table in the center of the 
+room supports a network of flasks and tubing with a rusty iron oil burner beneath 
+one end. A table against the south wall holds beakers of colored liquids with strange 
+inscriptions and a desk in the southwest corner holds a tray with a pitcher of 
+slime-covered milky liquid. Scraps of paper litter the floor around the desk. An 
+even layer of dust covers the room. The doorways to the east and west are 
+obscured by shredded tapestries embroidered with strange glyphs. 
+
+Room Seventeen— is a small chamber. Tables covered with bolts of rotten cloth 
+press against the walls. The low scraping sound can be heard faintly through the 
+floor. 
+
+Room Eighteen— Mounds of sawdust cover the floor of the small room. The air 
+smells of decayed wood. The scraping sound can be heard clearly from the east. 
+
+Room Nineteen— The door in the west wall is wooden and has no latch. The 
+musty smelling room is filled with dusty weaving looms and other spinning and 
+sewing devices. The scraping sound can be heard through the floor. 
+
+
+
+32 
+
+
+
+Room Twenty — Leather hangings on the west wall cover a doorway. The room is 
+littered with sawdust and rusty woodworking tools. A metal shaft runs from floor 
+to ceiling in the southwest corner, attached to a large sawblade by a complex 
+system of gears and levers, all rusty from age and disuse. The scraping sound is 
+now very loud. If you move one of the levers, it will cause a loud screeching 
+beneath the floor. 
+
+Room Twenty-one — A small sack lies against the wall at the west end of the 
+passage. A well-worn path runs the length of the corridor. 
+
+Room Twenty-two — At the far end of the narrow passage there is a door of 
+brass-bound oak inscribed with strange glyphs. These give off an eerie green glow. 
+The floor is covered with an even layer of dust. 
+
+Room Twenty-three — Strange implements litter a table in the center of the room. 
+Here and there are various cages with the remains of animals. Jars filled with a 
+viscous liquid and holding a miscellany of body parts from assorted creatures are 
+stored in racks on the north wall. The door to the east is made of wood and is 
+secured with a rusty iron bolt. 
+
+Room Twenty-four— A desk sits against the north wall and a table and chair 
+against the south wall. Along the east wall is a bed with a chest visible beneath it. 
+The floor is covered with an unbroken layer of dust. The sound of flowing water 
+can be heard from an opening in the northeast corner where a stream flows 
+beneath the flooring. 
+
+Room Twenty-five — Remnants of books and scraps of paper rest on a rack along 
+the north wall while a desk fills most of the south wall, and a cabinet and bed are 
+flush with the east wall. The sound of flowing water comes from an opening in the 
+northeast corner where a stream flows beneath the flooring. 
+
+Room Twenty-six— Large vats and tubs are set into the floor of the small 
+chamber and heaps of rotting clothing litter the room. The sound of flowing water 
+can be heard through the moss-hung doorway to the east. The dusty floor is 
+undisturbed and the air smells of damp greenery. 
+
+Room Twenty-seven — An underground stream flows through an opening beneath 
+the eastern half of the floor. The walls and floor of the room are covered with moss 
+•and a malodorous slime. 
+
+Room Twenty-eight — The eastern door is wooden and is secured with a simple 
+latch. The room is filled with tables against the north and south walls, holding a 
+variety of metal working tools, all rusty with age. A small forge against the south 
+wall is filled with litter. The scraping sound is heard loudest in the northeast corner 
+where a metal shaft runs from floor to ceiling and is connected to a bank of 
+grinding wheels by a complex system of gears and levers. Moving the levers causes 
+the metal shaft to spin in place and a grinding sound comes from the attached 
+gears. 
+
+Room Twenty-nine— Shelves lining the walls hold a variety of rusted and 
+corroded metal scraps. The sound of flowing water can be heard through the 
+dusty floor. 
+
+Room Thirty — is a large cavern with stonework on the west wall and the western 
+half of the south wall. Bales, casks, and crates line the walls and the shelves in 
+the middle of the room. The air smells of musk and rot, and the tracks of small 
+animals abound. Water can be heard flowing beneath the floor. 
+
+
+
+33 
+
+
+
+Room Thirty-one — is a small cave. Racks of rusty weapons line the walls. 
+
+Room Thirty-two — A loud roaring sound can be heard from the northern end of 
+the passageway and bits of bone litter the floor. 
+
+Room Thirty-three— is a short passageway. A rumbling sound can be heard from 
+the opening to the north. 
+
+Room Thirty-four — A table and four chairs sit in the middle of the room and 
+two goblets lie on the floor nearby. Footprints crisscross the dusty floor. The 
+wooden door to the north stands ajar. The eastern door is wooden with iron 
+hinges and has a small barred window at eye level. A low rumbling sound is 
+audible from the west. 
+
+Room Thirty-five — Dark stains cover the carved stone floor in front of the door 
+to the west. The air smells of antiquity and death. 
+
+Room Thirty-six — Dark stains mar the floor of the passage and moans and the 
+rattling of chains echo faintly through the corridor. 
+
+Room Thirty-seven— The dark stains are thicker here and the sound of moans 
+and rattling chains grows louder. 
+
+Room Thirty-eight — is a large natural cavern. Manacles hang from the north 
+wall, one set still supporting a human skeleton. Various braziers, irons, and larger 
+implements of torture line the east and south walls. The air is musty and the 
+moaning and clanking continues though no source is evident. 
+
+Room Thirty-nine through Forty-two— form a narrow passage. The doors to 
+the north are of iron and have small barred windows at eye level and small slots 
+at ground level. All are secured with rusted iron slidebolts. The floor is spattered 
+with dark stains. The rattling of chains and a faint moaning echo through 
+the corridor. 
+
+Room Forty-three through Forty-six— also form a narrow passage. The doors 
+to the south are iron. Each has a small barred window at eye level and a small slot 
+at ground level. All are locked with slidebolts. Clanking chains and sorrowful 
+moaning echo through the passage. 
+
+Room Forty-seven through Fifty— are small, cramped cells. Each cell has a 
+wooden plank suspended by chains on the north wall. Clanking and moaning echo 
+faintly through the cellblock. 
+
+Room Fifty-one through Fifty-four— are small cells much like the others. The 
+clanking and moaning can be heard throughout. 
+
+Room Fifty-five — is a large natural cavern, except for the western portion of 
+the south wall, which is stonework. A large waterfall plummets from the ceiling 
+to a pool in the rear of the cavern, blanketing the area in mist. The chamber 
+reverberates with the roar of the cataract. Lying near the bank of the pond is a 
+moss-covered sack. The air is filled with the fresh scent of the many mosses and 
+ferns growing about. 
+
+Room Fifty-six— Six cots line the west wall with six lockers placed along the 
+north wall. A table and three broken chairs stand against the east wall. A strip of 
+cloth lies on the stone floor next to the table. 
+
+Room Fifty-seven— Dark stains and pieces of bone dot the floor. Faint moans 
+echo through the corridor. 
+
+
+
+34 
+
+
+
+Level 2 — Traps 
+
+CEILING TRAP — A steel blade descends from the ceiling, sweeps down the cor- 
+ridor in a long arc and then retracts. 
+
+NEEDLE TRAP— A needle springs from the lock very near to your hand. 
+
+PIT TRAP— A ten foot pit with pointy spikes in the bottom opens beneath 
+your feet. 
+
+SPEAR TRAP— A spear thrusts out of the wall and then retracts. 
+
+X-BOW TRAP— A crossbow quarrel fires from the wall opposite the door as you 
+enter the room. 
+
+Level 2 — Treasures 
+
+T01 — After coaxing open the cabinet you find a silver candelabra*, six silver 
+trays* and a bronze skull ring* with mithril specks for eyes. 
+
+T02— Fifty silver pieces. 
+
+T03 — On the workbench you find a small gold ingot* and a tiny box with two small 
+rubies* inside. 
+
+T04 — You stumble across a finely worked cloak (see Magic Cloak*). 
+
+T05 — On a shelf on the south wall you find two small silver ingots*, two copper 
+ingots* and a tiny box with three small diamonds* inside. 
+
+T06 — Finding nothing of value in the room you pour the milky liquid into a water- 
+skin, just in case you happen to be dying of thirst in the desert some day (see Milky 
+white Potion*). 
+
+T07 — After jimmying the lock you find five hundred copper pieces and four 
+hundred silver pieces as well as a porcelain talisman inscribed with mithril runes 
+(see Magic Talisman*). 
+
+T08 — On a back shelf of one of the racks you find a finely honed blade worked 
+with mithril. 
+
+T09 — The moldy sack splits at your touch spilling its contents of sixty gold pieces 
+to the ground. 
+
+T10 — A search of the lockers reveals that aside from rotten clothing, one contains 
+six hundred copper pieces, another contains a sack with sixty gold pieces, and the 
+last holds two hundred silver pieces and a diamond ring*. 
+
+Til — The sack contains one hundred silver pieces and thirty gold pieces. 
+
+T12 — Under the mattress on the bed you find a moneybelt containing two hundred 
+silver pieces and thirty gold pieces. 
+
+T13 — Seven silver coins. 
+
+
+
+35 
+
+
+
+Level 3 
+Rooms, Traps, Treasures 
+
+
+
+Level 3 — Rooms 
+
+Room One— is a natural passage with the floor carved level. Scattered bones 
+litter the area and a forgotten backpack rests against the wall half way down the 
+passage. The floor shows signs of frequent comings and goings and the odor of 
+vanilla is strong in the air. 
+
+Room Two — is a natural cavern. The opening to the north has been carved 
+through the rock. Bones litter the floor along the walls. 
+
+Room Three — is a natural cave. Many bones litter the floor along the walls. The 
+opening to the east has been dug through the rock wall. 
+
+Room Four— is a large cavern. Human and animal tracks mark the dusty floor. 
+A bright glint is visible near the top of a slide of rocks in the northwest corner. 
+
+Room Five — is a natural cave with a leveled floor. The body of a giant rat lies 
+in the southeast corner. The dusty floor shows signs of distrubance. 
+
+Room Six — is a natural cavern. A pile of litter fills the southwest corner. Animal 
+tracks can be seen on the dusty floor and the air smells of musk and decay. The 
+opening to the north shows tool marks. 
+
+Room Seven— is a natural cave. An old boot lies near a mound of earth in the 
+southwest corner. The dusty floor is undisturbed. 
+
+Room Eight— is also a natural cave. The opening to the west has been carved 
+through solid granite. Small slides line the walls and a heap of bones fills the 
+southeast corner. 
+
+Room Nine — is a natural gallery with a high vaulted ceiling and a rough stone 
+floor. A heap of litter and bones fills the southeast corner and the floor shows the 
+tracks of large animals. The air smells of musk and decay. The opening to the 
+south has been widened with carving tools. 
+
+Room Ten — is a large natural cavern. Tracks lead into the chamber that suggest 
+something heavy being dragged. The floor is covered with slimy red muck. A pile 
+of body parts and gnawed bones occupies the northwest corner and the air reeks 
+of decay and death. 
+
+Room Eleven — is cave with little evidence of use in the dust on the floor. A 
+brilliant glint of light beckons from the dust of the southeast corner. 
+
+
+
+36 
+
+
+
+Room Twelve— is a small cave with leveled floor. The opening to the east has 
+been carved through solid rock. The dusty floor is largely undisturbed save for 
+a small slide of earth in the southwest corner. 
+
+Room Thirteen — is a small cave. The dirt floor shows the tracks of large animals. 
+Bones litter the northwest and southwest corners. 
+
+Room Fourteen— is a wedge-shaped cavern with the ceiling sloping to meet the 
+floor in the southwest corner. The dusty floor is much disturbed near the opening 
+to the east. A smelly mound of trash fills the southwest corner. 
+
+Room Fifteen — is a natural cave. A large boulder fills the northwest corner. A 
+bony hand protruding from beneath it still clutches a small ruby. 
+
+Room Sixteen— is a small cave. The opening to the west has been carved through 
+the rock. The dusty floor is undisturbed. A pouch is visible on the belt of a corpse 
+lying in the southeast corner. 
+
+Room Seventeen — is a narrow tunnel bored through native rock. The rough 
+stone floor is littered with bones and a small skull rests in the north end of the 
+passage. No tracks can be seen. 
+
+Room Eighteen— is a natural passage. A small sack rests against the south wall 
+halfway down the passage. The air is filled with a musky odor. The earthen floor 
+is covered with the tracks of small animals. 
+
+Room Nineteen — is a passage with the floor and walls of carved stone and a 
+native stone ceiling. The opening to the east has been carved through the rock. 
+The dusty floor shows signs of much activity. A discarded cloak lies against the 
+west wall. 
+
+Room Twenty — is a narrow excavated passage. An abandoned backpack rests 
+on the floor in the eastern end of the passage. 
+
+Room Twenty-one— is a narrow passage. Half of a giant rat lies in the southern 
+end of the passage. 
+
+Room Twenty-two— is a narrow passage. The opening to the north has been 
+carved through the stone wall. The dusty floor shows signs of some disturbance. 
+
+Room Twenty-three — is a narrow passage. The air smells faintly of vanilla. A 
+rusty pick lies in the dirt at the western end of the passage. 
+
+Room Twenty-four — is a natural tunnel through the rock. Some signs of digging 
+are evident at the southern end of the passage though no toolmarks can be 
+discerned. The air is filled with the scent of vanilla and the floor shows the marks 
+of frequent comings and goings. Scraping and clicking sounds are faintly audible 
+from the north. 
+
+Room Twenty-five — is a small passage carved through the surrounding rock. 
+
+Room Twenty-six — is a well trafficked passage with carved rock walls, floor 
+and ceiling. A broken shovel protrudes from a mound of earth near the north end 
+of the passage. 
+
+Room Twenty-seven — is a narrow corridor that shows signs of frequent passage. 
+A litter of small bones lines the walls and a well-preserved human skull grins from 
+against the north wall halfway down the passage. The air smells faintly of vanilla. 
+
+
+
+* See Master Treasure Key 
+
+
+
+37 
+
+
+
+Room Twenty-eight— is a rough, narrow tunnel. The floor is bare except for 
+a skeleton near the opening to the south. Cobwebs hang in the passage and 
+scraping and clicking sounds can be heard from the west. The air smells strongly 
+of death and decay. 
+
+Room Twenty-nine— is a small cave with the floor carved level. The dusty floor 
+shows some marks of disturbance toward the opening to the east. The opening 
+to the north has been carved through the stone. A single emerald gleams from 
+midway up the west wall of the cave. 
+
+Room Thirty— is a small, unoccupied cave except for a scattering of bones and 
+a small heap of offal in the northeast corner. 
+
+Room Thirty-one— is a small excavated room. The room is coated with dust and 
+the air is heavy with the odor of decaying flesh. An antman body lies half buried 
+under a slide of earth in the southeast corner. 
+
+Room Thirty-two — is a small excavated room. A discarded basket lies in the 
+southeast corner. 
+
+Room Thirty-three — is a huge vaulted cavern with a leveled floor. The walls 
+show the marks of ancient mining operations and a heap of rusting tools sits in 
+the northeast corner. The floor shows marks of occasional transit through the 
+opening to the west, which has been widened with tools. 
+
+Room Thirty-four — is a natural cave. The cave is covered with dust and the air is 
+foul. A human body lies in the southwest corner. 
+
+Room Thirty-five— is a large natural cavern. The rough stone walls and vaulted 
+ceiling are draped with filmy webs. The entire southeast corner is obscured by 
+a huge web. The dusty floor is littered with a variety of bones and exoskeletons. 
+
+Room Thirty-six— is a smallish excavated chamber. A mound of freshly dug dirt 
+in the northeast corner evidences a yellow glitter. 
+
+Room Thirty-seven — is a long cavern with bones littering the floor. A foot-worn 
+path runs between the two openings. Off the path, travel is hindered by the many 
+and bizarre rock formations. One of these resembles a giant hunting insect. A dead 
+antman lies in the northwest corner. 
+
+Room Thirty-eight— is a large cavern with the floor carved level. A worn path 
+runs between the two openings. A large wooden box is set against the wall in the 
+southeast corner. 
+
+Room Thirty-nine — is a small natural cave. The dusty floor evidences much 
+disturbance. Scattered bones litter the dust and a discarded backpack rests in 
+the northeast corner. The air smells of ancient death. 
+
+Room Forty — is a natural cave with rough stone walls, floor and ceiling. The 
+aroma of vanilla fills the air. The southeast corner holds a heap of fresh earth 
+with the glint of gold visible. 
+
+Room Forty-one— is a natural cave. The opening to the west has been dug 
+through the earth but shows no toolmarks. The floor is well trodden and the smell 
+of vanilla fills the air. A pile of baskets leans against the wall in the northeast corner. 
+
+Room Forty-two — is a natural cave. The floor shows marks of frequent passage 
+and the walls bear the marks of recent digging. A small basket in the northwest 
+corner holds gold nuggets. The air is thick with the smell of vanilla. 
+
+
+
+38 
+
+
+
+Room Forty-three— is a natural cave. The openings to the south and east have 
+been dug through the earth but show no toolmarks. The floor is much travelled 
+and the walls show signs of recent digging. A small basket in the southwest corner 
+holds a few gold nuggets. The air is thick with the smell of vanilla. 
+
+Room Forty-four— is a huge natural cavern with a leveled floor, although a few 
+stalactites hang from the roof. The opening to the north has been dug through 
+the rock. A heap of stones stands in the middle of the cavern. There is a faint draft 
+of air blowing from north to south through the cavern. 
+
+Room Forty-five— is a small chamber with the walls, floor and ceiling chiseled 
+smooth. The dust shows a heavily trafficked path through the opening to the west 
+and a less clear trail through the opening to the east. The air smells faintly 
+of vanilla. 
+
+Room Forty-six— is a cave. The dust shows a beaten path between the two 
+openings. A pile of bones litters the southeast corner. A faint smell of vanilla is 
+in the air. 
+
+Room Forty-seven— is a small cave with the floor carved level. The floor shows 
+tracks from the southern opening to the center of the room where a small pile of 
+gnawed bones rests. 
+
+Room Forty-eight— is a cavern. A path in the dust runs between the two 
+openings. 
+
+Room Forty-nine— is a natural cave. A well trodden path in the dust runs 
+between the two openings and the air smells faintly of vanilla. A small pile of rusty 
+weapons litters the northwest corner. 
+
+Room Fifty— is a smallish cave with the floor carved level. A well worn path runs 
+between the north and south openings. The air smells faintly of vanilla. A stack of 
+rusty tools leans against the east wall. 
+
+Room Fifty-one — is a small excavated chamber. A well-worn path runs between 
+the north and west openings with a fainter trail to the east. The air smells faintly 
+of vanilla intermingled with the odor of decayed flesh. A newly slain antman lies 
+in the southwest corner with a spilled basket of gold nuggets nearby. 
+
+Room Fifty-two— is a natural cave with fantastic stalactite and stalagmite 
+formations. The air reeks with a pungent stench. A corpse lies just inside the 
+opening. A tattered sack rests against the wall in the northeast corner. 
+
+Room Fifty-three— is a natural cave. An unbroken layer of dust covers the floor. 
+A heap of stones fills the southwest corner of the room. 
+
+Room Fifty-four— is an excavated room. A well-worn path marks the floor 
+between the two openings and the faint smell of vanilla is in the air. A pile of bones 
+rests in the northwest corner of the cave. 
+
+Room Fifty-five— is a natural cave with the floor carved level. A well trodden path 
+runs between the two openings and the air smells faintly of vanilla. 
+
+Room Fifty-six — is a natural cave. The opening to the north has been dug 
+through the earth without the benefit of tools. The walls show the marks of 
+recent digging. The air smells heavily of vanilla. A small basket holding a few gold 
+nuggets sits on the floor in the southeast corner. 
+
+
+
+39 
+
+
+
+Room Fifty-seven — is a natural passage with the floor carved level. The dusty 
+floor shows some signs of passage. A small mound of fresh earth occupies the 
+middle of the corridor. 
+
+Room Fifty-eight — is a natural cavern with a rough stone floor. A skeleton in 
+the southwest corner still wears the remains of a rotting backpack. Small bones 
+litter the floor. Torchlight creates vague shadows that suggest beasts, or worse, 
+lurking in the corners of the chamber. 
+
+Room Fifty-nine — is a narrow passage. The opening to the north has been dug 
+through the earth but shows no toolmarks. A well-worn path runs from the opening 
+in the west wall into the northern passage. The air smells faintly of vanilla. 
+
+Room Sixty — is a huge vault with stonework walls and floor and a native rock 
+ceiling. Rude statues and carved pillars picture men and half-men. As the figures 
+become more bestial, the workmanship becomes more primitive. Ancient tools 
+and artifacts lie all about the chamber. Small stone doors of cunning device line 
+the east and south walls. Several of these are open, revealing three by three by 
+six foot openings into the rock. A shroud hangs from one of the open cavities. 
+Glyphs of unknown symbology cover the walls. The dust of the floor is thick and 
+undisturbed. The air smells of musty antiquity and death. Several urns and coffers 
+in the southeast corner gleam with jeweled brilliance. 
+
+Level 3 — Traps 
+
+CAVE IN TRAP — There are no traps per se in the Apshaian mines. One never 
+knows, however, when a rock might loose itself and cause severe damage to those 
+unfortunate enough to be standing below. For this reason it is highly recommended 
+that all visitors wear helmets while wandering through the ancient caverns. 
+
+Level 3 — Treasures 
+
+T01— Two gold nuggets* 
+
+T02— Three gold nuggets* 
+
+T03 — Four gold nuggets* 
+
+T04 — Five gold nuggets* 
+
+T05— Six gold nuggets* 
+
+T06 — Nothing of value. 
+
+T07— Two small diamonds* lay in the dust. 
+
+T08 — One small ruby* lays in the dirt. 
+
+T09— Resting in the earth is one small emerald*. 
+
+T10— Laying in the dirt you find one small sapphire*. 
+
+Til — One small diamond* mingles with the earth. 
+
+T12 — One small emerald* and one small diamond* gleam from the dirt. 
+
+
+
+40 
+
+
+
+T13— One small ruby* and one small diamond* lay in the earth. 
+
+T14— Inside the backpack you find three hundred gold pieces, a pearl ring*, an 
+emerald ring* and a sapphire bracelet*. In a pocket on the body you find a 
+diamond ring . 
+
+T15— Inside the sack you find three small diamonds* , a small ruby*, a ruby 
+chalice*, a silver chain* and a pearl ring*. 
+
+T16— A small pouch containing two small diamonds* and a small ruby*. 
+
+T17— In the corner you find a small sack with two small diamonds*, a small sap- 
+phire*, a small ruby* and a diamond goblet* inside. 
+
+T18— Behind the large web is a heap of two hundred gold nuggets*. 
+
+T19— A search of the chests and coffers reveals forty-five small diamonds*, ten 
+small emeralds*, seven small sapphires* and four small rubies*. 
+
+T20— Nothing of value. 
+* See Master Treasure Key 
+
+
+
+
+41 
+
+
+
+Level 4 
+Rooms, Traps, Treasures 
+
+Level 4 — Rooms 
+
+Room One — is a natural passage with the floor carved level. A well trodden path 
+in the dust of the floor runs the length of the corridor. The door at the end of the 
+corridor is of iron-bound wood and has a small, barred window at eye level. The 
+air smells faintly of vanilla. 
+
+Room Two — has stonework walls, floor and ceiling. The dusty floor is much 
+disturbed and the air smells strongly of vanilla. A wooden table and four chairs 
+stand in the middle of the room. The door to the west is wooden. 
+
+Room Three — is a passage with an even layer of dust covering the floor. A 
+discarded sack rests against the west wall halfway down the corridor. 
+
+Room Four — A table and four chairs occupy the middle of the room. The dusty 
+floor shows some large animal tracks and the air smells faintly of vanilla. A rusty 
+sword leans against the wall in the southeast corner. 
+
+Room Five— A well-worn path in the dust runs the length of a corridor and the 
+air smells of vanilla. The door to the west is actually a set of double oak doors. 
+The hinges look well oiled and marks in the dust on the floor betray recent opening. 
+
+Room Six— A path in the dust runs the length of the corridor. The corpse of a 
+giant rat lies in the center of the corridor. The door to the west is double and 
+made of thick oak. 
+
+Room Seven — is a huge chamber with stonework on the floor, ceiling and all but 
+the west wall, which is of carved rock. The room is filled with rough cots and the 
+west wall is lined with a variety of chests. The floor shows signs of frequent 
+disturbance and the smell of vanilla is heavy in the air. 
+
+Room Eight — is another huge chamber. The dusty floor shows signs of frequent 
+usage and the air is filled with the smell of vanilla. Rough cots line the walls and 
+stand in rows in the middle of the room, each with a nondescript wooden box 
+beneath it. 
+
+Room Nine — is a large room with masonry work everywhere but for the west and 
+south walls. The latter are carved from the native granite. The walls are draped with 
+the tattered remains of tapestries depicting a great battle between two armies. One 
+army consists of men clad in ringmail while the other includes a wild mix of men, 
+ant men, and skeletons. The banners of the second army show a praying mantis- 
+like figure in green on a field of jet black. Two gold plaques hang in the southwest 
+corner. 
+
+
+
+42 
+
+
+
+Room Ten — is a small armory. Racks of rusty weapons line the west and south 
+walls. The dusty floor is undisturbed and the air is foul. An untarnished sword in a 
+separate rack rest below an indecipherable iron plaque in the southwest corner. 
+
+Room Eleven — is an ornately decorated passage. A moldering skeleton in tattered 
+leather armor lies against the rusty iron door at the end of the passage. There are 
+no tracks in the dust of the floor. 
+
+Room Twelve — is a passage with an even layer of dust covering the floor. The air 
+smells of decay with a hint of vanilla. The skull of a mule rests against the wall out- 
+side the wooden door to the north. 
+
+Room Thirteen — is a corridor. A worn path on the dusty floor runs the length of 
+the corridor and the air smells of vanilla. The door to the north is brass-bound wood. 
+
+Room Fourteen — is a small room. A shelf on the west wall holds a small dark 
+chest with a key in the lock. The south and east walls are hung with an assortment 
+of rusty arms and armor. The dusty floor shows no sign of disturbance and the air 
+is foul. 
+
+Room Fifteen — A decrepit bed occupies the north wall, a desk the south wall, and 
+a table the middle of the room. The corners of the room are draped in cobwebs. 
+A partially eaten and unrecognizable body rests in the southwest corner of the 
+room. 
+
+Room Sixteen — is a largish room. A small desk stands against the wall to the 
+south and a larger desk occupies the west wall. The dusty floor shows faint marks 
+of disturbance and the air smells musty. The door to the west is of brass-bound 
+wood and stands ajar. 
+
+Room Seventeen — is a largish room. Remnants of cloth and leather hangings 
+cover the walls and the air carries a strong aroma of vanilla. The dusty floor is well 
+travelled. A large cabinet stands against the west wall of the room. 
+
+Room Eighteen — is a small room. The north and south walls are hung with worn 
+and battered shields and arms. The east wall bears a large plaque of beaten gold 
+which appears to be an award of some kind. 
+
+Room Nineteen — is a large room with the south wall of carved rock. The room is 
+austerely furnished with wooden planks hanging from chains on the east, west, and 
+south walls. The floor is covered with mouldering straw and the air reeks of decay 
+and vanilla. A dead rat lies in the center of the floor. 
+
+Room Twenty— is a small room that appears to be a natural cave except for the 
+west and north walls. A large chest stands open in the southeast corner of the 
+room. The west wall is covered with soot as is the western part of the ceiling. Bones 
+are scattered over the dusty floor and the air carries a strange sickly sweet odor. 
+From the chest comes the gleam of jewelry and gold. 
+
+Room Twenty-one— is a wide room with a large bed occupying the west wall and 
+a rack of tattered robes in the northwest corner. A desk covered with scrolls stands 
+against the east wall. There are large animal tracks in the dust of the floor and the 
+air reeks of vanilla. 
+
+Room Twenty-two — A well trodden path in the dust runs up and down the cor- 
+ridor and to the doors on the north and south walls. The air smells of vanilla. The 
+doors themselves are wooden and have no locks. 
+
+
+
+43 
+
+
+
+Room Twenty-three — A well-worn path in the dust runs the length of the corridor 
+and to the door in the north wall. The latter is brass-bound oak and in good repair. 
+It bears a strange inscription that glows with a green light in the gloom. The air 
+smells of vanilla. 
+
+Room Twenty-four — is a long narrow room with wooden doors at either end. The 
+walls are covered with arcane heiroglyphs and tapestries bearing the same glyphs 
+hang beside the doors. The room looks often-used and the air smells heavily of 
+vanilla. There are many wooden cots with tattered mattresses in the room. A large 
+chest occupies the northwest corner of the room. 
+
+Room Twenty-five — is a large room with heiroglyphs inscribed in the dark slate 
+walls. Stone benches occupy the western half of the room. Although much worn by 
+wear, strange heiroglyphs and scenes showing intermingled insects and men can be 
+seen carved in the sides and backs of the benches. Blocks of stone, hollowed out 
+on top in the shape of bowls, protrude from the walls at irregular intervals. Ornate 
+black metal braziers hang from the ceiling about the edges of the room. Against the 
+east wall is a raised black marble altar, carved with glyphs that give off a faint, eerie 
+green glow. On the altar itself is a large marble statue of a praying mantis, forelegs 
+outstretched and mandibles open. The eyes of the mantis are great rubies — a fine 
+treasure if you dare grab them! A human skull stares eyelessly from the steps 
+leading to the altar. The doors to the north and south are of brass-bound oak, while 
+the doorway to the east is covered with a worn tapestry. 
+
+Room Twenty-six — The dusty floor is marked by the tracks of large animals and 
+the air reeks of musk. The doors to the north and south are of plain wood and 
+have no locks. 
+
+Room Twenty-seven — The floor bears the tracks of large animals. The partially 
+eaten carcass of an antman lies near the western end of the corridor. The door to 
+the north is brass-bound wood and stands unlatched. The air smells heavily of 
+decay and musk. 
+
+Room Twenty-eight — is a long, low-ceilinged room, lined with long stone tables 
+running in rows north and south across the room. The dusty floor shows the tracks 
+of large animals and the room reeks of musk and offal. The doors to the north and 
+south are wooden and have no locks. 
+
+Room Twenty-nine— is a smallish room furnished only with rotting cushions 
+strewn about the floor. Tattered tapestries hang on the east and west walls showing 
+scenes of obscene and bloody sacrifice before a mantis-shaped god. A shiny object 
+protrudes from beneath one of the cushions near the center of the room. 
+
+Room Thirty —is a passage with wooden doors to the north and south. The dusty 
+floor shows the tracks of large animals and the air reeks of musk. The empty 
+carapace of an antman lies at the eastern end of the passage. 
+
+Room Thirty-one— is a passage. The dusty floor shows the tracks of large 
+animals and the smell of musk is in the air. Faint clicking sounds can be heard from 
+the east end of the passage. 
+
+Room Thirty-two — is a long room with the ceiling and upper parts of the walls 
+covered with a heavy layer of soot. Three large stone ovens line the north wall and 
+a long grill occupies the eastern half of the south wall. The dusty floor shows the 
+tracks of large animals and the air reeks of musk. 
+
+
+
+44 
+
+
+
+Room Thirty-three — is a small storeroom. Heaps of grain line the walls and a 
+dead giant rat rests in the southeast corner. 
+
+Room Thirty-four — is a room filled with shelves of rotting books and scrolls. A 
+desk stands near the brass-bound door to the north and a glass case occupies the 
+southwest corner of the room. Inside the case is a well preserved volume bound in 
+leather and bearing a title in indecipherable script. The floor is covered with an even 
+layer of dust and the air smells of decay. The door to the east is wooden and hangs 
+ajar from its rusty hinges. 
+
+Room Thirty-five — A bed occupies the north wall with a desk on the south 
+wall and a large cabinet against the east wall. The dusty floor shows no signs of 
+disturbance. 
+
+Room Thirty-six — is a largish room with stonework walls, floor and ceiling. The 
+room is furnished with ramshackle chairs, tables and cushions and the remains of 
+books and scrolls litter the apartment. A large desk and chair occupy the center of 
+the east wall. 
+
+Room Thirty-seven — The east end of this room holds a number of wooden 
+targets painted with human silhouettes. The southernmost target still has some 
+arrows stuck in it. 
+
+Room Thirty-eight — The floor of the room is covered with the remains of straw 
+mats. A variety of pieces of martial equipment litter the mats along the walls. In the 
+northeast corner, a bony elbow pokes through a rent in a suit of rusty chainmail. 
+A gnawed thighbone lies near the door. 
+
+Room Thirty-nine— The dusty floor shows the tracks of large animals and the 
+air reeks of musk. A discarded backpack rests on the floor in the middle of the 
+passage. The door to the east is brass-bound oak. 
+
+Room Forty— The floor shows a worn path through the opening to the north and 
+the air smells of vanilla. 
+
+Room Forty-one— The dusty floor shows many tracks of large animals and the air 
+reeks of musk. The doors to the south and east are brass-bound wood. A moldy 
+sack rests in the eastern end of the passage. 
+
+Room Forty-two— The dusty floor shows no signs of disturbance although the air 
+smells faintly of vanilla. The corpse of a man in leather armor lies in the north end 
+of the corridor. 
+
+Room Forty-three — The doorway to the west is covered by a won tapestry and 
+the air smells of decay. Shelves line the east wall and hold a variety of articles forged 
+of shiny metal. 
+
+Room Forty-four — The south wall and ceiling of the passage are carved of native 
+rock. The dusty floor is much disturbed, especially near the brass-bound wooden 
+door to the south. The corridor smells strongly of vanilla. 
+
+Room Forty-five — A faint trail in the dust runs the length of the corridor and the 
+air smells faintly of vanilla. 
+
+Room Forty-six— is a passage with stonework on the west wall and the other 
+walls, floor and ceiling of carved rock. The dusty floor shows a faint trail running 
+the length of the corridor along the west wall and a hint of vanilla is in the air. A 
+discarded backpack rests against the east wall in the north end of the passage. 
+
+
+
+45 
+
+
+
+Room Forty-seven — is a passage like 46. The path in the dust continues along 
+the west wall. A rusty sword rests on the floor near the middle of the passage. 
+
+Room Forty-eight — is a passage like 46. 
+
+Room Forty-nine — is a passage with stonework on the south wall and the other 
+wall, floor and ceiling of carved rock. A faint path on the dusty floor leads along the 
+south wall and the air smells slightly of vanilla. A broken bow and an empty quiver 
+rest against the north wall halfway down the passage. 
+
+Room Fifty — is a passage like forty-nine. The carpet of dust is slightly disturbed 
+near the eastern end of the passage, but is otherwise unbroken. The everpresent 
+smell of vanilla continues. 
+
+Room Fifty-one— is a passage like forty-nine. The floor is covered with an even 
+layer of dust and the air smells of decaying flesh. A small wooden box lies tipped 
+over on the floor in the middle of the corridor. 
+
+Room Fifty-two — is a passage with stonework on the south wall and the north 
+wall, floor, and ceiling of carved rock. The dusty floor shows no signs of disturbance 
+and the fetid air smells of ancient death. 
+
+Room Fifty-three — is a passage with stonework of the south and west walls and 
+the other walls, floor, and ceiling of carved rock. A moldering sack sits on the floor, 
+in the southwest corner of the corridor. 
+
+Room Fifty-four— is a passage with stonework on the south wall and the north 
+wall, floor and ceiling of carved rock. The dusty floor evidences some activity near 
+the south wall. 
+
+Room Fifty-five — is a passage with stonework on the south and east walls and the 
+other walls, floor, and ceiling of carved rock. The upper portion of the corridor is 
+sheathed in cobwebs and a larger web fills the south end of the passage. A small 
+sack lies near the west wall partway down the corridor, silver pieces spilling from 
+its mouth. 
+
+Room Fifty-six— The dusty floor is marked with the tracks of large animals and 
+the air smells of musk. A cleanly picked skeleton reclines against the west wall 
+halfway down the passage. 
+
+Room Fifty-seven— is a passage with stonework on the souih wall and the north 
+wall, floor and ceiling of carved rock. A brass plate lies in the dust in the middle of 
+the corridor. 
+
+Room Fifty-eight— is a small alcove. The south wall is of carved rock. The air 
+smells strongly of vanilla and the floor shows frequent disturbance. A black stein 
+marks the floor near the east wall. 
+
+Room Fifty-nine— is a small entryway with the walls, floor and ceiling of stone- 
+work. The dusty floor reveals frequent comings and goings and the air smells 
+strongly of vanilla. 
+
+Room Sixty— is the western extremity of room twenty-nine. The walls, floor and 
+ceiling are stonework. The floor is covered with the spoor of large animals and the 
+air reeks of rot and musk. A heap of partially eaten human and antman bodies fills 
+the southwest corner. 
+
+
+
+46 
+
+
+
+Level 4 — Traps 
+
+LILY TRAP— When you disturb the chest you reveal some lilies which give off a 
+cloud of fine powder that causes a severe swelling in your throat. 
+
+DAGGER TRAP— As you examine the cabinet a stiletto with a dark stain near 
+the tip thrusts itself toward you and then retracts. 
+
+FLAME TRAP— A jet of flame roars out from the wall above the chest as you 
+disturb the contents. 
+
+PIT TRAP — A twenty foot pit with a bed of spikes at the bottom opens beneath 
+your feet. Still alive? Rough footholds have been dug in the earthen side of the pit. 
+
+SPEAR TRAP— Three spears thrust out of the wall at waist level and then retract. 
+
+Level 4 — Treasures 
+
+T01— Thar's gold in them thar plaques, (see Gold Plaque*) 
+
+T02 — The solitary sword has mithril slivers worked into the blade. 
+
+T03— Inside the box you find eighty-four platinum pieces* , fifty-five small dia- 
+monds* and a neatly folded cloak with mithril threads interwoven through the 
+fabric, (see Magic Cloak*) 
+
+T04 — The body wears a moneybelt with sixty-five gold pieces inside. 
+
+T05— The chest holds sixty gold pieces, fifteen small emeralds*, an emerald 
+bracelet*, two diamond stickpins*, two gold chains* and a pair of fine leather 
+boots with mithril slivers embedded in the soles, (see Magic Boots*) 
+
+T06— The runes on the cover prove to be flecked with mithril which prompts you 
+to stash the book in your backpack for later perusal, (see Magic Book*) 
+
+T07— The arrows have mithril slivers worked into the points. 
+
+T08 — Beneath the body in the corner you discover two large sacks, each of which 
+contains two hundred and fifty gold pieces. 
+
+T09— Neatly arranged on the shelves are five platinum crosses* two platinum 
+offering plates* and two platinum candelabras*. 
+
+T10— Scattered in the dust you find fifty gold pieces. 
+
+Til — You find thirty gold pieces scattered in the dust. 
+
+T 12— The small sack proves to be more than it appears holding ten thousand 
+silver pieces but weighing much less than one would expect. 
+
+T13 — The gold plaque* won't fit into your backpack but you decide to carry it 
+along anyway. 
+
+T14 — Two large rubies. 
+
+T20— Nothing of value. 
+
+* See Master Treasure Key 
+
+
+
+47 
+
+
+
+Master Treasure Key 
+
+Coinage Valuation 
+
+1 Silver Piece = 10 Copper Pieces 10 Silver Pieces = 1 Gold Piece 
+
+100 Silver Pieces = 1 Platinum Piece 
+
+
+
+Baubles 
+
+Gems 
+
+Small Diamond 100 SP 
+
+Small Emerald 200 SP 
+
+Small Ruby 400 SP 
+
+Small Sapphire 300 SP 
+
+Large Ruby 3000 SP 
+Jewelry 
+
+Diamond Goblet 2000 SP 
+
+Diamond Ring 300 SP 
+
+Diamond Stickpin 1000 SP 
+
+Emerald Bracelet 5000 SP 
+
+Emerald Ring 500 SP 
+
+Gold Chain 1000 SP 
+
+Pearl Ring 200 SP 
+
+Sapphire Bracelet 1600 SP 
+
+Silver Chain 900 SP 
+
+Flora 
+
+Food Algae 5 SP 
+
+Incense Moss 30 SP 
+
+Kelp « 5 SP 
+
+Mushrooms 6 SP 
+
+Phosphorescent Algae 5 SP 
+
+
+
+Miscellaneous 
+
+
+
+
+
+
+Copper Ingot 
+
+
+20 
+
+
+SP 
+
+
+Platinum Candelabra 
+
+
+3500 
+
+
+SP 
+
+
+Platinum Cross 
+
+
+2500 
+
+
+SP 
+
+
+Gold Ingot 
+
+
+450 
+
+
+SP 
+
+
+Gold Nugget 
+
+
+50 
+
+
+SP 
+
+
+Gold Plaque 
+
+
+2000 
+
+
+SP 
+
+
+Platinum Plate 
+
+
+1000 
+
+
+SP 
+
+
+Silver Arrow 
+
+
+1 
+
+
+SP 
+
+
+Silver Candelabra 
+
+
+200 
+
+
+SP 
+
+
+Silver Ingot 
+
+
+100 
+
+
+SP 
+
+
+Silver Tray 
+
+
+100 
+
+
+SP 
+
+
+Ruby Chalice 
+
+
+1100 
+
+
+SP 
+
+
+Diamond Goblet 
+
+
+2000 
+
+
+SP 
+
+
+
+The values given are for the quanti- 
+ties contained in each respective 
+treasure. 
+Lilies 
+
+When eaten, each acts exactly as a 
+healing potion. 
+
+
+
+Magical Items 
+
+
+
+Magic Arms 
+
+Magic Books 
+
+Magic Boots 
+Magic Cloaks 
+
+
+
+These items are enhanced to varying potencies the 
+exact nature of which is unavailable to adventurers. 
+It is known that certain powerful blades glow with 
+a light of their own. Beware of cursed items. 
+These items most commonly increase certain char- 
+acteristics of the reader although other effects are 
+not unheard of. Their effect is permanent. 
+Rumor has it that these boots enable the wearer to 
+run like the wind. 
+
+These Apshaian creations are said to protect the 
+wearer from physical injury. This protection is by 
+no means absolute. 
+
+
+
+48 
+
+
+
+Skull Rings • These rings have some power in relation to the 
+
+living dead which wander the underground pas- 
+sageways. The exact nature of these powers is 
+unknown but they have figured in several miracu- 
+lous escapes from the foul miscreants. 
+
+Magic Talismans • These trinkets endow the holder with wondrous 
+
+powers of mental perception. 
+
+White Milky Potion • This is simply a commonly known healing potion. 
+
+With the exceptions of the arms and the magic books, all of the magic items found 
+in the ruins are enchanted with spells peculiar to the Apshaians and lose their power 
+permanently if they are ever taken from the complex. 
+
+
+
+
+49 
+
+
+
+The Upper Reaches 
+of Apshai 
+
+
+
+
+50 
+
+
+
+Level 1 
+
+The Innkeeper's Backyard 
+
+Rooms, Traps, Treasures 
+
+The innkeeper has graciously assented to your cleaning up the yard behind his 
+inn. He has warned you of the possibility of a thief in the neighborhood, however, 
+and dark rumors concerning peculiar happenings in the vegetable garden have 
+been circulating lately. Be careful. 
+
+Level 1 — Rooms 
+
+Room 1— A wide roadway with a large rock in the center. The inn lies off-stage to 
+the west. To the north and south are picket fences in need of a little paint. 
+
+Rooms 2-3— A small yard choked with weeds and littered with garbage. To the 
+north is a large barn, to the east an alley, and to the south the stable area. To the 
+right of the barn door are stacks of rotting garbage. Just to the left of the door is a 
+small bonfire in which you notice a gleam of something other than flame. 
+
+Rooms 4-5— Once used as a stable, this part of the yard and the roofless 
+enclosure now smell of soap. The weeds are patchy, and there are traces of suds 
+in the grass. Inside (Room 5), wet laundry hangs on a line in the corner. 
+
+Rooms 6-7— The main stable area. The walls of the old building are full of badly 
+patched holes, and many planks are loose. The packed earth shows little sign of 
+recent activity. Inside (Room 7), cobwebs clog the corners, and mice are 
+scurrying about the remains of someone's lunch. 
+
+Rooms 8-10— The barn. The place is obviously ill-kept, and straw and feathers 
+are everywhere. You hear honking to the right and loud clucking to the left. 
+
+Room 11— A narrow alleyway between the barn and the stable. It is thick with 
+weeds, but a narrow path down the center is worn down from the tread of many 
+feet. Ahead is a gate in a low fence— the entrance to the berry patch. 
+
+Rooms 12-35— The innkeeper's berry patch. It must be the right time of the 
+year, because every bush seems laden with luscious, ripe berries. Since the 
+innkeeper has given his permission, and you're hungry, you decide to grab a 
+basket and do some picking. What you don't eat you can always sell in the village 
+for a few copper pieces. While wandering through the bushes, you notice some 
+tomato plants beginning to supplant the berries in some spots. There is, in fact, 
+an entire tomato garden next to an old tool shed on one side of the berry patch. 
+The berries are spread over a low hill that begins to slope steeply near 
+the back hedge. 
+
+Rooms 36-39— A large shed. Tools and debris are scattered about. Signs of 
+recent usage and a sort of rumbling sound coming from somewhere within alert 
+you to the presence of someone— or something— inside. Could it be the thief? 
+Or something more sinister? 
+
+
+
+51 
+
+
+
+Room 40— You have stumbled across an unknown or long-forgotten passage 
+that seems to lead into the hill. 
+
+Room 41— A large cavern displaying clear signs of habitation. It's dark in here, 
+and you keep stumbling into things, but something on the floor glimmers faintly. 
+
+Rooms 42-45— A vegetable garden. Aside from a few struggling carrots, there 
+seems to be nothing here but tomatoes. Some of these, however, are huge- 
+bigger than pumpkins. Near the gate you discover a dead chicken. Closer 
+inspection shows that it is covered not with blood but with ketchup! What can 
+this mean? And what else may be hidden beneath these strangely menacing vines? 
+
+Level 1 — Traps 
+
+FLAME— You stepped right in the bonfire! Watch where you are going! 
+
+DUST— Try not to kick up so much dust next time. 
+
+NEEDLE— Some of these bushes have needle-like thorns. Be careful. 
+
+FLIES— If you insist on walking through the garbage, then you should expect to 
+put up with a few flies. 
+
+Level 1 — Treasures 
+
+T01— All that glitters is not gold. In fact, in this case it's copper— a copper piece 
+that someone carelessly dropped. 
+
+T02— A big cluster of berries hangs in the bush in front of you. 
+
+T03— There are small eggs in a nest here, and you risk a fowl attack to grab 
+
+them. 
+
+704— You find a copper ingot, 750 copper pieces, one silver arrow, 23 silver 
+pieces, 14 gold pieces, two small emeralds, and a partridge in a pear tree. 
+
+T05— Near a hoe you find some arrows which may be of use. 
+
+T06— In a worn leather purse you find 6 copper pieces, 7 silver pieces, 3 gold 
+
+pieces, and a small diamond. 
+
+T07— A large pot of very tasty chicken soup. 
+
+T08— The laundry consists of a few shirts and a pair of pants. They are wet, not 
+in your size, patched, and certainly not worth taking. 
+T09— A large piece of stale cheese— the main attraction for the mice. 
+T10— A large rusty chain of no use to anyone. 
+
+Til— Some crockery, mostly broken, now empty but smelling of bad ale. 
+T20— A large rock of no value. 
+
+
+
+52 
+
+
+
+Level 2 
+
+Merlis' Cottage 
+
+Rooms, Traps, Treasures 
+
+Merlis has disappeared somewhere— vanished, owing you wages for repairing 
+and painting the fence around his cottage. With some trepidation, you have 
+decided to venture forth into his abode in search of the lost wages. You suspect 
+Merlis has done this deliberately, to tease or test you; however, you also suspect 
+that if you do something serious (such as harming his cats), he may become very 
+angry— and it never pays to make a magician mad. 
+
+Prepare for some strange and peculiar effects in the course of your 
+investigation. 
+
+Level 2 — Rooms 
+
+Room 1— The small foyer of the cottage of Merlis the Mage. A pale, greenish 
+light emanates from nowhere in particular, and the walls are decorated with 
+arcane symbols and spooky magical stuff that no doubt maintain Merlis* image 
+but don't impress you. Much. 
+
+Room 2— A long, narrow hallway filled with remarkably lifelike sculptures of men 
+and beasts. Paintings of the village— strangely distorted but oddly vivid— hang on 
+the wall. The scenes seem to move when you are not looking at them. Sounds 
+you cannot identify emanate from the walls. 
+
+Rooms 3-5— The corridor widens into a large reception area with many 
+doorways. The chairs— seats for those waiting for an appointment in Merlis' 
+magic hall — have seen much use. 
+
+Room 6— Merlis' den. A desk is covered with scrolls and magical paraphernalia, 
+and the shelves are lined with dusty tomes. The apparatus looks so dangerous 
+and the runes and symbols so forbidding, you are afraid to go near most of the 
+stuff. However, out in the open is an ordinary chest. 
+
+Room 7— A laboratory. There are many bottles and jugs you are afraid to touch 
+arid some complicated machinery. There is a small crack in one wall near the 
+ceiling and a door on the east side. Over the door a sign warns, "DANGER- 
+DO NOT ENTER." 
+
+Room 8— The crack leads to a huge nest and landing area on the roof of the 
+cottage. It is not visible from below. The large flying creature— evidently one of 
+Merlis' strange animal friends— that usually occupies the area is not here. 
+Looking around, you see what looks like a large egg to one side. 
+
+Room 9— Another laboratory. This one is filled with cages of small animals. A 
+sign reads: "PLEASE LEAVE OR YOU MAY SCARE THE EXPERIMENTAL 
+ANIMALS TO DEATH!" 
+
+Rooms 10-11 — Merlis' hall of magic. A large table occupies the center of this 
+dimly lit room. There is a chest in one corner and a huge tapestry covering the 
+
+
+
+53 
+
+
+
+back wall. While moving around through the room, things appear to shimmer 
+every now and then; you suspect there may be more here than meets the eye. 
+Room 12— A back room in the cottage. There is a door leading out the back of 
+the house into a forest. There are some empty phials on the floor of the otherwise 
+tidy room. 
+
+Rooms 13-17— A path leading from the back door through the woods. It is 
+bounded by large, old trees and tall hedges; the shade of the forest is deep. A 
+buzzing sound grows louder as you go east. 
+
+Room 18— A small meadow in the woods, completely enclosed by trees. The 
+smell of clover is strong, and a large, white box hums with activity to the south. 
+
+Room 19— The narrow closet is lined with shelves on which rest various strange 
+objects. You find your courage beginning to desert you and wonder if there is 
+really anything here worth the risk. Perhaps you'll find something . . . 
+Roms 20-21— An enchanted hall in which Merlis keeps his cats. The carpeting is 
+expensive but covered with hair, and the room is finely decorated with chairs and 
+tables of fine workmanship. There is a chest near one wall. 
+
+Level 2 — Traps 
+
+CROSSBOW TRAP— From high in a tree comes a loud "SPROINGGG!" but 
+nothing else. Originally intended to keep unwanted visitors out, this useless trap 
+was fortunately forgotten. No one even bothered to put an arrow in it. 
+
+Level 2 — Treasures 
+
+701— In an elegant chest adorned with feline figurines you find 250 silver pieces. 
+
+T02— These insects must be magical indeed to produce such a delicious and 
+tasty liquid. Drinking some makes you feel marvelous, and you risk a sting or two 
+to grab a honeycomb full of the stuff. 
+
+703— Hanging on a tree is a quiver with some interesting arrows in it. 
+
+T04— In a brass-bound chest you find 500 copper pieces. 
+
+T05— You decide to show Merlis a thing or two and take what you are sure is a 
+magic wand. Unfortunately, it is so magical that it turns into an ordinary stick as 
+soon as you take it out of the cottage. 
+
+706— When you open the chest, you find the only things inside were moths. 
+
+707— Inside a silver-inlaid chest that seems magically bonded to the floor, you 
+find 100 gold pieces. 
+
+T20— A large eggshell— of value only to a large egg. 
+
+
+
+54 
+
+
+
+Level 3 
+
+Olias' Cellar 
+
+Rooms, Traps, Treasures 
+
+Level 3 — Rooms 
+
+Rooms 1-2— A forest near the castle of Olias the dwarf. You are surrounded by 
+the sights and sounds of the great outdoors: dappled sunlight, the fluting of 
+birdsong, the trickling of a distant brook. Nearer to hand, there is an annoying 
+hum in the air and the smell of something unpleasant. 
+
+Rooms 3-4— A well-traveled courtyard in front of the castle. The dust is 
+criss-crossed with tracks of horses and small animals. The gate of the castle to 
+the north is closed and solidly barred. Olias may have taken your one and only 
+magic sword, but a frontal assault is out of the question. A more discrete 
+approach is called for. Fortunately, you have heard rumor of a cave complex 
+underneath the castle that Olias uses as a cellar and storehouse. Unfortunately, 
+you have no idea how to get into it. There is an old and rickety shed to the south^ 
+but it does not look enticing. Still ... 
+
+Room 5— Well, well. This may be the cave entrance you were looking for. It's 
+dark in here, but there appears to be an opening across from you, and there may 
+be a cleft to the north, near a pile of loose rocks. 
+
+Room 6— The dark shed is full of junk, but there may be something worthwhile in 
+all this. Watch your step, though. 
+
+Room 7— A huge, drafty cavern with a man-made (or dwarf-wrought) door at 
+one end. 
+
+Room 8— A hidden arsenal. On the far side of the room you see a quiver filled 
+with arrows. 
+
+Room 9— Another cavern, the corpse of another adventurer, and another 
+quiver. Also a minor obstacle. 
+
+Rooms 10-13— These passages connect several large caverns. They are narrow, 
+dim, dank, and a bit drafty. 
+
+Room 14— Bat City. The cave-in that sealed the entrance to this large cavern 
+also seems to have awakened about a zillion bats, which are now filling the air 
+with their winged bodies and eerie, screeching cries. There may be another way 
+out near a pile of rocks on the other side of the cavern. Protruding from beneath 
+the pile is a skeletal arm gripping a sword. 
+
+Room 15— Among the other objects in this storeroom is a sword that looks 
+somewhat familiar. Could it be yours, lost on a previous adventure and 
+appropriated by the greedy dwarf? To find out, you'll first have to do something 
+about the snakes. 
+
+Room 16— A cavern inhabited by particularly large and unpleasant bats. 
+
+
+
+55 
+
+
+
+Rooms 17-19— A series of interconnected caverns off a breezy passageway. 
+There are holes and ridges in the floor; footing is treacherous. Room 19 is a 
+storehouse of interesting items. 
+
+Rooms 20-23— A long, winding corridor. There is a substantial breeze from the 
+west; it grows in strength as you move in that direction. It whistles audibly in your 
+ears, at least until a cave-in seals off part of the passage. (You are either clumsy or 
+unlucky, or Olias has mined these caves carefully to discourage unwanted 
+visitors.) 
+
+Room 24— A small alcove. As you enter, dozens of spiderwebs cling to you. 
+(Shades of Raiders of the Lost You-Know-What!) 
+
+Room 25— Another alcove. What's that on your foot? 
+
+Rooms 26-27— As this part of the cave widens, a familiar, pungent odor grows 
+progressively stronger. You clevely deduce that this is the den of some 
+furry animals. 
+
+Rooms 28-30— A winding corridor that grows lighter and windier as you move to 
+the south. 
+
+Room 31— This portion of the cave shows signs of careful workmanship, as if the 
+natural cavern has been deliberately enlarged. 
+
+Room 32— This low passage slants upward. There is a light at the end of 
+the tunnel. 
+
+Rooms 33-34— These hand-hewn rooms obviously serve as a storehouse for 
+some of Olias' accumulated loot. Your attention is drawn to the ornate chest in 
+front of the far wall in Room 34. 
+
+Level 3 — Traps 
+
+PIT TRAP— As you are walking, you accidentally fall into a trap meant 
+for small game. 
+
+CROSSBOW TRAP— A crossbow quarrel flies from a hidden niche in the wall 
+across from you. 
+
+SPEAR TRAP— A hidden mechanism thrusts a spear at you. 
+
+NEEDLE TRAP— As you try to open the chest, a tiny spring thrusts a poisoned 
+needle at your thumb. 
+
+CEILING TRAP— As you walk in the cave, the vibrations of your tread causes a 
+large stalactite to fall upon you. The Surgeon General has determined that this is 
+hazardous to your health! 
+
+CAVE-IN— Whether an accidental falling of loose rock or a deliberate trap set by 
+Olias, there are many cave-ins here. They may seal off an entrance or exit to a 
+cavern or passage and, if you are underneath, may cause injury or even death. 
+
+CREEPING CRUD— The exact nature of this slimy, amoebic life form is 
+unknown, but it is large, hungry, and extremely dangerous. 
+
+
+
+56 
+
+
+
+Level 3 — Treasures 
+
+
+
+TOl— In the quiver you find normal arrows. 
+T02— In the quiver you find magic arrows. 
+
+T03— An old set of armor. Worthless as protection, it might be worth something 
+melted down. 
+
+T04— When mixed with some herbs you happen to have, any venom you can 
+recover from the dead snakes' poison sacs will act just like a healing elixir. 
+
+T05— On the floor you find a Skull Ring with diamond flecks for eyes. 
+
+T06— Three gold coins. 
+
+T07— As far as you can tell in the poor light, the sword seems to be finely made 
+and rust-free. 
+
+T08— The sword is an ancient one made of bronze— an interesting curio of no 
+practical value. 
+
+T09— The shiny object on the ground is a fine pearl ring! 
+
+T10— Olias is not the only pack rat around here. You find a collection of 
+worthless beads of various colors, 3 gold nuggets, a leather pouch containing 
+11 gold and 4 platinum pieces, 7 small diamonds, 2 small emeralds, a small ruby, 
+and a large ruby. 
+
+Til— On some skeletal remains you find a silver medallion. 
+
+T12— A pouch contains 10 matching small emeralds. 
+
+T13— The only interesting object here is a gold medallion. 
+
+T14— There's more here than you can carry, but, being nearly as greedy as Olias 
+himself, into the largest sack you can find you stuff 10 silver ingots, 3 gold ingots, 
+a silver candelabra, 2 gold chains, and various minor bits and pieces (to fill up the 
+cracks) worth another 500 silver pieces. 
+
+T15— This is the creme de la creme: an emerald ring with a matching bracelet, a 
+pair of jade cats worth about 2500 silver pieces each, a dozen platinum pieces, 
+and a gem-studded, glowing belt. You have no idea what sort of magic it 
+possesses, but you decide to wear it from now on. 
+
+T20— A glittering piece of genuine iron pyrite of no redeeming social value. 
+
+
+
+57 
+
+
+
+Level 4 
+
+Benedicts Monastery 
+
+Rooms, Traps, Treasures 
+
+Benedic, the wandering priest of an unknown god, has informed you that the 
+once peaceful Gebite monastery has been plagued recently by an unearthly 
+disturbance. The dead refuse to stay in their graves; in sleep, the monks are beset 
+with troubling dreams; and some of them are becoming positively anemic. Many 
+believe it a punishment for their sins, and the monks are unable— or unwilling— to 
+deal with what appears to be the work of a powerful vampire. 
+
+If you are up to the challenge, fame and glory can be yours! Also, if you want to 
+be crass about it, you can have whatever treasure the vampire, its minions, the 
+living dead, and any other inhuman monsters may have accumulated. Food and 
+drink are yours for the asking; healthful herbs and plants from the garden you 
+may take; and other gifts major and minor may be offered. These you may accept 
+or decline as you please, but under no circumstances should you disturb the 
+monks or attempt to steal their personal possessions, or the most dire 
+consequences may ensue. 
+
+You have been warned! 
+
+Level 4 — Rooms 
+
+Rooms 1-4— A large, walled courtyard covered with loose dirt and strange, 
+glittering gravel. To the right of the arched entrance, there is a large stack of hay 
+for travelers' weary animals. In the center of the court there is an immense, 
+beautifully carved statue of a bearded man; he is smiling beatifically and appears 
+to be offering you something in his outstretched hand. 
+
+Rooms 5-12— A long arched corridor running along the west side of the 
+courtyard. Many doors, both open and closed, line the corridor, but the only light 
+comes from the barred arches fronting the courtyard. The stone walls are thick, 
+and the air is cool. 
+
+Rooms 13-20— Small cubicles or cells that serve as bedchambers for the Gebite 
+monks. Each has a thin straw pallet on a stone platform, a small shelf holding 
+various personal items (some interesting, some not), and very little else. Some 
+are occupied; so, if you are going to investigate, do so quietly and cautiously. 
+
+Rooms 21-28— A large, walled garden divided into long aisles. You are surprised 
+by the amazing variety and abundance of plants, and at times you must cut your 
+way through the shrubs and vines to walk the narrow paths. 
+
+Room 29— A kitchen. The counters are covered with grease and dust, and what 
+must be a month's worth of pots, dishes, and utensils are precariously piled 
+halfway to the ceiling. A terrible stench is coming from somewhere. 
+
+Room 30— A small pantry. The foul odor originates here. The pantry is filled with 
+old, stale, stinking— no, reeking food. Would anyone really eat this stuff? 
+
+
+
+58 
+
+
+
+Room 31— The dining room is as much of a mess as the kitchen— or nearly so. 
+Its sole inhabitant, the singing monk, is surrounded by crockery and an almost 
+tangible alcoholic cloud. Falling off a bench without spilling a drop from the jug 
+he's holding, he staggers happily toward you. Want a swig? 
+
+Room 32— This obscurely placed room must be an infirmary or embalming 
+chamber. Bandages and bottles of strange liquids litter the tables and shelves. 
+There is a sign: 
+
+OUT ON A HOUSE CALL. HELP YOURSELF TO 
+WHATEVER YOU NEED, AND DONT GET BLOOD 
+ON THE CARPET 
+
+—Welbius, Monk 
+
+For some reason you have a vision of a fatherly, white-haired man, compassion- 
+ate and concerned but cheerful, and sense that there have been many miraculous 
+healings here. Although the room is dark, you feel uplifted as you leave. 
+
+Rooms 33-44— A long, narrow, winding spiral staircase taking you far 
+underground. The footing is treacherous, the lighting bad, and the railing 
+separating you from a fall into the abyss is cracked or broken. Near the bottom, 
+you hear clicking noises and detect a faint smell of vanilla. 
+
+Room 45— The stairs level off into a narrow, dank passage. Although the room is 
+uninhabited, you sense great danger near. You can barely see the close walls, but 
+you discern a very particular arrangement of bricks along the south wall. The 
+masonry swings aside at your touch. 
+
+Room 46— A large chamber of earth and stone. The smell of vanilla and the 
+sense of impending doom are now overwhelming. Perhaps that tricky door has 
+kept the native Apshaians from discovering the way into the monastery. You are 
+not the first to find this room, however, for several skeletal corpses in ripped and 
+smashed remnants of armor lie about. Near one is a particularly interesting 
+sword, but unfortunately moving shapes can be seen moving in a dark hole in the 
+floor. It looks like trouble in River City. 
+
+Room 47— A long, dark earthen chamber with a heavy sarcophagus at one end. 
+
+Rooms 48-49— A large cemetery adjoining the monastery. An eery rattling and 
+moaning seem to come from the very ground. Many of the tombstones are 
+ornate and finely carved, but some graves are open, as if the process of burial had 
+been interrupted. One casket is adorned with familiar, glittering stones. 
+
+Room 50— A large chapel or meditation room. Although there is ample space for 
+all the monks to assemble, only one is in the room. He offers you a book on which 
+to meditate. 
+
+Rooms 51-52— Smaller rooms evidently intended for solitary meditation, these 
+are ablaze with candlelight. A monk suggests you might feel better with a candle 
+or two to dispel the darkness. 
+
+Rooms 53-56— Narrow, enclosed hallways, dark but still peaceful. 
+
+
+
+59 
+
+
+
+Level 4 — Traps 
+
+MOLD— As you rummage about, your hands and arms become covered with 
+disgusting rot and mold. 
+
+DUST— A strong breeze blows up a whirlwind around you; the dust stings 
+your eyes. 
+
+PU_ You fall into an open grave. Be more careful when walking through 
+a cemetery. 
+
+NEEDLE— Some of these plants have prickly thorns and needles. 
+
+FLAME— It is only a minor burn, but you should not be so careless when 
+handling a lit candle. 
+
+CAVE-IN— Everything comes crashing down with a noise loud enough to wake 
+the dead. The monks are not likely to be pleased, and you're just lucky nothing 
+hit you on the head. 
+
+Level 4 — Treasures 
+
+T01— Among various peculiar vials, you find some containing a milky white potion. 
+T02— An amulet of gold. 
+T03— An amulet of silver. 
+T04— An amulet of brass. 
+
+705— Amazing! It's actually a find gold needle! 
+
+706— Evidently you were hungrier than you thought, and this bit of stale bread 
+looked the least old. 
+
+707_What a haul: a silver candelabra, two silver chains, a diamond goblet with 
+traces of a reddish liquid inside, 13 platinum pieces, 128 gold pieces, and 
+666 silver pieces! 
+
+708— This rough robe can't be worth much and probably belongs to someone, 
+anyway. Put it back. 
+
+709_From the rich earth you pick several large, white mushrooms. 
+T10— A candle. 
+
+Til— These herbs look unfamiliar but promising. 
+T12— Another candle. 
+
+T13— Some greasy, grungy pots and pans. Unless you're planning to become a 
+door-to-door salesman or to volunteer for dishwashing duty, put them back and 
+get out of there. 
+
+T14— Apparently the Apshaians were not the only ones to know the secret of 
+growing these lillies. Amazed by your good fortune, you pick a few of the 
+healthful plants. 
+T15— A crock of ale. 
+
+
+
+60 
+
+
+
+T16— It is a book called The Secrets of St Gulik. 
+T17— An empty hand, that's what you are offered. 
+
+T18— As far as you can tell at a glance, the sword looks well made. There is also 
+lots of other stuff here, if you could take the time to get it. Unfortunately, you 
+seem to be occupied . . . 
+
+T19 — Some nice red, ripe tomatoes. 
+
+T20— At first the stones look valuable, but you soon realize that they are only 
+worthless gravel from the courtyard polished up a bit. 
+
+
+
+Master Treasure Key 
+
+
+
+Food 
+
+Berries 2 CP 
+
+Herbs 3 SP 
+
+Eggs 5 CP 
+
+Tomatoes 1 SP 
+
+Chicken Soup 4 SP 
+
+Miscellaneous 
+
+Bronze Sword 4 SP 
+
+Used Armor 10 SP 
+
+Gold Needle 1 SP 
+
+CP = Copper Piece 
+
+
+
+Baubles 
+
+Brass Amulet 
+Silver Amulet 
+Gold Amulet 
+Silver Medallion 
+Gold Medallion 
+
+
+
+SP = Silver Piece 
+
+
+
+5 SP 
+25 SP 
+50 SP 
+40 SP 
+100 SP 
+
+
+
+For further information, consult the MASTER TREASURE KEY in Temple of 
+Apshai. Anything not listed cannot be valued and is probably worthless. 
+
+
+
+61 
+
+
+
+The 
+Curse of Ra 
+
+Monsters 
+
+Cobra— This large, green or black snake flattens its head when angry. Its 
+venomous bite can kill a man instantly. 
+
+Jackal— This ferocious, dog-like creature scavenges the desert in search of dead 
+or dying flesh to rip apart for its ravenous appetite. 
+
+Tarantula— This hairy spider is found in dank passages. Its sting is not deadly 
+but should nevertheless be avoided. 
+
+Scorpions— Relatively large insects with nasty stinging tails, scorpions crawl 
+upon the victim they are attacking and deliver many injurious blows. 
+
+Wild Camel— Found exclusively in the desert, this typical, everyday, wild camel 
+kicks viciously with its sharp hooves. 
+
+Sphinx— The Sphinx is a large creature with the head of a man, the body of a 
+lion, and the wings of an eagle. It is rumored that a human can pass one only after 
+solving a difficult riddle. 
+
+Criosphinx— Similar to the Sphinx, the Criosphinx has the head of a ram 
+instead of a human. While attacking they are especially vicious, since they are 
+able to attack simultaneously with their paws and their sharp horns. 
+
+Gryphon— This type of creature has the head and wings of an eagle and torso of 
+a lion. It loves to talk and will start up a conversation at the drop of a word. 
+
+Ly nx — This intelligent creature of the cat family prefers an arid habitat. It has the 
+stalking instincts of predator cats and the swiftness of a jaguar. 
+
+Skeleton— A sword-wielding human skeleton, it is brittle and weak but attacks 
+with a ferocity unmatched by living beings. 
+
+Dust Wraith— A swirling vortex of dust surrounds this unembodied spirit. With 
+amazing speed and dexterity to guard its holy sanctuaries, this unearthly creature 
+uses wild magic to thwart any unwary explorers in their lairs. 
+
+Giant Basilisk— This is an extremely large lizard-like monster which feeds on 
+any flesh it lays its cold questing eyes upon and devours it without hesitation. 
+
+Magical Statue— As you approach this large stone statue, it comes to life and 
+begins to attack you. It cannot move but can wreak havoc with anything that 
+comes within reach, instilling more than the usual wounds. 
+
+Mummy— The sarcophagus springs open to reveal the most dreaded of the 
+undead. This once-man is now only a dusty, cloth-enwrapped incarnation of its 
+former self, but it is powerful beyond reason, relentless and ferociously attacking 
+any who dare disturb its evil tomb. 
+
+
+
+62 
+
+
+
+Level 1 
+
+Well of Forever 
+
+Rooms, Traps, Treasures 
+
+Level 1 — Rooms 
+
+Rooms 1-4— You are standing in a vast desert. There must be some way to enter 
+this small pyramid which lies before you. If the legends are indeed true, then this 
+monument is the gateway to the fabled Well of Forever. 
+
+Room 5— You found the entrance. In a corner there is a chest. A small tunnel 
+leads onward and downward into the darkness. 
+
+Rooms 6-8— These dimly lit tunnels slope steeply down, making it hard to resist 
+moving on downward. 
+
+Rooms 9, 10— These tunnels are steeper yet. You are slipping and sliding down 
+the passages. Although better lit, they appear unused for at least a century. 
+
+Room 11— You fall out of the passage a good twenty feet down onto a solid stone 
+floor. As you recover your senses, you see the Glyphstone. 
+
+Rooms 12-15— These are artificial passages which lead steeply upward and out 
+into the desert. Around the edges are natural caverns formed by underground 
+springs. 
+
+Rooms 16, 17— These chambers are filled with fine spider webs. A small gem 
+glitters in one corner. 
+
+Room 18— Across this natural chamber, you can see your image in a mirror. 
+Many slithering forms lie at your feet. 
+
+Rooms 19-21— These are low-ceilinged caverns. It is damp, and various potions 
+and ornaments from cultures long past lie scattered about. 
+
+Rooms 22-25— Around you lies the vast desert. 
+
+Level 1 — Traps 
+
+Ceiling Trap— From the ceiling shoot small darts that have an irritation venom 
+on their sharp tips. 
+
+Dust Trap— Dust and sand blow around you violently, stinging your eyes. 
+
+Needle Trap— A small needle coated with a weak poison springs out of the chest 
+and toward your hand. 
+
+Pit Trap— This is the Pit of Infinity. Quickly! If you can just grab the edge . . . 
+(Better luck next time.) 
+
+
+
+63 
+
+
+
+Level 1 — Treasures 
+
+TOl— A small naturally formed diamond. 
+T02— Some normal arrows are in the chest. 
+T03— The mirror is solid silver! 
+
+T04— A golden Ankh lies on the ground near your feet. 
+
+T05— This is a copper figurine of a small animal. It can't be worth much but you 
+decide to take it along anyway. 
+
+T06— This is it! The object of your quest, the legendary Glyphstone. You feel 
+enlightened by its presence. 
+
+T07— These potions in the strange vials appear to be perfectly good elixirs. You 
+decide to take them with you. 
+
+
+
+
+64 
+
+
+
+Level 2 
+
+The Sphinx 
+
+Rooms, Traps, Treasures 
+
+Level 2 — Rooms 
+
+Room 1— You are in the desert directly in front of the Sphinx. To the east, you 
+can see its entrance; visible to the north and south are its front feet. 
+
+Room 2— You are still out in the desert but much nearer the Sphinx. The front 
+feet now tower above you on either side. 
+
+Room 3— Just in time! Right after you entered the room, a sandstorm started 
+outside and covered the entrance. Looks like you'll have to find another way out. 
+This large room has sand everywhere and no other objects at all. 
+
+Room 4— In this large chamber, you see some traces of other adventurers (hope 
+you are good at riddles) and a stairway to the east. 
+
+Room 5— You are in a stairway, which leads up to the second story of 
+the Sphinx. 
+
+Room 6— This small room shows signs of wealth — tapestries, small rugs. To the 
+west is a stairway leading down. 
+
+Room 7 — This sparsely decorated room contains lots of empty stone tables and 
+shelves. To the west you see a much larger chamber, lavishly decorated. 
+
+Room 8— In this very large room, the walls are adorned with tapestries, fancy 
+rugs cover the floor, and stone tables hold countless scrolls and other useless 
+objects. To the west you see the doorway to a strange-looking corridor. 
+
+Room 9— An object appears on the ancient floor of this corridor, although it 
+does not shine. To the north a pivoting stone is across what may be a doorway 
+to wealth. 
+
+Room 10— You note that there is not much of a buildup of dust in this small 
+room. To the east is a pivoting stone (exactly like the other one already open to 
+reveal another long corridor). 
+
+Room 11— What happened? You are now in a lonely (?) corridor with many odd 
+footprints in the dust. 
+
+Room 12— In this small room, the walls are decorated with plain pictures of the 
+Egyptian gods. Exits are to the north and south. 
+
+Room 13— This room smells of something, possibly some terrible beast. The 
+only thing visible is a leather pouch with tattered edges. 
+
+Room 14— There appears to be nothing at all in this room, not even a trace of 
+dust. To the west you see a stairway that leads up to the head of the Sphinx. 
+
+
+
+65 
+
+
+
+Room 15— Another stairway. Going west will take you up to the head of 
+the Sphinx. 
+
+Room 16— You are in the head of the Sphinx, and many animal tracks crisscross 
+the floor. To the north you see a stone on a pivot swung open to reveal 
+a doorway. 
+
+Room 17— The stone pivoted to close off the doorway. This corridor leads west, 
+but you can see a doorway to the north leading into one of the ears of 
+the Sphinx. 
+
+Room 18— This is an ear of the Sphinx. Little appears to be in this room. 
+
+Room 19— More and more animal tracks in this corridor which continues to the 
+south. There is a doorway west. 
+
+Room 20— This is the nose of the Sphinx. Sand on the floor and openings in the 
+nostrils are visible. There is also a strange amount of cobwebs in the corners. 
+
+Room 21— This long corridor has an opening to the south where the other ear is 
+located. To the east another stone is pivoted to reveal an opening. 
+
+Room 22— In the other ear of the Sphinx, you spy a small chest. 
+
+Room 23— The corridor ends suddenly. This lonely dead end has walls filled with 
+ancient cuneiform writing and hieroglyphics. The only exit is to the west, from 
+whence you came. 
+
+Room 24— In this dimly lit corridor, a profound buildup of dust covers the floor. 
+Stirring up the dust as you walk, you see an exit to the north. 
+
+Room 25— You are now quite sure that you have wandered into one of the front 
+feet of the Sphinx. A doorway has been cut into the stone to the west. 
+
+Room 26— You must squint now to see your way through the darkness and the 
+dust stirred up as you walk. A bright light shines to the south. 
+
+Room 27— Quite a shock to your dark-adjusted eyes, this room is very well lit, as 
+if someone were waiting for you. 
+
+Room 28 — Itjs suddenly dark again. Is that something furry rubbing your leg? 
+
+Room 29— You have just gone into one of the front feet of the Sphinx. By way of 
+some mysterious source of light, you can see a large pivoting stone which is 
+closed across what seems to be a doorway to the south. 
+
+Room 30— This dusty corridor evidently has not been traveled recently by 
+anyone. It continues to the east. 
+
+Room 31— The corridor appears to go into the body of the Sphinx. Continuing 
+on is very enticing. 
+
+Room 32— Seeing a large stone pivoted to reveal the rest of the corridor is a 
+welcome sight. This corridor, you are sure, leads into the body of the Sphinx. 
+
+
+
+66 
+
+
+
+Room 33— SURPRISE! Immediately after you walked through the doorway, the 
+stone pivoted across it and won't budge. Do you get the feeling that you may 
+have incurred the wrath of the Pharoahs or some Egyptian god? 
+
+Rooms 34, 35— This passageway opens into one of the Sphinx's back feet. 
+
+Rooms 36, 37 — You seem to be in the backmost part of the Sphinx. The dust 
+here is marked with several non-human footprints. 
+
+Room 38— This is the other back foot. There appears to be nothing of value on 
+the stone shelves set into the wall. 
+
+Room 39— You finally find a way into the interior body of the Sphinx. You note 
+with alarm that there are many non-human footprints in the dust. 
+
+Room 40— Cobwebs cling to you as you walk this lonely corridor. Or is it lonely? 
+
+Room 41 — A strange scent fills this room, and just breathing it gives you a sense 
+of well-being. The smell is coming from a small pouch towards the far end of the 
+room. 
+
+Rooms 42, 43— This east-west running corridor has a goodly amount of non- 
+human footprints in the dust. Best be on guard for anything mysterious. An exit 
+to the south through a pivoted stone reveals a doorway. 
+
+Room 44 — You are obviously not alone in this footprint-laden passageway. To 
+the east, north, and south are doorways. 
+
+Room 45 — Nothing of significance lies in this passageway. To the east, another 
+pivoted stone shows a doorway into a chamber. 
+
+Room 46— You recognize the strange scent filling this chamber. It seems to be 
+emanating from a small pouch in the room. 
+
+Room 47— In yet another corridor, you see a large room to the east. To the west 
+you see another corridor whose walls are decorated with some type of 
+hieroglyphics, possibly a warning. 
+
+Room 48— A dusty platform dominates the center and back of this room. On the 
+platform you spy some small shiny objects glittering strangely. 
+
+Room 49 — Outside of the Sphinx, you have come upon an oasis. Lucky for you, 
+you are very thirsty and need the water. 
+
+Room 50— You can see the desert sands to the west. Some strange sense tells 
+you that you missed something. 
+
+Room 51 — A secret section of the Sphinx! Some shiny objects are visible at the 
+far end of this room. 
+
+Room 52— In this large room the sound of growling is almost unbearable, and 
+you see the glint of gold. To the east is another stone pivoted open to reveal 
+a doorway. 
+
+
+
+67 
+
+
+
+Level 2 — Traps 
+
+Needle Trap— As you rummage through the chest of jewelry, you prick your 
+finger on a poisoned needle. 
+
+Flame Trap— Quickly and silently, a shape flies overhead and pours a pot of 
+boiling oil upon you. 
+
+Cave-in Trap— One of the stone steps under you crumbles, causing you to fall 
+flat on your face. 
+
+Pit Trap— Watch it! You almost fell out the nostril! Luckily (?), your fall was 
+stopped by a sharp spear sticking out from the side of the nostril. 
+
+Level 2 — Treasures 
+
+T01— A very old and dusty quiver filled with normal arrows lies near the upward- 
+leading staircase. 
+
+702— As you travel across the room, you chance upon some mysterious 
+Egyptian herb in a pouch which makes you feel wonderfully well. (When eaten, 
+these herbs act exactly as healing elixirs.) 
+
+703— As the panel shuts behind you, it hurls a pouch containing 2 gold pieces. 
+
+T04— In a neat little pile, you find a silver offering tray and a pouch containing 
+3 gold pieces and 1 small ruby. 
+
+705— On a dusty stone platform lie a silver dagger and a small sapphire. 
+
+706— A collection of gold and silver jewelry are found in the small and rotting 
+wood chest. 
+
+707— A small stone cabinet contains a sapphire ankh of the Egyptian god of 
+darkness, Zukar, 2 gold bracelets, and a silver chain. 
+
+T08— Aha! A small diamond, 3 gold nuggets, 3 gold pieces, 100 silver pieces and 
+a diamond ring! 
+
+709— A moldy pouch containing 2 platinum pieces, 8 gold pieces, and 200 
+silver pieces. 
+
+710— Could it truly be??!! Yes!! It is a solid gold statue of a jackal. 
+
+Til— In the corridor you find a clay tablet with cuneiform writing on it. Don't 
+even ask! We don't read cuneiform either. 
+
+T12— Left over from the mysterious pot, you find a bronze ladle. 
+
+T13— Too bad, you have no use for this broken chariot wheel (except as a 
+souvenir of your trip to Egypt). 
+
+T14— Some dust sparkles of mithril. Deciding to see how long it will last, you 
+apply it to some nearby shafts of rotting wood, and it turns them into 
+magic arrows. 
+
+
+
+68 
+
+
+
+Level 3 
+
+The Pyramid 
+
+Rooms, Traps, Treasures 
+
+Level 3 — Rooms 
+
+Room 1 — You are on a great desert looking at the pyramid. There must be some 
+way to get inside. 
+
+Rooms 2-22 (excl. 12) — Surrounding the pyramid, much the same as Room 1. 
+
+Room 12 — This is your small tent, with your supplies inside. 
+
+Room 23 — You've found the entrance to the pyramid! Before you are two 
+tunnels, one leading up and one leading down. You decide to take the one 
+leading down. 
+
+Room 24 — You are following the downward tunnel. You can see a small room 
+ahead and hear strange noises. 
+
+Room 25— The snake pit! Maybe the other tunnel would have been better! 
+There is a sword standing point down in the ground ahead of you. If only you 
+could reach it . . . 
+
+Room 26— You have left the snake pit. If you turn around now, you can take the 
+upper path, but going east takes you out of the pyramid. The roof near the exit 
+appears to be cracking. 
+
+Room 27 — You take the upper path. BEWARE! You are now entering the major 
+chambers of the Pharoah's tomb. 
+
+Room 28— You see two doors leading off from this room. Hieroglyphs cover 
+the walls. 
+
+Room 29— This room, smelling of death, also has many hieroglyphs. You can see 
+a small ring in a dish and a picture of Osiris, the god of the underworld. 
+
+Room 30 — A long hall has murals and hieroglyphs all along the walls. 
+
+Room 31— Another hall. You can see something straight ahead. 
+
+Room 32 — The hall curves and you feel a slight breeze. The hieroglyphs are 
+much larger here. 
+
+Room 33 — The breeze is stronger. You can see a weapons rack ahead. There is 
+a hugh ankh symbol on the far wall. 
+
+Room 34— A small hall. Going north, you descend a few steps. 
+
+Room 35 — A small room with many murals. On the far wall you recognize a 
+picture of Ra, the sun god. The paintings seem to stare at you. 
+
+
+
+69 
+
+
+
+Room 36 — This room is well furnished with velvety objects and fabrics. The walls 
+are bare of either murals or hieroglyphs. You spy a small talisman in one corner. 
+
+Room 37 — This room has many cushions and beds, made of smooth, 
+silky materials. 
+
+Room 38 — There are many murals painted all along the walls. You spot 
+something of interest to the south. 
+
+Room 39— Racks and shelves line the walls containing many items of 
+unknown purpose. 
+
+Room 40— The entire room is filled with beautiful glasswork. 
+
+Room 41 — This is a room with sand on the floor and a huge statue. 
+
+Room 42 — This is obviously an embalming room. An open sarcophagus stands 
+against the wall. 
+
+Room 43 — A large altar sits in this comparatively small room. Hanging along the 
+walls are ornate tapestries. 
+
+Room 44 — Cryptic writing and hieroglyphs line the walls of this hallway, which is 
+gradually descending. 
+
+Room 45 — Signs of earlier adventurers fill the room. They include skeletons, 
+broken swords, shields, etc. 
+
+Room 46 — Statues stand along the walls. There is a faint beating of sand outside 
+the north wall. 
+
+Room 47— Sand lines the walls. The sound of sand beating the north wall is 
+almost unbearable. In the northeast corner you spy a vial. 
+
+Room 48— Here, too, you hear sand beating against the north wall. An animal 
+bladder lies in the northeast corner of the room. 
+
+Room 49 — A huge statue dominates this rather large room. As you enter, the 
+statue springs to life. 
+
+Room 50— Hieroglyphs and pictures line the wall and seem to suggest to you 
+that this was once a magician's chamber. 
+
+Room 51 — Another small room. 
+
+Room 52— This room is filled with hundreds of odds and ends from centuries 
+ago. A thorough search may reveal interesting results. 
+
+Room 53— The floor is covered with sand. 
+
+Room 54 — This room is bare of any objects other than some sand along the 
+floor. You can hear a faint beating of sand in the distance and see something 
+interesting to the east. 
+
+Room 55— You are in a hallway. The walls are filled with ornate tapestries. You 
+kick up some sand as you walk through the room. 
+
+
+
+70 
+
+
+
+Room 56 — You are in a hallway. 
+
+Room 57— This rather large room has a very low ceiling. A huge statue suddenly 
+comes to life as you enter. You also spy a shiny statue in the northeast corner 
+under what appears to be a cracking ceiling. 
+
+Room 58 — The extensive buildup of dust in this small corridor indicates that it 
+has not been used for a long time. 
+
+Room 59— This is a room filled with furniture of another era. You notice what 
+appears to be a weapons rack. Maybe you should search it??!! 
+
+Room 60— You see the sparkle of mithril near the southeast corner of this 
+huge room. 
+
+
+
+Level 3 — Traps 
+
+Dust Trap— The desert winds blow up a biting dust that stings the skin, burns 
+the eyes and makes breathing difficult. 
+
+Cave-in Trap — A weak portion of the ceiling gives way and many huge stones 
+fall toward you. 
+
+Spear Trap — As you approach the door, it opens just wide enough to allow a 
+spear to fly through and then quickly closes. 
+
+Flame Trap— The picture of the sungod seems to glare at you for an instant. 
+Suddenly the room fills with flames! There are no more pictures. 
+
+Ceiling Trap— A very sharp sword was hanging, blade down, by a thread on the 
+ceiling high above you. The thread breaks! 
+
+Needle Trap— There is a tiny needle in the talisman which contains a 
+mild poison. 
+
+Crossbow Trap— A hugh crossbow comes down from the ceiling and fires a 
+magic arrow at you. 
+
+Pit Trap— A fifteen foot pit with a bed of steel spikes opens beneath your feet. 
+
+
+
+Level 3 — Treasures 
+
+T01— Some magical arrows lay in a cabinet near the wall. 
+
+T02— A shiny and finely forged sword is thrust into the floor at your feet. 
+
+T03— These are powerful healing elixirs. 
+
+T04 — Some arrows in a small quiver outside the tent. 
+
+
+
+71 
+
+
+
+T05— You readily recognize this to be a skull ring, having certain powers over 
+the undead. 
+
+T06— On the altar there are three large rubies! They are worth nine thousand 
+silver pieces! 
+
+T07— In the chest you find 40 small diamonds. 
+
+T08— This magic talisman gives you great powers to see and hear. 
+
+T09— Inside the sarcophagus, you find a diamond necklace. 
+
+T10— In the corner of the room you find five small emeralds, five small diamonds, 
+and two small rubies. 
+
+Til— Several scrolls are in this room. Since they seem to be in familiar 
+characters, you try to read them. You fail, but feel truly enlightened just looking 
+at them. 
+
+T12— These are a large pair of spectacles. You try them on and somehow or 
+another your range of vision seems to have increased. 
+
+T13 — Gazing into this fine mirror, you feel better about yourself, so you continue 
+to explore the pyramid. 
+
+T14— This fine felt feels good around you, so you decide to wear it. Odd . . . your 
+burden somehow feels lighter . . . 
+
+T15 — You recognize this potion as the milk of certain snakes. It is used to 
+increase a man's ability to endure. You drink it. 
+
+T16— This is a beautiful crystal. Although it is only worth a few silvers, you 
+decide to take it along anyway. As you pick it up, it dissolves in your hands, 
+leaving you nothing but a tingly sensation. 
+
+T17— You notice six gold nuggets in the sand. 
+
+T18— You see eight gold nuggets on the ground. 
+
+T19— You really struck it rich on this one! There are ten gold nuggets lying in 
+front of you. 
+
+T20— A beautiful solid gold statue. 
+
+
+
+72 
+
+
+
+Level 4 
+
+Temple of Ra 
+
+Rooms, Traps, Treasures 
+
+Level 4 — Rooms 
+
+Rooms 1-3— Open desert in front of a large carved-out cliff face lies around you. 
+Objects strew the sand. 
+
+Rooms 4-10— You stand in a large area at the foot of a cliff which has been cut to 
+form a small canyon. Here stands a statue of Ra. It has been carved out of the cliff 
+and stands 50 feet tall on two large stone pedestals. There are unlit incense 
+containers before each foot of the statue. Underneath the large leg-like columns 
+is a tall stone door. 
+
+Room 11— This armory has many racks of rotting wood containing old weapons 
+covered with a thick layer of dust. 
+
+Room 12— These long walls are covered with detailed murals. Hieroglyphs 
+depict men and animals working and building large structures. It seems that the 
+room is devoted to the telling of the history of this land and of its many wonders. 
+
+Room 13— It must be a storage room of some kind. It is filled to the ceiling with 
+clay and wooden artifacts. 
+
+Room 14— The dimly-lit room is filled with human bones. A dusty table in the far 
+corner is covered with brushes, paint, and other objects. 
+
+Room 15— A tiny sand-filled compartment. The thick layer of dust on the floor is 
+smooth and untrodden. Strange! since the doors show much use. 
+
+Room 16— The floor of this deep sunken pit is covered with the half-decayed 
+corpses of several men. Then you notice the writhing bodies of deadly snakes— 
+not many, but enough to have stopped these other brave explorers. 
+
+Room 17— Another small compartment much like 15. It also has an unwanted 
+occupant. 
+
+Room 18— A natural cavern has been carved into a small ante-chamber. The 
+floor is thick with a coarse sand. 
+
+Room 19— More of the ante-chamber. You notice a rise in humidity and see 
+moisture on the wall near the corner of the room. It does not appear at first 
+glance to be water. 
+
+Room 20— Going through a crack, you find yourself on a wide set of stairs. An 
+outstretched body lies off to one side of what you are sure must be the entrance 
+to the main temple room. 
+
+Rooms 21-28— Very narrow passageways cut in the stone. You must still be at 
+least 20 feet above the ground level, having discovered a door at waist-level. 
+
+
+
+73 
+
+
+
+Room 29— You are trapped! A stone falls to block the way you came. The 
+gigantic room is littered with limbs and half-eaten carcasses of unidentifiable 
+beasts. It must be the sacrifice area for this unholy place. A strong light emanates 
+from an adjoining hall. 
+
+Room 30— A bright light beams at the end of a short wide hall. An altar is aglow 
+with a burning, blinding aura. (A fitting tribute to the God of the Sun.) 
+
+Room 31— A small alcove just off the main hall, offering relief from the blinding 
+light, but with a gleam of its own. The long-dead priests of this temple must have 
+used this as a sacred worship room. 
+
+Room 32— A short, wide hall. Near the end you spot a brilliant object shining 
+with the radiance of the sun. It is protected by some unnatural force, which 
+seems impassable. To either side of the hall are small alcoves. There must be 
+some way around that invisible barrier. 
+
+Room 33— Another small alcove much like 31. 
+
+Room 34— The main room of the temple (you turned out to be right). There are 
+many pedestals and statues, but one near the back of the room catches your eye. 
+It stands taller than the others and gleams with an expansive radiance. The floor 
+is smooth and dust-covered. 
+
+Room 35— Another short, wide hall. 
+
+Rooms 38-42— Imagine that! The thing is hollow with intricate and tricky 
+passages leading up the legs and into the chest and head! 
+
+
+
+Level 4 — Traps 
+
+Dust Trap— The sand shifts under your feet, and you fall into a nest of 
+deadly scorpions. 
+
+Flame Trap— As you touch the altar, a severe shock runs through your body, 
+leaving you weak and burned. 
+
+Spear Trap— As you approach the rotting racks, a spear flies from one of them, 
+catching you in the shoulder. 
+
+Cave-in Trap— The narrow passageway collapses around you. It covers you 
+with dirt and stone but does no major damage. 
+
+Ceiling Trap— As you climb around in the small passages, a heavy stone drops 
+from the top of the doorhang. 
+
+
+
+74 
+
+
+
+Level 4— Treasures 
+
+TOl — Amid various other armaments which are unusable, you find some arrows 
+still in good condition. 
+
+T02— He won't need these anymore, but from what you have seen so far, you 
+will: magic arrows. 
+
+T03— Some broken clay jugs, probably worthless. 
+
+T04— A large, silver offering tray. Polished up a bit, it should bring a nice price. 
+
+T05— Water indeed! This fine liquid will come in handy to soothe whatever ails 
+you. You stop to fill a few vials. 
+
+T06 — Two small diamonds lie in the dirt. 
+
+T07— A large, beautiful tapestry hangs over the doorway. The figures sewn into 
+the fine fabric seem to indicate danger or warning. 
+
+T08— You stop just long enough to strip this bag from one of the bodies. Worth 
+it, too. The bag contains 40 gold pieces. 
+
+T09— On the table you find a primitive book. Within it are examples of every 
+hieroglyph you have ever seen. Practical, you suppose, but worthless. 
+
+T10— At the head of the statue you find, embedded in the wall, with light pouring 
+through it, a large ruby. OHHHHHH! It must be the eye. You remember seeing it 
+from below. 
+
+Til— A large gold statue with a bird head. Lifting it is a disappointment. It must 
+be hollow as it weighs only a few pounds. You remove it from its pedestal anyway, 
+and stuff it in your pack. 
+
+T12 — WOW!!!! A diamond-studded platinum altar. It weighs a bit, but is well 
+worth taking along. As you heave it from its low base, you notice a strange power 
+surrounding you. It could have more uses than you first guessed. 
+
+T13— A chest half-buried in the sand. Opening it reveals nothing. An empty 
+chest; how cheap! 
+
+T14— This is the carcass of a dead camel being ripped apart by these vicious 
+beasts. 
+
+T15— There is still some unburned incense here, if that's what you like. 
+
+T20 — Just a pile of sand. You initially thought there might be something buried 
+here, but it turns out to be a dead end. As you kick the sand around, you hear a 
+hoarse whispering voice which seems to be cheering you. You can barely make 
+out, in this part of the canyon, someone or something chanting, "RA, RA, RA." 
+
+
+
+75 
+
+
+
+MASTER TREASURE KEY 
+
+
+
+Gems 
+
+
+
+Small Ruby 
+
+
+400 SP 
+
+
+Small Sapphire 
+
+
+300 SP 
+
+
+Small Diamond 
+
+
+100 SP 
+
+
+Large Ruby 
+
+
+3000 SP 
+
+
+Small Emerald 
+
+
+200 SP 
+
+
+rf otA/plru 
+
+
+
+
+Diamond Ring 
+
+
+30 SP 
+
+
+Silver & Gold Jewelry 
+
+
+80 SP 
+
+
+Diamond Necklace 
+
+
+1000 SP 
+
+
+Gold Bracelet 
+
+
+50 SP 
+
+
+Silver Chain 
+
+
+40 SP 
+
+
+Miscellaneous 
+
+
+
+
+Ollvci i i ay 
+
+
+100 SP 
+
+
+^iK/or Dannor 
+oiivci L/ayyt;i 
+
+
+40 SP 
+
+
+^ilwor Mirror 
+
+
+150 SP 
+
+
+Gnld Ankh 
+
+
+30 SP 
+
+
+Copper Figurine 
+
+
+45 SP 
+
+
+Gold Jackal 
+
+
+1800 SP 
+
+
+Bronze Ladle 
+
+
+5 SP 
+
+
+Chariot Wheel 
+
+
+7 SP 
+
+
+Gold Nugget 
+
+
+50 SP 
+
+
+Bag of Gold 
+
+
+400 SP 
+
+
+Hollow Gold Statue 
+
+
+300 SP 
+
+
+Platinum Altar 
+
+
+10,250 SP 
+
+
+Solid Gold Statue 
+
+
+5000 SP 
+
+
+Sapphire Ankh 
+
+
+100 SP 
+
+
+
+
+76 
+
+
+
+TheL egend 
+of the Apshai 
+
+For more generations than any man now living can count, this forgotten corner 
+of the ancient earth has devoted itself to Geb, God of the Earth. Into this place 
+came the worshippers of Apshai, The Insect God, who laid claim to a superior 
+sacred learning. However, dark rumors spread of the foul and sorcerous practices of 
+the Apshai cult. The Gebite priests, fearing these grisly rites, lead their people to 
+drive the outlanders from their midst. 
+
+Fleeing south, the Apshaians were shortly halted by a vast, uncrossable swamp. 
+Unable to go back to the Gebite village and unwilling to essay the perils of the 
+swamp ahead, the High Priest of Apshai prayed to his patron for guidance. 
+
+That night, as the priest prayed, a young brother and sister wandered away from 
+the encampment. The girl returned to camp, crying, and said that her brother had 
+fallen into a great, silent pit. Although deep in his meditation, the priest sent out 
+a search party, but to no avail. The pit appeared bottomless. Nor had the Insect 
+God given any solace or direction to the distraught priest. The people of Apshai 
+knew not which way to turn. 
+
+Yet at dawn the next morning, the boy came back. He had indeed fallen into 
+the pit, but had landed on a shelf not too far below the surface, and there lain 
+unconscious. Awaking after nightfall, he wanderd through many chambers until he 
+reached a salt sea. Too weary to go on, he collapsed on the sand. A light touch 
+awakened him and he looked up to see a six-footAong ant. Despite his worship of 
+the Insect God Apshai, he fled into the water to escape this manifestation. 
+
+As he swam to the farthest wall of the cavern, he noticed the waters taking on 
+a greener hue. A dim glow came from the murky depths, and he swam into the 
+light. 
+
+When he surfaced, drawing in great breaths of air, he rejoiced in the restoring 
+warmth of the sun. As he climbed the rock face of the coastal bluff, he noticed 
+that the water was receding. The clump of red seaweed that had caressed him as 
+he swam out of the cavern was now hanging limply across the opening in the rock. 
+
+When he heard this story, the priest fell to his knees in thanks. Their prayers 
+had been answered. The people of Apshai had found a home. 
+
+In the caves beneath the coastal bluff, the Apshaians plowed the underground 
+fields and planted the strange crops which they knew would flourish in that sunless 
+place. They hewed out new passages and reaped a harvest of gems and gold from 
+within their new cavern kingdom. Their power was beyond question. Finally, they 
+were even accepted by the Gebite priests, who were won over by the tribute of 
+gems and incense sent to them every year. 
+
+The Gebite people, however, grew restless and full of apprehension. While none 
+knew the exact nature of the dread Apshai rites, sordid rumors spread, and every 
+year young people disappeared. The priests of Geb were too pleased counting their 
+new wealth to hear these pleas — besides, nothing could be proved. Without the 
+sanction of their priests, the people prayed for three years while the Temple of 
+Apshai was constructed within the cavern by the sea. They prayed for two more 
+years while a plague of insects from the swamp beset them. And they prayed five 
+years more, while the priests of Geb continued to burn Apshaian incense moss 
+during the Gebite rites, even though the crops failed and animals were barren. 
+
+Finally, the Gebite 's prayers were answered. 
+
+
+
+
+77 
+
+
+
+One day the earth shook. Stumbling out of their tottering temple, the shaken 
+priests found the tumbled ruins of what had once been their town. Following the 
+cries of the villagers, they hurried up the shore to the dwelling place of the 
+Apshaians. Dust billowed at the cliff face and heavy rocks tumbled where the sand 
+had been. The opening of the cave was closed. Apshai was no more, or so it was 
+believed. 
+
+Over the years the village was rebuilt, and the Gebite priests renewed their 
+power over the common folk. For many years the caverns were seldom visited and 
+Viever disturbed. Generations passed, and memory faded into legend. 
+
+Then, during the reign of High Priest Nemdal Geb, a movement arose to 
+excavate the old temple in search of the Apshai gems and gold. A noted engineer 
+was hired, and the huge, ancient temple and then the ancient passageways, one by 
+one, were cleared. The underground gardens that still flourished in the darkness 
+were rediscovered, as were the shops, and finally the mines with their precious 
+gems and minerals. Nemdal Geb decided to continue the excavation in hopes of 
+recovering the lost knowledge of the Apshaians. This proved to be an ill-fated 
+decision. 
+
+Shortly after the fourth passage was cleared, whole work parties began to 
+disappear. Soon no one would enter the fourth passage, and eventually the other 
+passages and the temple cavern itself became unsafe. 
+
+The Curse, as that's what it seemed to be, spread to the town of the Gebites. 
+Strange diseases scourged the people. Soon merchant ships would not stop at the 
+harbor, for fear of the plagues. Commerce, and the population, dwindled. The 
+town was again facing disaster. In response to the people's cries, Nemdal Geb led 
+the other priests of Geb and the strongest warriors of the town in a quest to end 
+forever the Curse of Apshai. They entered the fourth passage, and none returned. 
+
+And so the power and mystery of Apshai remain. Few enter the forbidden 
+caverns, and fewer return. The Curse grows there, and only the bravest of 
+adventurers can unveil that mystery. Only by plumbing the depths of the world of 
+Apshai can the Curse be relieved here on land. And, it is said, stones of rare 
+value and welath beyond compare still lie within. 
+
+
+
+78 
+
+
+
+__Mon — 
+
+
+
+
+TM 
+
+
+
+
+Dragons on a Chip 
+
+
+
+CP 
+
+
+
+Did you grow up in the company of the Brothers Grimm, Snow White, The Red 
+Fairy Book, Flash Gordon serials, The Three Musketeers, the knights of the Round 
+Table, or any of the three versions of The Thief of Bagdad 7 . Have you read The Lord 
+of the Rings, The Worm Ouroboros, The Incomplete Enchanter, or Conan the 
+Conqueror! Have you ever wished you could cross swords — just for fun — with 
+Cyrano or D'Artagnan, or stand by their sides in the chill light of dawn, awaiting 
+the arrival of the Cardinal's Guard? Ever wondered how you'd have done against 
+the Gorgon, the Hydra, the bane of Heorot Hall, or the bull that walks like a 
+man? Would you have sailed with Sinbad or Captain Blood, sought passage on the 
+ship of Ishtar, or drunk of the Well at World's End? Did Aphrodite make Paris an 
+offer you couldn't refuse? Would you seek a red-hued maiden beneath the hurtling 
+moons of Barsoom, or walk the glory road with "Dr. Balsamo," knowing it might 
+be a one- way street? 
+
+If any or all of your answers are "yes," you're a player of role-playing games — or 
+you ought to be. (If your answers are all "no," you have either stepped through the 
+looking glass by mistake, or fate knows your destiny better than you do.) 
+
+Role-playing games (RPGs) allow you a chance to step outside a world grown 
+too prosaic for magic and monsters, doomed cities and damsels in distress . . . and 
+enter instead a universe in which only quick wit, the strength of your sword arm, 
+and a strangely carved talisman around your neck may be the only things 
+separating you from a pharaoh's treasure — or the mandibles of a giant mantis. 
+
+The standard (non-computer) role-playing game is not, in its commercial 
+incarnation, much more than a rulebook — a set of guidelines a person uses to 
+create a world colored by myth and legend, populated by brawny heroes, skilled 
+swordsmen, skulking thieves, cunning wizards, hardy Amazons, and comely 
+wenches, and filled with cursed treasures, spell-forged blades, flying carpets, rings 
+of power, loathsome beasts, dark towers, and cities that stood in the Thousand 
+Nights and a Night if not The Outline of History. 
+
+Role-playing games are not so much "played" as they- are experienced. Instead of 
+manipulating an army of chessmen about an abstract but visible board, or following 
+a single piece around and around a well-defined track, collecting $200 every time 
+you pass GO, in RPGs you venture into an essentially unknown world with a 
+single piece — your alter ego for the game, a character at home in a world of 
+demons and darkness, dragons and dwarves. You see with the eyes of your 
+
+
+
+79 
+
+
+
+character a scene described by the "author" of the adventure — and no more. 
+
+There is no board in view, no chance squares to inspect; the imaginary 
+landscape exists only in the notebooks of the world's creator (commonly called a 
+referee or dunjonmaster) and, gradually, in the imaginations of your fellow players. 
+As you set off in quest of fame and fortune in company with those other 
+player/characters, you are both a character in and a reader of an epic you are 
+helping to create. Your character does whatever you wish him to do, subject to his 
+human (or near-human) capabilities and the vagaries of chance. Fight, flee, or 
+parley; take the high road or low: the choice is yours. You may climb a mountain 
+or go around it, but since at the top may be a rock, a roc's egg, or a roc, you can 
+find challenge and conflict without fighting with your fellow players, who are 
+usually (in several senses) in the same boat. 
+
+Role-playing games can (and often do) become, for both you and your character, 
+a way of life. Your character does not stop existing at the end of a game session; 
+normally, you use the same character again and again until he dies for a final time 
+and cannot be brought back to life by even the sorcerous means typically available. 
+In the meantime, he will have grown richer on the treasure he (you) has 
+accumulated from adventure to adventure, may have purchased new and better 
+equipment, won magic weapons to help him fight better or protective devices to 
+keep him safe. As he gains experience from his adventures, he grows in power, 
+strength, and skill — although the mechanics and terminology of this process vary 
+greatly from one set of rules to another. Aside from keeping a running total of 
+"experience points" from one adventure to another, you need not concern yourself 
+much with this, since in DUNJONQUEST the computer will make the necessary 
+adjustments to your character. 
+
+Ordinary role-playing games require a group of reasonably experienced players, 
+an imaginative and knowledgeable referee/dunjonmaster willing to put in the 
+tremendous amount to time necessary to construct a functioning fantasy world, and 
+large chunks of playing time, since the usual game session lasts four to eight hours 
+(although twenty-hour marathons are not unheard of). DUNJONQUEST solves 
+those problems by offering an already created world with enough detail and variety 
+for dozens of adventures. There is only a single character — your character — pitted 
+against the denizens of the dungeon at any one time, but you can play for just as 
+long or short a period as you like, and return whenever you feel like it. While 
+there are greater practical limits to your actions than is usually the case in a non- 
+computer RPG, there are still a large number of options to chose from. 
+
+Much of your time in the dungeon will be spent exploring the rooms, searching 
+for treasure, or fighting the hostile denizens there who are reluctant both to 
+relinquish their hoards and to allow any adventurer out of their clutches. While all 
+monsters in the dungeon are basically hostile, they come in various sizes, shapes 
+and degrees of nastiness. While one creature may go down from a single blow, 
+another may take a half-a-dozen and remain standing. 
+
+
+
+TEMPLE OF APSHAI TRILOGY, DUNJONQUEST and FAST LOAD CARTRIDGE 
+are trademarks and TEMPLE OF APSHAI, UPPER REACHES OF APSHAI, and 
+CURSE OF RA arc registered trademarks of Epyx, Inc. Apple and Apple II are registered 
+trademarks of and Macintosh is a trademark of Apple Computer, Inc. Atari is a registered 
+trademark of Atari, Corp. Commodore 64 and Commodore 128 are trademarks of Com- 
+modore Business Machines, Inc. 
+
+Illustration: Mike Mott 
+© 1985 EPYX, Inc. Cover Illustration: Ken Macklin 
+
+
+
+Combat, of course, is a frequent occurrence, and one of the central features of 
+the DUNJONQUEST series is a combat system designed to mirror with some 
+decree of fidelity the nature of sword-and-shield fighting. Hundreds of things might 
+happen in a hand-to-hand battle: your weapon might break; you might slip in a 
+puddle of blood or trip over a fallen body; a shield might splinter; you might put 
+an arrow right into the eye socket of an otherwise nearly invulnerable beast. 
+However, systems which attempt to allow for huge numbers of these possibilities 
+are tedious at best and, because they almost necessarily overemphasize such 
+unusual occurrences, are statistically as inacurrate as simpler systems. Historical 
+research, a knowledge of various martial arts, and practical experience in the 
+Society tor Creative Anachronism (a group ot medieval enthusiasts who get 
+together in tournaments and similar affairs to bash each other about energetically 
+with authentic imitations of the weaponry of the Middle Ages) have all gone into 
+designing a system which, while simpler than some, is as accurate as any and far 
+more authentic than most. Although you cannot, in DUNJONQUEST, succeed in 
+chopping your own leg ott (which a particularly clumsy person might in fact 
+manage), a great many variables of equipment, strength, coordination, skill, 
+practice, etc., are involved in determining the outcome ot any particular Kittle. 
+
+Best of luck, adventurer. ^. 
+
+
+
+
+81 
+
+
+
+ROGUE™ 
+
+THE MAINFRAME COMPUTER GAME 
+WE BRING IT HOME 
+
+O.K. adventurer. You've got the Temple of Apshai Trilogy™ dungeons 
+under control. Looking for more work? A "Quest" sound good? Then 
+try ROGUE — the most sophisticated and intriguing adventure game 
+ever programmed on a mainframe computer. Now — thanks to the 
+DunjonMasters at Epyx — you can accept the challenge of a Rogue 
+adventure on your personal computer. 
+
+How many rooms? Throw away the map — they're endless. You'll be 
+lost in the fabled Dungeons of Doom for days. Treasure? This is a 
+Quest for the priceless Amulet of Yendor. Thousands have sought its 
+magical powers. Few have returned with it in their grasp . . . and 
+lived to tell the tale. 
+
+The Rogue Dungeons of Doom Await You at Your 
+Local EPYX Retailer 
+
+
+
+26 Nerve-Wracking Levels 
+Before you Reach trie 
+Amulet of Yendor! 
+
+26 Types and Stripes of Very 
+Unpredictable Monsters 
+
+Fast-Play Option 
+
+Save Game Feature Included 
+
+
+
+LIMITED WARRANTY 
+
+EPYX, Inc. warrants to the original purchaser of this EPYX software product that the medium on which this computer 
+program is recorded is free from defects in materials and workmanship for a period of ninety (90) days from the date of 
+purchase. This EPYX software program is sold "as is," without express or implied warranty of any kind, and EPYX is not 
+liable for any losses or damages of any kind resulting from use of this program. EPYX agrees for a period of ninety (90) 
+days to either repair or replace, at its option, free of charge, any EPYX software product, postage paid, with proof of date 
+of purchase, at its Factory Service Center. 
+
+This warranty is not applicable to normal wear and tear. This warranty shall not be applicable and shall be void if the 
+defect in the EPYX software product has arisen through abuse, unreasonable use. mistreatment or neglect. THIS 
+WARRANTY IS IN LIEU OF ALL OTHER EXPRESS WARRANTIES AND NO OTHER REPRESENTATION OR CLAIMS OF ANY 
+NATURE SHALL BE BINDING ON OR OBLIGATE EPYX. ANY IMPLIED WARRANTIES APPLICABLE TO THIS SOFTWARE 
+PRODUCT. INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. ARE LIMITED 
+TO THE NINETY (90) DAY PERIOD DESCRIBED ABOVE. IN NO EVENT WILL EPYX BE LIABLE FOR ANY SPECIAL. INCIDENTAL. 
+OR CONSEQUENTIAL DAMAGE RESULTING FROM POSSESSION. USE OR MALFUNCTION OF THIS EPYX SOFTWARE 
+PRODUCT. 
+
+Some states do not allow limitations as to how long an implied warranty lasts and/or the exclusion or limitation of 
+incidental or consequential damages so the above limitations and/or exclusions or limitations of liability may not apply to 
+you. This warranty gives you specific legal rights, and you may also have other rights which vary from state to state. 
+
+
+
+I IMWHIW fl> I MM 1 1 
+
+
+
+600 Galveston Drive, Redwood City, CA 94063 
+
+
+
+1985 EPYX. Inc. Part No. 0200 AD-60 
+
+
+
+*4 
+
+
