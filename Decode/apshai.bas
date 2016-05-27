@@ -17,7 +17,7 @@
       ef% = 0
       Dim x2%(q),y2%(q),ns$(2),rt%(q),rs%(10),sd$(22),tr$(20)
 175
-      Data "flame","dust","mold","pit","","spear","needle","xbow","cavein","ceiling"
+      Data "FLAME","DUST","MOLD","PIT","","SPEAR","NEEDLE","XBOW","CAVEIN","CEILING"
 178
       For i = 0 To 9
           Read t$(i)
@@ -45,11 +45,11 @@
           Read tm(i)
       Next
 196
-      Data "None",0,0,"Leather",150,30,"Ringmail",350,100,"Chainmail",500,150
+      Data "NONE",0,0,"LEATHER",150,30,"RINGMAIL",350,100,"CHAINMAIL",500,150
 199
-      Data "Partial Plate",750,250,"Full Plate",1000,1000,"Intelligence","Intuition"
+      Data "PARTIAL PLATE",750,250,"FULL PLATE",1000,1000,"INTELLIGENCE","INTUITION"
 202
-      Data "Ego","Strength","Constitution","Dexterity"
+      Data "EGO","STRENGTH","CONSTITUTION","DEXTERITY"
 205
       For i = 0 To 5
           Read na$(i),w(i),p(i)
@@ -60,11 +60,11 @@
       For i = 1 To 6
           Read nc$(i)
       Next i
-      Data "None",0,0,0,0,0,18
+      Data "NONE",0,0,0,0,0,18
 211
-      Data "Dagger",1,5,5,3,7,12,"Shortsword",2,14,6,8,9,12,"Broadsword",3,18,7,10
+      Data "DAGGER",1,5,5,3,7,12,"SHORTSWORD",2,14,6,8,9,12,"BROADSWORD",3,18,7,10
 214
-      Data 9,13,"Hand-and-a-half Sword",6,35,8,16,9,14,"Great Sword",9,70,10,15,7,1
+      Data 9,13,"HAND-AND-A-HALF SWORD",6,35,8,16,9,14,"GREAT SWORD",9,70,10,15,7,1
 217
       zd(0) = 3
       za(1) = 0
@@ -76,7 +76,7 @@
       zd(4) = 5
       zd(5) = 5
 220
-      Data "Magic Sword","None","Small","Large"
+      Data "MAGIC SWORD","NONE","SMALL","LARGE"
 223
       For i = 0 To 5
           Read nw$(i),ww(i),wp(i),wd(i),wr(i)
@@ -99,17 +99,17 @@
           Next
       Next
 235
-      Data "I'd not part with these fine goods for that pittance! Mayhap for",5
+      Data "I'D NOT PART WITH THESE FINE GOODS FOR THAT PITTANCE! MAYHAP FOR",5
 238
-      Data "Not so cheap my friend! But for thee just",10
+      Data "NOT SO CHEAP MY FRIEND! BUT FOR THEE JUST",10
 241
-      Data "Blackheart! Thou takest food from my children's mouths! No less than"
+      Data "BLACKHEART! THOU TAKEST FOOD FROM MY CHILDREN'S MOUTHS! NO LESS THAN"
 244
-      Data 5,"Well, life is short and thy arse long! What say thee to",2
+      Data 5,"WELL, LIFE IS SHORT AND THY ARSE LONG! WHAT SAY THEE TO",2
 247
-      Data "hmm...such fine workmanship. I could notpart with this for less than"
+      Data "HMM...SUCH FINE WORKMANSHIP. I COULD NOTPART WITH THIS FOR LESS THAN"
 250
-      Data 10,"A pox on thee! But I'd take",3
+      Data 10,"A POX ON THEE! BUT I'D TAKE",3
 253
       rn = 6
       rt = 0
@@ -118,13 +118,13 @@
           rt = rt + rr(i)
       Next
 256
-      Data "room no.:    "," ","wounds:     %","fatigue:    %"," ","wgt:     lbs"
+      Data "ROOM NO.:    "," ","WOUNDS:     %","FATIGUE:    %"," ","WGT:     LBS"
 259
-      Data " ","arrows:     ","magic ar:    "," "," "," ","{176}{HBar}{HBar}{HBar}{HBar}{HBar}{HBar}{HBar}{HBar}{HBar}{HBar}{HBar}{HBar}{HBar}{174}"," "
+      Data " ","ARROWS:     ","MAGIC AR:    "," "," "," ","{176}{HBAR}{HBAR}{HBAR}{HBAR}{HBAR}{HBAR}{HBAR}{HBAR}{HBAR}{HBAR}{HBAR}{HBAR}{HBAR}{174}"," "
 262
-      Data "{VBar}             {VBar}","{173}{HBar}{HBar}{HBar}{HBar}{HBar}{HBar}{HBar}{HBar}{HBar}{HBar}{HBar}{HBar}{HBar}{189}"," ","{176}{HBar}{HBar}{HBar}{HBar}{HBar}{HBar}{HBar}{HBar}{HBar}{HBar}{HBar}{174}","{VBar}           {VBar}"
+      Data "{VBAR}             {VBAR}","{173}{HBAR}{HBAR}{HBAR}{HBAR}{HBAR}{HBAR}{HBAR}{HBAR}{HBAR}{HBAR}{HBAR}{HBAR}{HBAR}{189}"," ","{176}{HBAR}{HBAR}{HBAR}{HBAR}{HBAR}{HBAR}{HBAR}{HBAR}{HBAR}{HBAR}{HBAR}{174}","{VBAR}           {VBAR}"
 265
-      Data "{VBar}           {VBar}","{173}{HBar}{HBar}{HBar}{HBar}{HBar}{HBar}{HBar}{HBar}{HBar}{HBar}{HBar}{189}","total slain:","     ","           "
+      Data "{VBAR}           {VBAR}","{173}{HBAR}{HBAR}{HBAR}{HBAR}{HBAR}{HBAR}{HBAR}{HBAR}{HBAR}{HBAR}{HBAR}{189}","TOTAL SLAIN:","     ","           "
 268
       For i = 0 To 22
           Read sd$(i)
@@ -178,7 +178,7 @@
 298
       Gosub 343
       Gosub 352
-      Print j;"arrows";
+      Print j;"ARROWS";
       Return
 301
       x = 50
@@ -189,7 +189,7 @@
       Print a$;
       y = 14
       Gosub 352
-      Print "appears!";
+      Print "APPEARS!";
 304
       Return
 307
@@ -266,7 +266,7 @@
       Return
 355
       Poke 213,47
-      Print "{Clr}";
+      Print "{CLR}";
       Poke 213,79
       Return
 358
@@ -569,7 +569,7 @@
       x = 49
       y = 10
       Gosub 352
-      Print t$(t%(n,4));" trap";
+      Print t$(t%(n,4));" TRAP";
       Gosub 310
 550
       i = t%(n,3)
@@ -611,7 +611,7 @@
       Return
 574
       j% = 0
-      Print "{Clr}"
+      Print "{CLR}"
 577
       For i = 0 To 79
           Poke cc + j% + i,160
@@ -626,18 +626,18 @@
           Poke cc + i + 79,160
       Next i
 586
-      Print "{Down}{Down}{Down}" Tab(32);"dunjonquest (tm)"
+      Print "{DOWN}{DOWN}{DOWN}" Tab(32);"DUNJONQUEST (TM)"
 589
-      Print "{Down}{Down}{Down}" Tab(30);"the temple of apshai"
+      Print "{DOWN}{DOWN}{DOWN}" Tab(30);"THE TEMPLE OF APSHAI"
 592
-      Print "{Down}{Down}{Down}{Down}{Down}{Down}" Tab(33);"copyright 1979"
-      Print Tab(29);"{Down}automated  simulations"
+      Print "{DOWN}{DOWN}{DOWN}{DOWN}{DOWN}{DOWN}" Tab(33);"COPYRIGHT 1979"
+      Print Tab(29);"{DOWN}AUTOMATED  SIMULATIONS"
 595
       For i = 21 * 80 + 1 To 22 * 80 - 2
           Poke cc + i,230
       Next i
 598
-      Print "{Down}{Down}{Down}" Tab(30);"hit any key to begin"
+      Print "{DOWN}{DOWN}{DOWN}" Tab(30);"HIT ANY KEY TO BEGIN"
 601
       Get a$
       r = Rnd(0)
@@ -649,20 +649,20 @@
       If ef% < > 123 Then
           Gosub 574
 610
-      Print Chr$(14)"{Clr}Thus quoth the Innkeeper:"
+      Print Chr$(14)"{CLR}THUS QUOTH THE INNKEEPER:"
 613
       If ef% < > 123 Goto 634
 616
       Gosub 1915
 619
       Gosub 1306
-      Print "I trust thy sojourn in the Temple was pleasant."
+      Print "I TRUST THY SOJOURN IN THE TEMPLE WAS PLEASANT."
 622
-      Input "Wouldst thou return thereto";a$
-      If Left$(a$,1) < > "y" Goto 634
+      Input "WOULDST THOU RETURN THERETO";a$
+      If Left$(a$,1) < > "Y" Goto 634
 625
       Gosub 1906
-      Input "How many silver pieces hast thou";mo
+      Input "HOW MANY SILVER PIECES HAST THOU";mo
       om = mo
 628
       If mo > 0 Then
@@ -671,24 +671,24 @@
       Goto 652
 634
       ef% = 0
-      Print "{Down}Hail and well met O noble Adventurer!"
+      Print "{DOWN}HAIL AND WELL MET O NOBLE ADVENTURER!"
 637
-      Print "{Down}Hast thou a character already, or should"
+      Print "{DOWN}HAST THOU A CHARACTER ALREADY, OR SHOULD"
 640
-      Print "{Down}I find thee one; say yea if I should";
+      Print "{DOWN}I FIND THEE ONE; SAY YEA IF I SHOULD";
       Input a$
 643
-      If Left$(a$,1) = "y" Then
+      If Left$(a$,1) = "Y" Then
           Gosub 766
 646
-      If Left$(a$,1) < > "y" Then
+      If Left$(a$,1) < > "Y" Then
           Gosub 793
           Gosub 1306
           For i = 1 To 1500
           Next i
 649
       om = mo
-      Input "Thy character's name";nm$
+      Input "THY CHARACTER'S NAME";nm$
       If mo > 0 Then
           Gosub 970
 652
@@ -717,12 +717,12 @@
 673
       se = 300
 676
-      Input "Monster speed (slow,medium, or fast)";a$
+      Input "MONSTER SPEED (SLOW,MEDIUM, OR FAST)";a$
 679
-      If Left$(a$,1) = "s" Then
+      If Left$(a$,1) = "S" Then
           se = 600
 682
-      If Left$(a$,1) = "f" Then
+      If Left$(a$,1) = "F" Then
           se = 150
 685
       wa = Int(5 + ww(sk) + w(aa) + sw(Int(ps / 2)) + 1 +(rs + rm) / 10)
@@ -732,9 +732,9 @@
 691
       ef% = 123
 694
-      Input "What level wouldst thou visit (1-12)";lv
+      Input "WHAT LEVEL WOULDST THOU VISIT (1-12)";lv
 695
-      an$ = dr$ + ":level " + Chr$(lv + 64)
+      an$ = dr$ + ":LEVEL " + Chr$(lv + 64)
 697
       If lw = lv Goto 730
 700
@@ -777,20 +777,20 @@
 727
       Close 2
 730
-      Print Chr$(14)"{Clr}"
+      Print Chr$(14)"{CLR}"
       Goto 1369
 733
-      Input "Wilt thou buy new armor";a$
-      If Left$(a$,1) = "n" Then
+      Input "WILT THOU BUY NEW ARMOR";a$
+      If Left$(a$,1) = "N" Then
           Return
 736
-      Print "{Clr}type" Tab(25);"weight" Tab(32);"price"
+      Print "{CLR}TYPE" Tab(25);"WEIGHT" Tab(32);"PRICE"
 739
       For i = 1 To 5
           Print na$(i); Tab(25);w(i); Tab(32);p(i)
       Next i
 742
-      Print "What sort of armor wouldst thou wear"
+      Print "WHAT SORT OF ARMOR WOULDST THOU WEAR"
       Input a$
       Gosub 1981
 745
@@ -805,7 +805,7 @@
               Goto 754
 751
       Next i
-      Print "I have not "a$;" for sale"
+      Print "I HAVE NOT "a$;" FOR SALE"
       Goto 742
 754
       lo = .3 * p(n)
@@ -818,7 +818,7 @@
       am = 0
       mo = mo - oo
 760
-      Print "Thou hast"mo;" silver pieces left in thy purse"
+      Print "THOU HAST"mo;" SILVER PIECES LEFT IN THY PURSE"
       Return
 763
       j = Int(6 * Rnd(1) + 1) + Int(6 * Rnd(1) + 1) + Int(6 * Rnd(1) + 1)
@@ -849,7 +849,7 @@
       hn = 0
       ll = 0
 775
-      Print "{Clr}Thy qualities:"
+      Print "{CLR}THY QUALITIES:"
       For i = 1 To 6
           Print nc$(i); Tab(15);ch(i)
       Next i
@@ -857,7 +857,7 @@
       Print " "
       Gosub 763
       mo = j * 10
-      Print "Thou hast"mo;" pieces of Silver"
+      Print "THOU HAST"mo;" PIECES OF SILVER"
 781
       l = 1
       Gosub 790
@@ -874,20 +874,20 @@
 793
       ll = 0
       For i = 1 To 6
-          Print "enter "nc$(i);
+          Print "ENTER "nc$(i);
           Input ch(i)
           cp%(i) = ch(i)
 796
           If ch(i) > 18 Then
-              Print ch(i);"be too high. no more than 18 can it be"
+              Print ch(i);"BE TOO HIGH. NO MORE THAN 18 CAN IT BE"
               i = i - 1
 799
       Next i
 802
-      Input "Thy character's experience is";ex
+      Input "THY CHARACTER'S EXPERIENCE IS";ex
 805
       If ex > 16000000 Then
-          Print "Thy character be too worldwise, find another"
+          Print "THY CHARACTER BE TOO WORLDWISE, FIND ANOTHER"
           Goto 793
 808
       e = ex / 1000
@@ -897,11 +897,11 @@
 811
       Next l
 814
-      Input "How much money hast thou to spend";mo
+      Input "HOW MUCH MONEY HAST THOU TO SPEND";mo
 817
       Gosub 889
 820
-      Print "What kind of Sword hast thou"
+      Print "WHAT KIND OF SWORD HAST THOU"
       Input a$
       Gosub 1981
 823
@@ -912,7 +912,7 @@
               Goto 832
 826
       Next i
-      Print "Thou canst not take a "a$;" to the Dunjon. Thou must buy another."
+      Print "THOU CANST NOT TAKE A "a$;" TO THE DUNJON. THOU MUST BUY ANOTHER."
 829
       Goto 820
 832
@@ -920,10 +920,10 @@
           Gosub 1012
           Goto 838
 835
-      Print "Thou canst not wield such a great weapon"
+      Print "THOU CANST NOT WIELD SUCH A GREAT WEAPON"
       Goto 820
 838
-      Print "What sort of Armor dost thou wear"
+      Print "WHAT SORT OF ARMOR DOST THOU WEAR"
       Input a$
       Gosub 1981
 841
@@ -935,14 +935,14 @@
               Goto 847
 844
       Next i
-      Print "Thou canst not wear "a$;" in the Dunjon"
+      Print "THOU CANST NOT WEAR "a$;" IN THE DUNJON"
       Goto 838
 847
-      Input "Hast thou a shield";a$
+      Input "HAST THOU A SHIELD";a$
       n = 0
-      If Left$(a$,1) < > "y" Goto 856
+      If Left$(a$,1) < > "Y" Goto 856
 850
-      Input "Be it large or small";a$
+      Input "BE IT LARGE OR SMALL";a$
       Gosub 1981
       n = 1
       If Left$(a$,1) = "L" Then
@@ -951,35 +951,35 @@
       If n > 0 Then
           Gosub 1051
 856
-      Input "Hast thou a bow";a$
+      Input "HAST THOU A BOW";a$
       hb = 0
-      If Left$(a$,1) = "y" Then
+      If Left$(a$,1) = "Y" Then
           hb = 1
 859
-      Input "How many arrows hast thou";rs
+      Input "HOW MANY ARROWS HAST THOU";rs
 862
-      Input "How many magic arrows hast thou";rm
+      Input "HOW MANY MAGIC ARROWS HAST THOU";rm
 865
-      Input "How many healing potions hast thou";hn
+      Input "HOW MANY HEALING POTIONS HAST THOU";hn
 868
-      Input "How many healing salves hast thou";hs
+      Input "HOW MANY HEALING SALVES HAST THOU";hs
       If hs > 10 Then
           hs = 10
 871
       sm = 0
       If sk > 0 Then
-          Input "Be thy sword magical";a$
+          Input "BE THY SWORD MAGICAL";a$
 874
-      If Left$(a$,1) = "y" Then
-          Input "What be the plus";sm
+      If Left$(a$,1) = "Y" Then
+          Input "WHAT BE THE PLUS";sm
 877
       am = 0
       If aa = 0 Goto 886
 880
-      Input "Is thy armor Magical";a$
+      Input "IS THY ARMOR MAGICAL";a$
 883
-      If Left$(a$,1) = "y" Then
-          Input "What be the plus";am
+      If Left$(a$,1) = "Y" Then
+          Input "WHAT BE THE PLUS";am
 886
       Gosub 790
       Goto 784
@@ -1076,22 +1076,22 @@
       Next i
       Return
 970
-      Print "Wilt thou buy one of our fine Swords";
+      Print "WILT THOU BUY ONE OF OUR FINE SWORDS";
       Input a$
 973
-      If Left$(a$,1) < > "y" Then
+      If Left$(a$,1) < > "Y" Then
           n = st
           Gosub 1015
           Return
 976
       w2 = 0
-      Print "weapon" Tab(24);"weight" Tab(35);"price"
+      Print "WEAPON" Tab(24);"WEIGHT" Tab(35);"PRICE"
 979
       For i = 1 To 5
           Print nw$(i); Tab(24);ww(i); Tab(34);wp(i)
       Next i
 982
-      Print "{Down}What weapon wilt thou purchase"
+      Print "{DOWN}WHAT WEAPON WILT THOU PURCHASE"
       Input a$
       Gosub 1981
       For i = 1 To 5
@@ -1101,26 +1101,26 @@
               Goto 994
 988
       Next i
-      If Left$(a$,1) = "n" Then
+      If Left$(a$,1) = "N" Then
           n = sk
           Gosub 1015
           Return
 991
-      Print "I have not such a weapon as a "a$
+      Print "I HAVE NOT SUCH A WEAPON AS A "a$
       Goto 982
 994
       If wr(n) > ch(4) Then
-          Print "Thou cannot wield such a Great Weapon"
+          Print "THOU CANNOT WIELD SUCH A GREAT WEAPON"
           Goto 982
 997
-      Print "Feast thy eyes 'pon this fine "nw$(n)
+      Print "FEAST THY EYES 'PON THIS FINE "nw$(n)
       j = Int(Rnd(1) + 1)
 1000
       If j > 2 Then
-          Print "'Tis sure to always drink thy Foe's blood"
+          Print "'TIS SURE TO ALWAYS DRINK THY FOE'S BLOOD"
 1003
       If j < 3 Then
-          Print "'Tis well-forged iron"
+          Print "'TIS WELL-FORGED IRON"
 1006
       ls = 0
       lo = .3 * wp(n)
@@ -1130,7 +1130,7 @@
       If oo = 0 Goto 982
 1009
       mo = mo - oo
-      Print "Thou hast"mo;" silver pieces left"
+      Print "THOU HAST"mo;" SILVER PIECES LEFT"
 1012
       wm = Int(wd(n) * ch(4) / 10 + .5)
       sm = 0
@@ -1154,16 +1154,16 @@
           sp = 0
           Return
 1030
-      Input "Wilt thou buy a shield";a$
-      If Left$(a$,1) = "n" Then
+      Input "WILT THOU BUY A SHIELD";a$
+      If Left$(a$,1) = "N" Then
           Gosub 1063
           Return
 1033
-      Print "shield     weight     ask"
-      Print "small" Tab(11);sw(1); Tab(22)sp(1)
+      Print "SHIELD     WEIGHT     ASK"
+      Print "SMALL" Tab(11);sw(1); Tab(22)sp(1)
 1036
-      Print "large" Tab(11);sw(2); Tab(22);sp(2)
-      Input "What sort";a$
+      Print "LARGE" Tab(11);sw(2); Tab(22);sp(2)
+      Input "WHAT SORT";a$
       n = 0
 1039
       Gosub 1981
@@ -1190,7 +1190,7 @@
           sp = sp + ch(6) - ds(n - 1,1)
 1057
       mo = mo - oo
-      Print "Thou hast"mo;" silver pieces left"
+      Print "THOU HAST"mo;" SILVER PIECES LEFT"
 1060
       ps = sd(n)
       Gosub 1063
@@ -1208,11 +1208,11 @@
       If hb > 0 Then
           Goto 1090
 1075
-      Input "Wilt thou buy a bow";a$
-      If Left$(a$,1) = "n" Then
+      Input "WILT THOU BUY A BOW";a$
+      If Left$(a$,1) = "N" Then
           Return
 1078
-      Print "I've a fine bow, Yew and nearly New, for12 silver pieces"
+      Print "I'VE A FINE BOW, YEW AND NEARLY NEW, FOR12 SILVER PIECES"
       lo = 4
       ak = 12
 1081
@@ -1222,62 +1222,62 @@
           Return
 1084
       mo = mo - oo
-      Print "Thou hast"mo;" remaining"
+      Print "THOU HAST"mo;" REMAINING"
 1087
       If rs + rm > = 60 Then
           rs = 60 - rm
           Goto 1102
 1090
       n = 0
-      Input "How many arrows wilt thou buy (at 5 coppers each)";n
+      Input "HOW MANY ARROWS WILT THOU BUY (AT 5 COPPERS EACH)";n
 1093
       If Int((n + 1) / 2) > mo Then
-          Print "No credit!"
+          Print "NO CREDIT!"
           Goto 1090
 1096
       If rs + rm + n > 60 Then
-          Print "Thou can carry but 60 - buy fewer"
+          Print "THOU CAN CARRY BUT 60 - BUY FEWER"
           Goto 1090
 1099
       rs = rs + n
       mo = mo - Int((n + 1) / 2)
-      Print "Thou hast"mo;" remaining"
+      Print "THOU HAST"mo;" REMAINING"
 1102
       Return
 1105
-      Input "How many salves wilt thou buy - they'll cost thee 10 each";n
+      Input "HOW MANY SALVES WILT THOU BUY - THEY'LL COST THEE 10 EACH";n
 1108
       If 10 * n > mo Then
-          Print "no credit"
+          Print "NO CREDIT"
           Goto 1105
 1111
       If n > 10 Then
-          Print "More than 10 will do thee no good"
+          Print "MORE THAN 10 WILL DO THEE NO GOOD"
           n = 10 - hs
 1114
       mo = mo - 10 * n
       hs = hs + n
 1117
       If mo < .35 * om Then
-          Print nm$;"! Thou spendthrift!"
+          Print nm$;"! THOU SPENDTHRIFT!"
 1120
       If mo > .7 * om Then
-          Print nm$;", Thou art frugal"
+          Print nm$;", THOU ART FRUGAL"
 1123
-      Print "Thou hast"mo;" silver pieces left"
+      Print "THOU HAST"mo;" SILVER PIECES LEFT"
 1126
       Return
 1129
       j = Rnd(0)
       If j > .66 Then
-          Print "What be thy offer "nm$;
+          Print "WHAT BE THY OFFER "nm$;
 1132
       If j < = .66 Then
-          Print "What offerest thou";
+          Print "WHAT OFFEREST THOU";
 1135
       Input oo
       If oo > mo Then
-          Print "Liar -  thou hast but"mo
+          Print "LIAR -  THOU HAST BUT"mo
           Goto 1129
 1138
       If oo = 0 Then
@@ -1293,7 +1293,7 @@
           Goto 1129
 1147
       If oo > = ak Then
-          Print "done"
+          Print "DONE"
           ls = 0
           Return
 1150
@@ -1301,15 +1301,15 @@
 1153
       ls = 0
       If oo < .6 * a1 Then
-          Print "Thou art a hard bargainer "nm$
+          Print "THOU ART A HARD BARGAINER "nm$
           Return
 1156
-      Print "done"
+      Print "DONE"
       Return
 1159
       If Rnd(0) < .995 Goto 1165
 1162
-      Print "I see the gods look with favor on thee- so take it for that!"
+      Print "I SEE THE GODS LOOK WITH FAVOR ON THEE- SO TAKE IT FOR THAT!"
       ls = 0
       Return
 1165
@@ -1521,21 +1521,21 @@
       If sm < > 0 Then
           wn = 6
 1309
-      Print "{Clr}Character Summary for "nm$
+      Print "{CLR}CHARACTER SUMMARY FOR "nm$
 1312
       Print " "
       For i = 1 To 6
           Print nc$(i); Tab(15);cp%(i)
       Next i
 1315
-      Print "{Down}Weapon:"nw$(wn);
+      Print "{DOWN}WEAPON:"nw$(wn);
       If wn = 6 Then
-          Print Tab(22);"plus:"sm;
+          Print Tab(22);"PLUS:"sm;
 1318
       Print " "
-      Print "Armor :"na$(aa);
+      Print "ARMOR :"na$(aa);
       If am > 0 Then
-          Print Tab(22);"plus:"am;
+          Print Tab(22);"PLUS:"am;
 1321
       j = 0
       If ps > 0 Then
@@ -1544,35 +1544,35 @@
               j = 2
 1324
       Print " "
-      Print "Shield:"ns$(j)
+      Print "SHIELD:"ns$(j)
 1327
-      Print "Arrows:"rs; Tab(20);"Magic Arrows:"rm
+      Print "ARROWS:"rs; Tab(20);"MAGIC ARROWS:"rm
 1330
-      Print "Salves:"hs; Tab(20);"Elixirs:"hn
+      Print "SALVES:"hs; Tab(20);"ELIXIRS:"hn
 1333
-      Print "Experience:"ex; Tab(20);"Weight carried:"wc
+      Print "EXPERIENCE:"ex; Tab(20);"WEIGHT CARRIED:"wc
 1336
-      Print "Silver:"mo
+      Print "SILVER:"mo
 1339
       Return
 1342
       j = Int(Rnd(0) * 3 + 1)
       On j Goto 1345,1348,1351
 1345
-      Print "Dost thou take me for a dolt!"
+      Print "DOST THOU TAKE ME FOR A DOLT!"
       Return
 1348
-      Print "Fool or knave "nm$;"! Make an offer higher than thy last!"
+      Print "FOOL OR KNAVE "nm$;"! MAKE AN OFFER HIGHER THAN THY LAST!"
       Return
 1351
-      Print "Perchance thou wouldst not have this at all!"
+      Print "PERCHANCE THOU WOULDST NOT HAVE THIS AT ALL!"
       Return
 1354
       If Rnd(0) > .5 Then
-          Print "Ha! 'Tis less than I paid for it!"
+          Print "HA! 'TIS LESS THAN I PAID FOR IT!"
           Return
 1357
-      Print "I spit on thy paltry offer!"
+      Print "I SPIT ON THY PALTRY OFFER!"
       Return
 1360
       r = Rnd(0)
@@ -1587,7 +1587,7 @@
       Next i1
 1369
       kr = 1
-      o$ = "rlatpfmgev!hqsydo"
+      o$ = "RLATPFMGEV!HQSYDO"
       wc = wa
       mm = 4
       ta = 100
@@ -1786,7 +1786,7 @@
       y = 10
       If ta < 1 Then
           Gosub 352
-          Print "too tired";
+          Print "TOO TIRED";
           Goto 1771
 1528
       in = 0
@@ -1797,7 +1797,7 @@
       hi = 0
       If Abs(xl - xm) > 5 Or Abs(yl - ym) > 5 Then
           Gosub 352
-          Print "too far to hit";
+          Print "TOO FAR TO HIT";
           Goto 1771
 1534
       m = tm(ia)
@@ -1810,12 +1810,12 @@
       y = 18
       If r < p Then
           Gosub 352
-          Print "swish";
+          Print "SWISH";
           Goto 1768
 1540
       ak = as *(r - p + 1)
       Gosub 352
-      Print "crunch";
+      Print "CRUNCH";
       If ak > wm Then
           ak = wm
 1543
@@ -1880,16 +1880,16 @@
       Next x
       y = yl
 1588
-      c$ = "swissh"
+      c$ = "SWISSH"
       If Abs(x - xm) < i1 And Abs(y - ym) < i1 Then
-          c$ = "thwunk"
+          c$ = "THWUNK"
 1591
       Gosub 292
       x = 50
       y = 18
       Gosub 352
       Print c$;
-      If Left$(c$,1) = "s" Goto 1771
+      If Left$(c$,1) = "S" Goto 1771
 1594
       ak = Int(7 * Rnd(0) + 1) + km
       Goto 1543
@@ -1934,7 +1934,7 @@
       Goto 1624
 1630
       Gosub 352
-      Print "nothing";
+      Print "NOTHING";
       Return
 1633
       Gosub 343
@@ -1944,7 +1944,7 @@
           Goto 1771
 1636
       Gosub 352
-      Print "a secret door!";
+      Print "A SECRET DOOR!";
       ij = - 1
       lr = kr
       nt%(kr,k) = 2
@@ -1960,7 +1960,7 @@
       Rem get
 1648
       If n = 0 Or Abs(xl - xr%(kr)) > 3 Or Abs(yl - yr%(kr)) > 3 Then
-          Print "you can't";
+          Print "YOU CAN'T";
           Goto 1771
 1651
       tr%(kr) = 0
@@ -1988,7 +1988,7 @@
       j = Int(6 * Rnd(0) + .99)
       Gosub 343
       Gosub 352
-      Print j;"elixirs";
+      Print j;"ELIXIRS";
       hn = hn + j
       Goto 1771
 1669
@@ -1998,12 +1998,12 @@
 1672
       Gosub 343
       Gosub 352
-      Print "dost use sword";
+      Print "DOST USE SWORD";
       Gosub 490
       If l = 0 Goto 1672
 1675
       Gosub 343
-      If c$ < > "y" Then
+      If c$ < > "Y" Then
           tt%(n) = tt%(n) - 1
           wc = wc - t%(n,0)
           Goto 1771
@@ -2018,7 +2018,7 @@
           sm = sm - Int(2 - Int(i / 2))
           If sm > 1 Then
               Gosub 352
-              Print "then sword glows";
+              Print "THEN SWORD GLOWS";
 1684
       pb = pb - sm
       wm = Int(as *(7 + sm) + .5)
@@ -2051,7 +2051,7 @@
 1705
       Gosub 343
       Gosub 352
-      Print "drop some";
+      Print "DROP SOME";
 1708
       Gosub 322
       jj = 10 * j
@@ -2085,7 +2085,7 @@
       in = 1
       Gosub 343
       Gosub 352
-      Print "pass by";
+      Print "PASS BY";
       Goto 1771
 1732
       If hs < = 0 Goto 1747
@@ -2107,7 +2107,7 @@
 1747
       Gosub 343
       Gosub 352
-      Print "none left";
+      Print "NONE LEFT";
       Goto 1381
 1750
       Gosub 343
@@ -2120,7 +2120,7 @@
       Print m$(i);
       Goto 1771
 1759
-      Print "nothing";
+      Print "NOTHING";
       Goto 1771
 1762
       If tp%(kr) > 0 And 1 + 20 * Rnd(0) < ch(2) Then
@@ -2161,7 +2161,7 @@
       Gosub 352
       Print b1$;
       Gosub 352
-      Print "it missed!";
+      Print "IT MISSED!";
       Goto 1789
 1798
       Gosub 277
@@ -2174,11 +2174,11 @@
       Gosub 310
       If Int(Rnd(0) * 20 + 1) > sp Goto 1807
 1804
-      Print "shield hit";
+      Print "SHIELD HIT";
       k = - ps
       Goto 1816
 1807
-      Print "struck thee";
+      Print "STRUCK THEE";
       k = 0
       If m%(mq,3) < > 2 Goto 1816
 1810
@@ -2187,7 +2187,7 @@
       Gosub 274
       Gosub 343
       Gosub 352
-      Print "a chill...";
+      Print "A CHILL...";
 1816
       k = k + Int((md *(r - p + 1)) / 10) - aa - am
       If k < 0 Then
@@ -2277,7 +2277,7 @@
 1891
       Gosub 343
       Gosub 352
-      Print "monster slain!";
+      Print "MONSTER SLAIN!";
       m = mn%(kr)
       If m > 0 Then
           mn%(kr) = m - 1
@@ -2286,7 +2286,7 @@
           Gosub 1225
           Gosub 343
           Gosub 352
-          Print "and another";
+          Print "AND ANOTHER";
           Gosub 451
           Goto 1900
 1897
@@ -2318,8 +2318,8 @@
 1912
       Goto 1927
 1915
-      Print "{Clr}treasures for "nm$
-      Print "{Down}treasure" Tab(10);"#" Tab(20);"treasure" Tab(30);"value"
+      Print "{CLR}TREASURES FOR "nm$
+      Print "{DOWN}TREASURE" Tab(10);"#" Tab(20);"TREASURE" Tab(30);"VALUE"
 1918
       For i = 1 To 20
           j = t%(i,6) * tt%(i)
@@ -2331,7 +2331,7 @@
           tt%(i) = 0
       Next
 1924
-      Input "art thou ready for more";a$
+      Input "ART THOU READY FOR MORE";a$
       Return
 1927
       For i = 1 To 20
@@ -2339,10 +2339,10 @@
       Next i
       Return
 1930
-      Print "{Clr}thou leavest the dunjon"
+      Print "{CLR}THOU LEAVEST THE DUNJON"
 1933
-      Print "{Down}experience:"ex
-      Print "{Down}dost thou wish to re-enter the pit"
+      Print "{DOWN}EXPERIENCE:"ex
+      Print "{DOWN}DOST THOU WISH TO RE-ENTER THE PIT"
 1936
       For i = 1 To 10
           Get a$
@@ -2359,7 +2359,7 @@
           Get a$
       Next i
 1948
-      If c$ < > "y" Goto 607
+      If c$ < > "Y" Goto 607
 1951
       wc = wa
       kr = 1
@@ -2371,7 +2371,7 @@
       Gosub 346
       Goto 1375
 1954
-      Print Chr$(14)"{Clr}{Down}{Down}{Down}{Right}{Right}{Right}{Right}{Right}{Right}{Right}{Right}{Right}{Right}{Right}{Right}Thou art slain!{Down}"
+      Print Chr$(14)"{CLR}{DOWN}{DOWN}{DOWN}{RIGHT}{RIGHT}{RIGHT}{RIGHT}{RIGHT}{RIGHT}{RIGHT}{RIGHT}{RIGHT}{RIGHT}{RIGHT}{RIGHT}THOU ART SLAIN!{DOWN}"
       For i = 1 To 2500
       Next i
 1957
@@ -2382,7 +2382,7 @@
       i = Int(Sqr(Rnd(0) * 16 + 1) + .7)
       On i Goto 1963,1972,1975,1969
 1963
-      Print "Thou art eaten"
+      Print "THOU ART EATEN"
       ef% = 0
       For i = 1 To 1500
       Next i
@@ -2392,16 +2392,16 @@
       Next i
       Goto 607
 1969
-      Print "Benedic the Cleric found thee"
+      Print "BENEDIC THE CLERIC FOUND THEE"
       Goto 1933
 1972
-      Print "Lowenthal the Mage found thee"
+      Print "LOWENTHAL THE MAGE FOUND THEE"
       For i = 1 To 10
           rs%(i) = 0
       Next i
       Goto 1933
 1975
-      Print "Olias the Dwarf found thee"
+      Print "OLIAS THE DWARF FOUND THEE"
       For i = 1 To 20
           tt%(i) = 0
       Next i

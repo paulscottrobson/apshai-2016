@@ -81,7 +81,7 @@ class StringToken(BaseRenderer):
 			self.characters = self.characters + c 
 
 	def renderText(self,renderInfo):
-		return '"'+self.characters+'"'
+		return '"'+self.characters.upper()+'"'
 
 # ***************************************************************************************************************************************************
 #														Variable Object
