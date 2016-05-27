@@ -1,0 +1,198 @@
+a$
+a1
+aa armourID ID of armour
+ak attackDamage Damage done (also asking price)
+am armourMagic Magic of armour
+an$
+as
+b$
+b1$ space11$
+b2$ space12$
+bg
+bl$ space13$
+c$
+cc screenRAM screen memory pointer.
+ch( stats( Statistics intelligence,intuition,ego,strength,constituion,dexterity
+cp%( initQualities( player levels (e.g. intelligence etc.) at start.
+d$
+d1%( doorLower Lower door position
+d2%( doorUpper Upper door position 
+dr$ driveNumber$ CBM Drive Number
+dr% driveUsed drive used to load program
+ds( shieldDexterityAdjust( adjustment for shield on dexterity
+dw( swordDexterityAdjust( adjustment for sword on dexterity
+e
+ef% keepCurrentPlayer keep current player on restart
+ex experience Experience
+ge
+h( __h( Appears to have no function anywhere in any version ???
+hb hasBow non zero if has a bow
+hi attackDisablesMonster Non zero if the attack stops monster attacking (spell ? Apshai ?)
+hn elixirs Number of elixirs
+hs healingSalves Number of healing salves (not used)
+i
+i1
+ia
+ib pMoveResult What happened when moving a player.
+ic
+id
+ih
+ii
+ij
+im monsterAttackCounter Counts how many attacks
+in monsterCharmed Monster charmed after speaking
+ir
+j
+j%
+ja
+jj _intuition Used to store intuition in Drink salve
+jx xPixel draw position
+jy yPixel
+k
+kc killCount Number of kills.
+kf dirPlayer Player direction
+km arrowDamageAdjust Adjusts arrow damage for magic/normal.
+kp initialDirection initial direction
+kr currentRoom Current Room Number
+l
+l1
+l2
+l3
+l4
+le
+ll
+lo lowestPrice lowest price accepted.
+lr wkRoom Working room number
+ls
+ls%( monsterPixelCount%( no of pixels for monster
+lv levelDungeon Dungeon Level
+lw currentLoadLevel Level currently loaded in.
+lx
+ly
+m
+m$( monsterName$( Names of monsters
+m%( monsterInfo%( info (6 graphic)
+m1
+ma monsterAttacksPerTurn How many attacks per turn.
+md monsterDamage Damage done on attack
+mf monsterDir Direction Monster is facing
+mh monsterHeal Monster healing
+ml monsterLevel Monster level
+mm energyLossScalar Adjusts fatigue loss during actions
+mn%( roomMonsterCount%( no of monsters in each room.
+mo silver silver carried
+mp monsterWounds Monster wounds
+mq currentMonsterID ID of current monster
+ms monsterSize cannot get closer than this to boundary.
+mt%( monsterTypeForRoom which monster in this room
+n
+na$( armourName$( name of armour
+nb isMonsterActive Ongoing monster ?
+nc$( statName$( Name of stat values.
+nm$ playerName$ Player name
+no%( roomInDir Room in each direction
+ns noWall Don't draw a specific wall in room draw code
+ns$( shieldName$( name of shields
+nt%( exitRoom Room exit, 4 per room 3 secret, 1 open, 2 door, 0 closed
+nw$( swordName$( sword names
+nx
+ny
+o$ commandList$ List of commands
+om originalMoney original money (not used)
+oo
+p attackEffect Damage done, potentially
+p%( playerInRoom?( Player position in room
+p( armourPrice( price of armour
+pa defSkill Defensive skill
+pb attSkill Attacking skill
+pc wounds Wounds
+ps shieldID Shield ID number
+pw roomRisk How dangerous is a room ?
+q roomCount Number of rooms
+q1 monTypeCount Number of monster types (12)
+r combatChance Chance value used in combat
+r$( innResponse$( possible innkeeper responses
+rf%( secretDoorFound%( Set when door found
+rm magicArrows Magic Arrow count
+rn possInnAnswers number of possible answers
+rq
+rr(
+rs arrows Arrow count
+rs%( magicalItems%( number of magical items
+rt
+rt%( roomOnScreen%( Non zero if room drawn on screen
+s arrowDir Arrow direction (partial)
+s%( roomSize%?( Size of room
+sc
+sd$( textPrompt$( text prompts
+sd(
+se monsterSpeed Speed of monster
+si%(
+sk swordID current sword
+sm swordMagic Magic of sword
+sp shieldPower Power of shield
+sp( shieldPrice( price of shield
+st
+sw( shieldWeight( weight of shield
+t
+t$( trapName$( Name of traps
+t%( treasureInfo%( 3 monster sprung, 4 name index 2 % chance avoid 6 value 0 weight
+ta
+ta fatigue Fatigue level
+tm( fatigueEffectOfAttack( How an attack affects fatigue (used in 650)
+tp%( roomTrapID%( ID of trap in room
+tr$( treasureName$( name of treasures
+tr%( roomTreasureID%( ID of treasure in room.
+tt%( treasureCount%( number of each treasure.
+tx%(
+ty%(
+un% currentDevice% current device number
+ux
+uy
+v1 wallLeft
+v2 wallRight
+v3 loadWallLeft
+v4 loadWallRight
+w( armourWeight( weight of armour
+w1 wallTop
+w2 wallBottom
+w3 loadWallTop
+w4 loadWallBottom
+wa
+wc weightCarried Amount of weight carried
+wd(
+wm swordPower Power of sword
+wn
+wp
+wp( swordPrice( price of sword
+wr( strengthForSword( how strong do you need to be to carry that sword
+wt initialStrength Initial strength characteristic
+ww( swordWeight( weight of sword
+x
+x0 xPlayerRoomStart Position at turn start
+x1%(
+x2%(
+xa xPlayer Player position
+xb xRoomBase Base X this room
+xl xPlayerRoom Player position in this room
+xm xMonster Monster position
+xp
+xp%( xTrap%( trap position in room
+xr%( xTreasure%( treasure in room X
+xs%( xMonsterPixel%( monster pixels X
+xx
+y
+y0 yPlayerRoomStart Position at turn start
+y1%(
+y2%(
+ya yPlayer Player position
+yb yRoomBase Base Y this room
+yl yPlayerRoom Player position in this room
+ym yMonster Monster position
+yp
+yp%( yTrap%( trap position in room
+yr%( yTreasure%( treasure in room Y
+ys%( yMonsterPixel%( monster pixels Y
+yy
+za( attackDamageOnAction( How much damage done for each action
+zd( chanceMonsterHitOnAction( Chance of monster hitting depends on each action

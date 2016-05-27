@@ -3,7 +3,7 @@ import re,os,sys
 # ***************************************************************************************************************************************************
 #															Class which tracks PET Basic tokens
 # ***************************************************************************************************************************************************
-class DeTokeniser:
+class TokenManager:
 	def __init__(self):
 		self.tokens = {}																		# Pet BASIC tokens. 
 		tokenText = """
@@ -34,8 +34,6 @@ class DeTokeniser:
 			return "{"+self.charCodes[code]+"}"
 		else:
 			return "{"+str(code)+"}"
-	def getREMToken(self):																		# Get token for REM.
-		return 0x8F
 
 class BaseRenderer:
 	pass
@@ -45,8 +43,8 @@ class BaseRenderer:
 # ***************************************************************************************************************************************************
 
 class KeywordToken(BaseRenderer):
-	def __init__(self,token):
-		self.token = token 
+	def __init__(self,token,parseInfo):
+		self.token = parseInfo["tokeniser"].getToken(token) 
 	def renderText(self,renderInfo):
 		token = self.token[0].upper()+self.token[1:].lower()
 		if len(token) > 0:
@@ -58,7 +56,7 @@ class KeywordToken(BaseRenderer):
 # ***************************************************************************************************************************************************
 
 class CharacterToken(BaseRenderer):
-	def __init__(self,character):
+	def __init__(self,character,parseInfo):
 		self.character = character 
 	def renderText(self,renderInfo):
 		return self.character
@@ -68,7 +66,7 @@ class CharacterToken(BaseRenderer):
 # ***************************************************************************************************************************************************
 
 class StringToken(BaseRenderer):
-	def __init__(self,chars,deTokeniser):
+	def __init__(self,chars,parseInfo):
 		self.characters = ""
 		for c in chars:
 			oc = ord(c)			
@@ -79,7 +77,7 @@ class StringToken(BaseRenderer):
 			elif oc >= 65+128 and oc <= 65+25+128:
 				c = chr(oc-128)
 			else:
-				c = deTokeniser.getCharacterCode(oc)
+				c = parseInfo["tokeniser"].getCharacterCode(oc)
 			self.characters = self.characters + c 
 
 	def renderText(self,renderInfo):
@@ -90,7 +88,7 @@ class StringToken(BaseRenderer):
 # ***************************************************************************************************************************************************
 
 class VariableToken(BaseRenderer):
-	def __init__(self,variable):
+	def __init__(self,variable,parseInfo):
 		self.variable = variable.lower()
 	def renderText(self,renderInfo):
 		return self.variable.lower()
@@ -100,47 +98,50 @@ class VariableToken(BaseRenderer):
 # ***************************************************************************************************************************************************
 
 class LineNumberToken(BaseRenderer):
-	def __init__(self,lineNumber):
+	def __init__(self,lineNumber,parseInfo):
 		self.lineNumber = lineNumber
 	def renderText(self,renderInfo):
-		return "[{0}]".format(self.lineNumber)
+		return str(self.lineNumber)
 
 # ***************************************************************************************************************************************************
 #														Statement Object
 # ***************************************************************************************************************************************************
 
 class Statement(BaseRenderer):
-	def __init__(self,statement,deTokeniser):
+	def __init__(self,statement,parseInfo):
 		self.tokens = [] 																		# all tokens in this statement
 		statement = statement.strip()
 		while statement != "":																	# more to render.
-			if deTokeniser.isToken(ord(statement[0])):											# token
-				self.tokens.append(KeywordToken(deTokeniser.getToken(ord(statement[0]))))		# add a keyword token
-				isGoKeyword = ord(statement[0]) == 0x89 or ord(statement[0]) == 0x8D			# check if goto/gosub
+			ch = ord(statement[0])
+			if parseInfo["tokeniser"].isToken(ch):												# token
+				self.tokens.append(KeywordToken(ch,parseInfo))									# add a keyword token
+				isGoKeyword = ch == 0x89 or ch == 0x8D											# check if goto/gosub
 				statement = statement[1:].strip() 												# remove, and strip.
 				if isGoKeyword:
 					while statement != "" and statement[0] >= "0" and statement[0] <= "9":		# while there's a line number
 						line = re.match("^(\d+)",statement).group(1)							# get line number
 						statement = statement[len(line):].strip()								# remove the line number
-						self.tokens.append(LineNumberToken(int(line)))							# add the token
+						self.tokens.append(LineNumberToken(int(line),parseInfo))				# add the token
 						if statement != "" and statement[0] == ",":								# , seperated numbers
-							self.tokens.append(CharacterToken(","))
+							self.tokens.append(CharacterToken(",",parseInfo))
 							statement = statement[1:]
 
 			elif statement[0] == '"':															# Quoted string.
 				statement = statement[1:]														# remove opening quote
 				n = statement.find('"')															# find closing quote
 				n = n if n >= 0 else len(statement)												# if not found, whole statement
-				self.tokens.append(StringToken(statement[:n],deTokeniser))						# add string token
+				self.tokens.append(StringToken(statement[:n],parseInfo))						# add string token
 				statement = statement[n+1:]														# past closing quote
 
 			elif statement[0] >= 'A' and statement[0] <= 'Z':									# Variable
 				m = re.match("^([A-Z][A-Z0-9]?\\$?\\%?\\(?)",statement)							# extract variable
 				assert m is not None 
-				self.tokens.append(VariableToken(m.group(1).lower()))							# add tokenn
-				statement = statement[len(m.group(1)):]											# remove variable
+				self.tokens.append(VariableToken(m.group(1).lower(),parseInfo))					# add tokenn
+				parseInfo["variables"][m.group(1).lower()] = True 								# add to variables list.
+ 				statement = statement[len(m.group(1)):]											# remove variable
+
 			else:																				# render as a character
-				self.tokens.append(CharacterToken(statement[0]))
+				self.tokens.append(CharacterToken(statement[0],parseInfo))
 				statement = statement[1:]
 			statement = statement.strip()
 
@@ -161,15 +162,16 @@ class Statement(BaseRenderer):
 			renderInfo["indent"] += 1
 		if statementRender[-4:].lower() == "then":
 			renderInfo["tempIndent"] += 1
-		renderInfo["handle"].write("      {1}{0}\n".format(statementRender,indent))				# write it
+		initIndent = " " * 6
+		renderInfo["handle"].write("{2}{1}{0}\n".format(statementRender,indent,initIndent))		# write it
 
 # ***************************************************************************************************************************************************
 #														Program Line Object
 # ***************************************************************************************************************************************************
 
 class ProgramLine(BaseRenderer):
-	def __init__(self,lineNumber,lineSource,deTokeniser):
-		self.lineNumber = LineNumberToken(lineNumber) 											# save line number token
+	def __init__(self,lineNumber,lineSource,parseInfo):
+		self.lineNumber = LineNumberToken(lineNumber,parseInfo) 								# save line number token
 		inQuotes = False 																		# replace colons not in quotes with chr(1)
 		for i in range(0,len(lineSource)):
 			if lineSource[i] == '"':
@@ -180,7 +182,7 @@ class ProgramLine(BaseRenderer):
 				lineSource = lineSource[:i+1]+chr(1)+lineSource[i+1:]
 
 		lineSource = lineSource.split(chr(1))													# convert into multiple statements
-		self.lineParts = [Statement(x,deTokeniser) for x in lineSource]							# convert to list of objects
+		self.lineParts = [Statement(x,parseInfo) for x in lineSource]							# convert to list of objects
 
 	def render(self,renderInfo):
 		renderInfo["handle"].write(self.lineNumber.renderText(renderInfo)+"\n")
@@ -193,30 +195,31 @@ class ProgramLine(BaseRenderer):
 # ***************************************************************************************************************************************************
 
 class Program(BaseRenderer):
-	def __init__(self,programDumpName):
-		self.tokeniser = DeTokeniser()															# detokenising object
+	def __init__(self,programDumpName,parseInfo):
 		source = open(programDumpName,"rb").read(-1)											# read and convert to integers
 		source = [ord(s) for s in source]	
 		source = source[2:]																		# dump the first two characters
 		self.lines = [] 																		# array of lines.
-
+		parseInfo["variables"] = {} 															# hash of defined variables
 		ptr = 0x401 																			# code starts here.
 		while ptr != 0:
 			nextInstr = source[ptr+0]+source[ptr+1] * 256										# get link to next
 			if nextInstr != 0:																	# if non-zero decode and add instruction
 				lineNumber = source[ptr+2]+source[ptr+3]*256									# get current line number
 				ptr = ptr + 4 																	# Point to the tokenised code.
-				if source[ptr] != self.tokeniser.getREMToken() and lineNumber >= 154:			# Do not do comments or machine code dump.
+				if source[ptr] != 0x8F and lineNumber >= 154:									# Do not do comments or machine code dump.
 					line = ""																	# create the line
 					while source[ptr] != 0:
 						line = line+chr(source[ptr])
 						ptr = ptr + 1				
-					self.lines.append(ProgramLine(lineNumber,line,self.tokeniser))				# Create a line object
+					self.lines.append(ProgramLine(lineNumber,line,parseInfo))					# Create a line object
 			ptr = nextInstr 																	# go to next instruction.
 
 	def render(self,renderInfo):
 		for l in self.lines:																	# render every line
 			l.render(renderInfo)
+pi = {"tokeniser":TokenManager() }
+ri = { "handle":sys.stdout,"indent":0,"tempIndent":0 }
+dc = Program("apshai.mem",pi)
+dc.render(ri)
 
-dc = Program("apshai.mem")
-dc.render({ "handle":sys.stdout,"indent":0,"tempIndent":0 })
