@@ -1,0 +1,80 @@
+#
+#		Line Comments
+#
+154.Start:**$TEMPLE OF APSHAI;by Automated Simulations;reverse engineered by Paul Robson May 2016:Dimension arrays
+175:Read trap names
+181:Read monster drawing data
+190:Read sword animation data
+193:Read fatigue effects
+196:Read armour information
+208:Read characteristic information
+217:Set up attack action modifiers
+223:Read sword information
+226:Read shield information
+253:Read innkeeper response information
+268:Read text strings
+274.ReduceConstitution:*Lose one wound point, also reduce constitution
+277.SwitchToGraphicMode:*Switch the PET to Graphic Mode.
+280.UpdateWeight:*Update weight carried display
+283.PutMonsterInGameSpace:*Set Monster position in game space
+292.EraseMonsterMessageArea:*Erase the monster message area
+298.AnnounceArrowsFound:*Announce j arrows found
+301.AnnounceMonster:*Announce Monster a$ appears
+307.UpdateKillCount:*Update display of killed monsters
+310.FlashPlayer:*Animated effect for player hit.
+316.UpdateWounds:*Update Wounds Display
+322.GetDigit:*Get a number key press.
+331.UpdateArrows:*Update displayed arrows
+334.UpdateMagicArrows:*Update displayed magic arrows
+343.ClearLine10:*Clear the 10th line down in status area
+346.ClearDisplayedFlags:*Reset all room displayed flags
+349.PokeA$IntoScreenAtJ:*Poke string a$ into screen RAM at offset J, except first Character
+352.MoveToXY:*Move the cursor to x,y
+355.ClearGameArea:*Clear Game Area, not status
+358.DrawVerticalLine:*Draw Vertical Line
+382.EraseVerticalLine:*Erase Vertical Line
+409.DrawHorizontalLine:*Draw Horizontal Line
+427.EraseHorizontalLine:*Erase Horizontal Line
+445.DrawPlayer:*Draw Player on display
+448.ErasePlayer:*Erase Player on display
+451.DrawMonster:*Draw Monster
+460.EraseMonsterIfExists:*Erase Monster if one present
+463.EraseMonster:*Erase Monster
+466.DrawPixel:*Draw a Pixel
+469.FastDrawPixel:*Draw a Pixel without checking
+472.ErasePixel:*Erase a Pixel
+475.FastErasePixel:*Erase a Pixel without checking
+478.MonsterHitAnimation:*Graphic display when monster hit
+490.GetKey:*Gets key, with timed exit into c$, l is non-zero if key pressed.
+499.DrawEraseSword:*Draw or erase sword animation.
+508.UpdateFatigue:*Update the Fatigue Display
+520.TrapAnimation:*Do trap animation
+523.UpdateTreasureDisplay:*Update the treasure display in the current room.
+526.UpdateTreasureDisplayNoCheck:*Update the treasure display in the current room, no checking.
+538.TrapCheck:*Check for Trap fired
+559.ReadCurrentRoomData:*Read data for current room
+562.ReadRoomData:*Read data for given room
+571.CurrentMonsterName:*Get current monster name (unused ?)
+574.TitlePage:*Title Page
+601:Wait for key while randomising.
+607.Innkeeper:**Innkeeper code starts here
+634.NewCharacter:Not re-entering dungeon
+694.LoadDungeon:*Load Dungeon in from Disk/Tape
+733.BuyArmour:*Armour purchasing
+763.GeneratePlayerValue:*Generate one of the player characteristics
+766.CreateCharacter:*Create a character randomly
+793.InputCharacter:*Input a character manually.
+970.BuySword:*Sword purchasing code
+1030.BuyShield:*Shield purchasing code
+1072.BuyBow:*Bow purchasing code
+1105.BuySalves:*Salves purchasing code
+1129.AcceptCheckOffer:*Code inputs offer, and checks if it is acceptable.
+1174.NewRoom:**New Room drawing code
+1369.EnterDungeon:**Enter the dungeon, loading complete
+1933.ReEnterDungeon:*Option of re-entering the dungeon.
+1954.KilledByMonster:*Come here when killed by a monster
+1963.Eaten:*Been eaten and cannot be revived
+1969.FoundByCleric:*Found by Benedic the Cleric
+1972.FoundByMage:*Found by Lowenthal the Mage
+1975.FoundByDwarf:*Found by Olias the Dwarf
+1981.CapitaliseFirst:*Capitalise first letter of string

@@ -21,8 +21,8 @@ cc              screenRAM                       screen memory pointer.
 ch(             stats(                          Statistics intelligence,intuition,ego,strength,constituion,dexterity
 cp%(            initQualities(                  player levels (e.g. intelligence etc.) at start.
 d$              clear$                          used to clear buffer for repeat keys
-d1%(            doorLower                       Lower door position
-d2%(            doorUpper                       Upper door position
+d1%(            doorLower(                      Lower door position
+d2%(            doorUpper(                      Upper door position
 dr$             driveNumber$                    CBM Drive Number
 dr%             driveUsed                       drive used to load program
 ds(             shieldDexterityAdjust(          adjustment for shield on dexterity
@@ -89,16 +89,16 @@ mo              silver                          silver carried
 mp              monsterWounds                   Monster wounds
 mq              currentMonsterID                ID of current monster
 ms              monsterSize                     cannot get closer than this to boundary.
-mt%(            monsterTypeForRoom              which monster in this room
+mt%(            monsterTypeForRoom%(             which monster in this room
 n               id                              id of trap or treasure
 na$(            armourName$(                    name of armour
 nb              isMonsterActive                 Ongoing monster ?
 nc$(            statName$(                      Name of stat values.
 nm$             playerName$                     Player name
-no%(            roomInDir                       Room in each direction
+no%(            roomInDir(                      Room in each direction
 ns              noWall                          Don't draw a specific wall in room draw code
 ns$(            shieldName$(                    name of shields
-nt%(            exitRoom                        Room exit, 4 per room 3 secret, 1 open, 2 door, 0 closed
+nt%(            exitRoom(                       Room exit, 4 per room 3 secret, 1 open, 2 door, 0 closed
 nw$(            swordName$(                     sword names
 nx              nx
 ny              ny
@@ -106,7 +106,7 @@ o$              commandList$                    List of commands
 om              originalMoney                   original money (not used)
 oo              offer                           player offer for purchase
 p               attackEffect                    Damage done, potentially
-p%(             playerInRoom?(                  Player position in room
+p%(             ?playerInRoom(                  Player position in room
 p(              armourPrice(                    price of armour
 pa              defSkill                        Defensive skill
 pb              attSkill                        Attacking skill
@@ -127,7 +127,7 @@ rs%(            magicalItems%(                  number of magical items
 rt              totalResponseProbability        total of all response probabilities
 rt%(            roomOnScreen%(                  Non zero if room drawn on screen
 s               arrowDir                        Arrow direction (partial)
-s%(             roomSize%?(                     Size of room
+s%(             ?roomSize%(                     Size of room
 sc              charTotal                       Sum of all the characteristics of the player
 sd$(            textPrompt$(                    text prompts
 sd(             swordTypeToID(                  converts a bought sword to the ID type (bodge ?)

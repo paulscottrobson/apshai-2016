@@ -81,7 +81,7 @@ class StringToken(BaseRenderer):
 			self.characters = self.characters + c 
 
 	def renderText(self,renderInfo):
-		return '"'+self.characters.upper()+'"'
+		return '"'+self.characters+'"'
 
 # ***************************************************************************************************************************************************
 #														Variable Object
@@ -91,7 +91,7 @@ class VariableToken(BaseRenderer):
 	def __init__(self,variable,parseInfo):
 		self.variable = variable.lower()
 	def renderText(self,renderInfo):
-		return self.variable.lower()
+		return renderInfo["variableMapper"].vmap(self.variable)
 
 # ***************************************************************************************************************************************************
 #														Linenumber Object
@@ -101,7 +101,7 @@ class LineNumberToken(BaseRenderer):
 	def __init__(self,lineNumber,parseInfo):
 		self.lineNumber = lineNumber
 	def renderText(self,renderInfo):
-		return str(self.lineNumber)
+		return renderInfo["commentManager"].lmap(self.lineNumber)
 
 # ***************************************************************************************************************************************************
 #														Statement Object
@@ -122,6 +122,7 @@ class Statement(BaseRenderer):
 						line = re.match("^(\d+)",statement).group(1)							# get line number
 						statement = statement[len(line):].strip()								# remove the line number
 						self.tokens.append(LineNumberToken(int(line),parseInfo))				# add the token
+						parseInfo["goto"][int(line)] = True 									# record it as being accessed.
 						if statement != "" and statement[0] == ",":								# , seperated numbers
 							self.tokens.append(CharacterToken(",",parseInfo))
 							statement = statement[1:]
@@ -162,7 +163,7 @@ class Statement(BaseRenderer):
 			renderInfo["indent"] += 1
 		if statementRender[-4:].lower() == "then":
 			renderInfo["tempIndent"] += 1
-		initIndent = " " * 6
+		initIndent = " " * renderInfo["firstIndent"]
 		renderInfo["handle"].write("{2}{1}{0}\n".format(statementRender,indent,initIndent))		# write it
 
 # ***************************************************************************************************************************************************
@@ -172,6 +173,7 @@ class Statement(BaseRenderer):
 class ProgramLine(BaseRenderer):
 	def __init__(self,lineNumber,lineSource,parseInfo):
 		self.lineNumber = LineNumberToken(lineNumber,parseInfo) 								# save line number token
+		self.intLineNumber = lineNumber
 		inQuotes = False 																		# replace colons not in quotes with chr(1)
 		for i in range(0,len(lineSource)):
 			if lineSource[i] == '"':
@@ -185,7 +187,9 @@ class ProgramLine(BaseRenderer):
 		self.lineParts = [Statement(x,parseInfo) for x in lineSource]							# convert to list of objects
 
 	def render(self,renderInfo):
-		renderInfo["handle"].write(self.lineNumber.renderText(renderInfo)+"\n")
+		renderInfo["commentManager"].render(self.intLineNumber,renderInfo)
+		if self.intLineNumber in renderInfo["linesToRender"]:
+			renderInfo["handle"].write(self.lineNumber.renderText(renderInfo)+"\n")
 		for p in self.lineParts:
 			p.render(renderInfo)
 		renderInfo["tempIndent"] = 0		
@@ -201,6 +205,7 @@ class Program(BaseRenderer):
 		source = source[2:]																		# dump the first two characters
 		self.lines = [] 																		# array of lines.
 		parseInfo["variables"] = {} 															# hash of defined variables
+		parseInfo["goto"] = {} 																	# hash of accessed lines.
 		ptr = 0x401 																			# code starts here.
 		while ptr != 0:
 			nextInstr = source[ptr+0]+source[ptr+1] * 256										# get link to next
@@ -214,12 +219,107 @@ class Program(BaseRenderer):
 						ptr = ptr + 1				
 					self.lines.append(ProgramLine(lineNumber,line,parseInfo))					# Create a line object
 			ptr = nextInstr 																	# go to next instruction.
+		self.accessedLines = parseInfo["goto"] 													# save accessed lines.
 
 	def render(self,renderInfo):
+		renderInfo["linesToRender"] = self.accessedLines										# these lines are referred to by GOTO/GOSUB
 		for l in self.lines:																	# render every line
 			l.render(renderInfo)
+
+# ***************************************************************************************************************************************************
+#													Variable mapping object
+# ***************************************************************************************************************************************************
+
+class VariableMapper:
+	def __init__(self):
+		self.map = {}
+		src = [x.strip() for x in open("apshai.variables").readlines() if (x+" ")[0] != '#']	# read source
+		for l in src:																			# read variables from source
+			m = re.match("^([a-zA-Z]\\w?\\$?\\%?\\(?)\\s+(\\??[_a-zA-Z][\\w\\_]*\\$?\\%?\\(?)",l)
+			assert m is not None
+			self.map[m.group(1).lower()] = m.group(2)
+			if m.group(1)[-1] == "(" and m.group(2)[-1] != "(":
+				assert False,"Bracket imbalance "+l 
+	def vmap(self,var):
+		return self.map[var.lower()] if var.lower() in self.map else var
+
+# ***************************************************************************************************************************************************
+#														Comment object
+# ***************************************************************************************************************************************************
+
+class Comment:
+	def __init__(self,line,label):
+		self.lineNumber = line
+		self.label = label 
+		self.comments = []
+	def add(self,comment):
+		self.comments.append(comment.strip())
+	def getLabel(self):
+		return self.label
+	def render(self,renderInfo):
+		for c in self.comments:
+			self.renderComment(c.strip(),renderInfo)
+
+	def renderComment(self,comment,renderInfo):
+		if comment[0] == "$" or comment[0] == "*":												# not a bars comment.
+			spaces = ""
+			bars = ""
+			while comment[0] == '$' or comment[0] == "*":
+				if comment[0] == '$':
+					spaces = spaces + "\n"
+				else:
+					bars = bars +(" "*renderInfo["firstIndent"])+("*" * renderInfo["commentWidth"]) + "\n"
+				comment = comment[1:].strip()
+			renderInfo["handle"].write(bars+spaces)
+			self.renderSimpleComment(comment,renderInfo,False)
+			renderInfo["handle"].write(spaces+bars)
+
+		else:
+			self.renderSimpleComment(comment,renderInfo,True)
+
+	def renderSimpleComment(self,comment,renderInfo,bars):
+		for l in comment.split(";"):
+			if l.strip() != "":
+				if bars:
+					l = "---  "+l+"  ---"
+				renderInfo["handle"].write("{0}{1}{2}\n".format(" "*renderInfo["firstIndent"]," " * (renderInfo["commentWidth"]/2-len(l)/2),l))
+		pass
+
+# ***************************************************************************************************************************************************
+#													Comment Manager object
+# ***************************************************************************************************************************************************
+
+class CommentManager:
+	def __init__(self):
+		src = [x.strip() for x in open("apshai.comments").readlines() if (x+" ")[0] != '#']		# read source
+		src = [x.replace("\t"," ") for x in src if x != ""]										# remove tabs and empty lines
+		self.comments = {}
+		for l in src:																			# for each line
+			m = re.match("^(\d+)(.*)$",l)														# look at the numbers
+			currentLine = int(m.group(1))														# get line number
+			l = m.group(2).strip()																# rest of line.
+			label = ""
+			if l[0] == '.':																		# label provided.
+				label = l[:(l+":").find(":")][1:]												# extract it
+				l = l[len(label)+1:].strip()													# remove from line.
+			assert currentLine not in self.comments
+			self.comments[currentLine] = Comment(currentLine,label)								# create object.
+			if l != "":
+				assert l[0] == ':'																# check first colon				
+				for c in l[1:].split(":"):														# add comments to comment object
+					self.comments[currentLine].add(c)
+
+	def lmap(self,lineNumber):
+		name = str(lineNumber)																	# use line number by default
+		if lineNumber in self.comments and self.comments[lineNumber].getLabel() != "":			# label present
+			name = self.comments[lineNumber].getLabel()+"@"+str(lineNumber)						# create full label
+		return name 
+
+	def render(self,lineNumber,renderInfo):
+		if lineNumber in self.comments:
+			self.comments[lineNumber].render(renderInfo)
+
 pi = {"tokeniser":TokenManager() }
-ri = { "handle":sys.stdout,"indent":0,"tempIndent":0 }
+ri = { "handle":sys.stdout,"indent":0,"tempIndent":0,"variableMapper":VariableMapper(),"commentManager":CommentManager(),"firstIndent":8,"commentWidth":116 }
 dc = Program("apshai.mem",pi)
 dc.render(ri)
-
