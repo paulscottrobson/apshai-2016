@@ -110,6 +110,7 @@ class LineNumberToken(BaseRenderer):
 class Statement(BaseRenderer):
 	def __init__(self,statement,parseInfo):
 		self.tokens = [] 																		# all tokens in this statement
+		self.characteristic = "intelligence,intuition,ego,strength,constitution,dexterity".split(",")
 		statement = statement.strip()
 		while statement != "":																	# more to render.
 			ch = ord(statement[0])
@@ -151,6 +152,10 @@ class Statement(BaseRenderer):
 		for t in self.tokens:																	# build line
 			statementRender = statementRender + t.renderText(renderInfo)
 		statementRender = statementRender.strip()												# remove end spaces
+
+		for i in range(1,7):																	# characteristic processing
+			statementRender = statementRender.replace("stats({0})".format(i),"stats."+self.characteristic[i-1])
+
 		while statementRender.find("  ") >= 0:													# remove superfluous spaces
 			statementRender = statementRender.replace("  "," ")						
 		statementRender = statementRender.replace(" (","(").replace("( ","(")
@@ -188,7 +193,7 @@ class ProgramLine(BaseRenderer):
 
 	def render(self,renderInfo):
 		renderInfo["commentManager"].render(self.intLineNumber,renderInfo)
-		if self.intLineNumber in renderInfo["linesToRender"]:
+		if self.intLineNumber in renderInfo["linesToRender"] or renderInfo["renderAllLineNumbers"]:
 			renderInfo["handle"].write(self.lineNumber.renderText(renderInfo)+"\n")
 		for p in self.lineParts:
 			p.render(renderInfo)
@@ -321,5 +326,6 @@ class CommentManager:
 
 pi = {"tokeniser":TokenManager() }
 ri = { "handle":sys.stdout,"indent":0,"tempIndent":0,"variableMapper":VariableMapper(),"commentManager":CommentManager(),"firstIndent":8,"commentWidth":116 }
+ri["renderAllLineNumbers"] = True
 dc = Program("apshai.mem",pi)
 dc.render(ri)

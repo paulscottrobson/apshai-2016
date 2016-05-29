@@ -14,7 +14,7 @@
 253:Read innkeeper response information
 268:Read text strings
 274.ReduceConstitution:*Lose one wound point, also reduce constitution
-277.SwitchToGraphicMode:*Switch the PET to Graphic Mode.
+277.BlinkDisplay:*Blink display by switch gfx modes, used for hit effect
 280.UpdateWeight:*Update weight carried display
 283.PutMonsterInGameSpace:*Set Monster position in game space
 292.EraseMonsterMessageArea:*Erase the monster message area
@@ -24,6 +24,7 @@
 310.FlashPlayer:*Animated effect for player hit.
 316.UpdateWounds:*Update Wounds Display
 322.GetDigit:*Get a number key press.
+328.DoNothing:Returns immediately
 331.UpdateArrows:*Update displayed arrows
 334.UpdateMagicArrows:*Update displayed magic arrows
 343.ClearLine10:*Clear the 10th line down in status area
@@ -61,16 +62,68 @@
 634.NewCharacter:Not re-entering dungeon
 694.LoadDungeon:*Load Dungeon in from Disk/Tape
 733.BuyArmour:*Armour purchasing
+757.AcceptArmourOffer:*Complete Armour purchase
 763.GeneratePlayerValue:*Generate one of the player characteristics
 766.CreateCharacter:*Create a character randomly
+784.ResetSkillLevels:*Reset the skill levels
+790.ResetSIUnused:Reset the unused __si%() array.
 793.InputCharacter:*Input a character manually.
+889.StatsFixUp:*Some sort of stats fixing up I don't understand yet.
 970.BuySword:*Sword purchasing code
+1012.CalculateSwordInfo:*Calculate all sword info
+1015.CalculateSwordMPower:*Calculate magic power.
+1027.ClearSword:*Set sword type to none
 1030.BuyShield:*Shield purchasing code
+1051.CalculateShieldInfo:*Calculate all shield info
+1063.CalculateShieldMPower:*Calculate magic power
 1072.BuyBow:*Bow purchasing code
 1105.BuySalves:*Salves purchasing code
 1129.AcceptCheckOffer:*Code inputs offer, and checks if it is acceptable.
-1174.NewRoom:**New Room drawing code
+1174.RedrawDisplay:*Redraw the whole display
+1192.RedrawRoomSpace:*Redraw room space without clearing
+1225.CreateRoomMonster:*Create Monster for this room
+1240.CreateChanceMonster:*Create Monster by chance
+1252.CheckCreateChanceMonster:*Check if we will create a monster by chance
+1258.DrawSingleRoom:*Draw a single room
+1306.RefreshCharacterStatus:*Refresh the character status area.
+1342.InnkeeperAnnoyed:*Innkeeper response after lower offer than before.
+1354.InnkeeperReject:*Innkeeper rejects offer
+1360.CalculateInnkeperNegotiation:*Make innkeepers counter offer.
 1369.EnterDungeon:**Enter the dungeon, loading complete
+1375.EnterNewRoom:*Go into a new room
+1381.MainLoop:*Main Game Loop
+1399.PlayerMove:*Player movement
+1438.CheckLeave:*Check if player has left room
+1474.MoveNow:*Actually move player
+1507.Command-R:*Turn Right
+1513.Command-L:*Turn Left
+1519.Command-V:*Turn Round
+1522.UpdatePlayerAndLoop:Update Player and loop round
+1525.Command-ATPFM:*Attack Thrust Parry Fire Magic
+1531.Command-ATP:*Attack Thrust Parry
+1552.Command-M:*Fire Magic Arrow
+1558.Command-F:*Fire Normal Arrow
+1564.ArrowCode:*Arrow firing code (both types)
+1597.Command-O:*Open door
+1612.OpenDoorRight:*Open door right
+1618.OpenDoorLeft:*Open door left
+1621.OpenDoorUp:*Open door up
+1627.OpenDoorDown:*Open door down
+1630.ShowNothing:*Display Nothing in Status Area
+1633.Command-E:*Examine for secret door
+1645.Command-G:*Grab treasure
+1705.Command-D:*Drop treasure
+1726.Command-Pling:*Talk to monster
+1732.Command-H:*Apply Healing Salve
+1738.HealPlayer:Heal Player by J
+1744.Command-Y:*Drink Elixir
+1750.Command-Q:*Query for Monsters
+1762.Command-S:*Search for traps
+1771.MonsterTurn:**Monsters turn code.
+1828.MonsterMove:*Monster moving code
+1906.CalculateNegotiationSkill:*Calculates the negotiation skill on re-entry (?)
+1915.ListTreasures:*List treasures collected and sell them for more gold
+1927.ClearTreasures:*Clear treasures collected
 1933.ReEnterDungeon:*Option of re-entering the dungeon.
 1954.KilledByMonster:*Come here when killed by a monster
 1963.Eaten:*Been eaten and cannot be revived
